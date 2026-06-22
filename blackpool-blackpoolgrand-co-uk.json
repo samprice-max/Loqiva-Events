@@ -11,7 +11,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238816",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-25 10:30:00",
-    "end_date": null,
+    "end_date": "2026-06-25 12:30:00",
     "category": 1
   },
   {
@@ -26,7 +26,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238817",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-25 13:30:00",
-    "end_date": null,
+    "end_date": "2026-06-25 15:30:00",
     "category": 1
   },
   {
@@ -41,7 +41,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238819",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-26 10:30:00",
-    "end_date": null,
+    "end_date": "2026-06-26 12:30:00",
     "category": 5
   },
   {
@@ -56,7 +56,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238818",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-26 13:30:00",
-    "end_date": null,
+    "end_date": "2026-06-26 15:30:00",
     "category": 1
   },
   {
@@ -71,7 +71,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238820",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-27 13:30:00",
-    "end_date": null,
+    "end_date": "2026-06-27 15:30:00",
     "category": 1
   },
   {
@@ -86,7 +86,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238821",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-27 16:30:00",
-    "end_date": null,
+    "end_date": "2026-06-27 18:30:00",
     "category": 5
   },
   {
@@ -101,7 +101,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1122616",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-06-28 19:30:00",
-    "end_date": null,
+    "end_date": "2026-06-28 20:45:00",
     "category": 5
   },
   {
@@ -116,7 +116,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270018",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-03 19:00:00",
-    "end_date": null,
+    "end_date": "2026-07-03 21:00:00",
     "category": 1
   },
   {
@@ -131,7 +131,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270017",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-04 14:00:00",
-    "end_date": null,
+    "end_date": "2026-07-04 16:00:00",
     "category": 1
   },
   {
@@ -146,7 +146,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270019",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-04 19:00:00",
-    "end_date": null,
+    "end_date": "2026-07-04 21:00:00",
     "category": 1
   },
   {
@@ -176,7 +176,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1233016",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-07 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-07 21:30:00",
     "category": 1
   },
   {
@@ -191,7 +191,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1213816",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-08 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-08 21:30:00",
     "category": 1
   },
   {
@@ -206,7 +206,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1201216",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-09 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-09 21:30:00",
     "category": 1
   },
   {
@@ -221,7 +221,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198818",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-11 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-11 16:30:00",
     "category": 1
   },
   {
@@ -236,7 +236,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198820",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-11 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-11 21:30:00",
     "category": 1
   },
   {
@@ -251,7 +251,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198819",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-12 15:00:00",
-    "end_date": null,
+    "end_date": "2026-07-12 17:00:00",
     "category": 1
   },
   {
@@ -266,7 +266,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169016",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-14 16:30:00",
-    "end_date": null,
+    "end_date": "2026-07-14 18:30:00",
     "category": 1
   },
   {
@@ -281,7 +281,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169017",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-15 10:30:00",
-    "end_date": null,
+    "end_date": "2026-07-15 12:30:00",
     "category": 1
   },
   {
@@ -296,7 +296,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169018",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-15 13:30:00",
-    "end_date": null,
+    "end_date": "2026-07-15 15:30:00",
     "category": 1
   },
   {
@@ -341,7 +341,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1098216",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-17 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-17 21:30:00",
     "category": 29
   },
   {
@@ -371,7 +371,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1163016",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-18 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-18 21:30:00",
     "category": 1
   },
   {
@@ -386,7 +386,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167217",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-21 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-21 21:30:00",
     "category": 1
   },
   {
@@ -401,7 +401,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167218",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-22 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-22 21:30:00",
     "category": 1
   },
   {
@@ -416,7 +416,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167216",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-23 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-23 16:30:00",
     "category": 1
   },
   {
@@ -431,7 +431,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167219",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-23 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-23 20:45:00",
     "category": 5
   },
   {
@@ -446,13 +446,13 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167220",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-24 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-24 21:30:00",
     "category": 1
   },
   {
     "id": 2061193080,
     "title": "Return To The Forest",
-    "description": "<p>A museum, a heist and a magical forest that comes alive through dance, puppetry and play – inviting us to reflect on what we treasure and how we connect…</p><p>Precious treasures are on display in a museum, but remember – strictly no touching! Dusk falls, and the museum is getting ready to close, but something is beginning to stir. Only a few visitors remain. These precious objects seem to call to them, yearning to be freed… Is this a heist happening in front of your eyes? Can it really be a heist when the objects are leading the way?</p><p>Celebrating their 30th birthday in 2026, Theatre-Rites are renowned for creating playful and meaningful productions for children and adults alike. For Return to the Forest, they collaborate once again with the award-winning South African Choreographer Gregory Maqoma.</p><p>Led by Maqoma’s high-energy movement and the magical puppetry of Director Sue Buckmaster (Chotto Desh), Return to the Forest journeys from a museum into the heart of a wild and magical forest, full of life and wonder. Who will we meet along the way?</p><p>After captivating audiences across the world, these incredible artists will team up for a playful and thought-provoking encounter. Combining dance and puppetry to dazzling effect, Return to the Forest is an invitation to imagine what is precious and how we care for it.</p><p>“Theatre-Rites, a company of genuine originality and flair” - The Guardian</p><p>A Theatre-Rites and Factory International co-production, co-commissioned by Sadler’s Wells. Created as an immersive production for Manchester and London and adapted by Theatre-Rites for Blackpool Grand’s stage</p><p>If you love Family shows, see what else we have coming to Blackpool Grand Theatre this season <a href=\"https://www.blackpoolgrand.co.uk/events?category%5B%5D=family\">HERE</a></p>",
+    "description": "<p>A museum, a heist and a magical forest that comes alive through dance, puppetry and play – inviting us to reflect on what we treasure and how we connect…</p><p>Precious treasures are on display in a museum, but remember – strictly no touching! Dusk falls, and the museum is getting ready to close, but something is beginning to stir. Only a few visitors remain. These precious objects seem to call to them, yearning to be freed… Is this a heist happening in front of your eyes? Can it really be a heist when the objects are leading the way?</p><p>Celebrating their 30th birthday in 2026, Theatre-Rites are renowned for creating playful and meaningful productions for children and adults alike. For Return to the Forest, they collaborate once again with the award-winning South African Choreographer Gregory Maqoma.</p><p>Led by Maqoma’s high-energy movement and the magical puppetry of Director Sue Buckmaster (Chotto Desh), Return to the Forest journeys from a museum into the heart of a wild and magical forest, full of life and wonder. Who will we meet along the way?</p><p>After captivating audiences across the world, these incredible artists will team up for a playful and thought-provoking encounter. Combining dance and puppetry to dazzling effect, Return to the Forest is an invitation to imagine what is precious and how we care for it.</p><p>“Theatre-Rites, a company of genuine originality and flair” - The Guardian</p><p>A Theatre-Rites and Factory International co-production, co-commissioned by Sadler’s Wells. Created as an immersive production for Manchester and London and adapted by Theatre-Rites for Blackpool Grand’s stage</p><p>If you love Family shows, see what else we have coming to Blackpool Grand Theatre this season <a href=\"https://www.blackpoolgrand.co.uk/events?category%5B%5D=family\">HERE</a></p>",
     "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
     "longitude": 53.7945283,
     "latitude": -3.0572824,
@@ -461,7 +461,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167222",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-25 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-25 16:30:00",
     "category": 5
   },
   {
@@ -476,7 +476,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167221",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-25 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-25 21:30:00",
     "category": 1
   },
   {
@@ -521,7 +521,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205616",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-29 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-29 21:30:00",
     "category": 1
   },
   {
@@ -536,7 +536,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205816",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-30 14:00:00",
-    "end_date": null,
+    "end_date": "2026-07-30 16:00:00",
     "category": 1
   },
   {
@@ -551,7 +551,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206016",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-30 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-30 21:30:00",
     "category": 1
   },
   {
@@ -566,7 +566,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206216",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-07-31 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-31 21:30:00",
     "category": 1
   },
   {
@@ -581,7 +581,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206416",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-01 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-01 15:15:00",
     "category": 5
   },
   {
@@ -596,7 +596,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206217",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-01 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-01 21:30:00",
     "category": 1
   },
   {
@@ -611,7 +611,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206616",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-04 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-04 21:30:00",
     "category": 5
   },
   {
@@ -626,7 +626,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206816",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-05 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-05 16:00:00",
     "category": 5
   },
   {
@@ -641,7 +641,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206617",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-05 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-05 21:30:00",
     "category": 1
   },
   {
@@ -656,7 +656,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206817",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-06 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-06 16:00:00",
     "category": 1
   },
   {
@@ -671,7 +671,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206618",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-06 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-06 21:30:00",
     "category": 1
   },
   {
@@ -686,7 +686,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206619",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-07 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-07 21:30:00",
     "category": 1
   },
   {
@@ -701,7 +701,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206818",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-08 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-08 16:00:00",
     "category": 1
   },
   {
@@ -716,7 +716,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206620",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-08 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-08 21:30:00",
     "category": 1
   },
   {
@@ -776,7 +776,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249016",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-19 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-19 21:00:00",
     "category": 1
   },
   {
@@ -791,7 +791,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249017",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-20 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-20 21:00:00",
     "category": 1
   },
   {
@@ -806,7 +806,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249416",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-21 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-21 16:00:00",
     "category": 29
   },
   {
@@ -821,7 +821,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249018",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-21 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-21 21:00:00",
     "category": 29
   },
   {
@@ -836,7 +836,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249216",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-22 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-22 16:00:00",
     "category": 29
   },
   {
@@ -851,952 +851,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249019",
     "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
     "start_date": "2026-08-22 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 559313968,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238816",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-25 10:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 731055747,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238817",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-25 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 132134550,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238819",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-26 10:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3207259600,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238818",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-26 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2878998392,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238820",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-27 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1836546523,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238821",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-27 16:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 4208855281,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1122616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-28 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 4157714165,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270018",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-03 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3654723295,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270017",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-04 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2981221792,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270019",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-04 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2620441543,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1241616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-05 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 360190099,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1233016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-07 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3902228344,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1213816",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-08 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1753908790,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1201216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-09 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2922547331,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198818",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-11 14:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1211879005,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198820",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-11 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2972502541,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198819",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-12 15:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3428524824,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-14 16:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2070215125,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169017",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-15 10:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 735353492,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169018",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-15 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3005481901,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1230016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-16 13:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 4237157637,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1230216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-16 14:15:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 409182976,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1098216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-17 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 409182976,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1259416",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-17 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1680444016,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1163016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-18 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2937885534,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167217",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-21 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3121641424,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167218",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-22 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2198020396,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-23 14:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 563745786,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167219",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-23 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2420855760,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167220",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-24 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2061193080,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167222",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-25 14:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3019146279,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167221",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-25 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1965864550,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1229616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-25 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 769654236,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1217616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-30 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3057881936,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-29 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2543605870,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205816",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-30 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1365538327,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-30 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 44811632,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-07-31 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3622504302,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206416",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-01 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1878104896,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206217",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-01 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3802189059,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206616",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-04 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2410348936,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206816",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-05 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2472076056,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206617",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-05 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 452215076,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206817",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-06 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1708546642,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206618",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-06 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 4033146018,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206619",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-07 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1796610475,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206818",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-08 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3722332618,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206620",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-08 19:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2423833308,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1218621",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-05 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3856558018,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1220418",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-06 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3214559198,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1220217",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-08 12:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3343732979,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249016",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-19 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 261673648,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249017",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-20 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2634993873,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249416",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-21 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3070817493,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249018",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-21 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2160221626,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249216",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-22 14:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3472450216,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249019",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-08-22 19:00:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 559313968,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238816",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-25 10:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 731055747,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238817",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-25 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 132134550,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238819",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-26 10:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 3207259600,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238818",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-26 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 2878998392,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238820",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-27 13:30:00",
-    "end_date": null,
-    "category": 29
-  },
-  {
-    "id": 1836546523,
-    "title": "Return To The Forest",
-    "description": "<p>A captivating performance taking audiences into an enchanting forest.</p>",
-    "address": "Blackpool Grand Theatre, 33 Church St, Blackpool FY1 1HT, UK",
-    "longitude": 53.7945283,
-    "latitude": -3.0572824,
-    "venue_name": "Blackpool Grand Theatre",
-    "image_url": "https://www.blackpoolgrand.co.uk/app/uploads/2026/03/1080x1080.jpg",
-    "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1238821",
-    "url": "https://www.blackpoolgrand.co.uk/event/return-to-the-forest",
-    "start_date": "2026-06-27 16:30:00",
-    "end_date": null,
+    "end_date": "2026-08-22 21:00:00",
     "category": 29
   },
   {
@@ -1811,7 +866,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1122616",
     "url": "https://www.blackpoolgrand.co.uk/event/think-floyd",
     "start_date": "2026-06-28 19:30:00",
-    "end_date": null,
+    "end_date": "2026-06-28 21:30:00",
     "category": 29
   },
   {
@@ -1826,7 +881,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270018",
     "url": "https://www.blackpoolgrand.co.uk/event/avr-dance-show",
     "start_date": "2026-07-03 19:00:00",
-    "end_date": null,
+    "end_date": "2026-07-03 21:00:00",
     "category": 1
   },
   {
@@ -1841,7 +896,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270017",
     "url": "https://www.blackpoolgrand.co.uk/event/avr-dance-show",
     "start_date": "2026-07-04 14:00:00",
-    "end_date": null,
+    "end_date": "2026-07-04 16:00:00",
     "category": 1
   },
   {
@@ -1856,7 +911,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1270019",
     "url": "https://www.blackpoolgrand.co.uk/event/avr-dance-show",
     "start_date": "2026-07-04 19:00:00",
-    "end_date": null,
+    "end_date": "2026-07-04 21:00:00",
     "category": 1
   },
   {
@@ -1871,7 +926,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/event/heritage-tour-afternoon-tea-5th-july-2026",
     "url": "https://www.blackpoolgrand.co.uk/event/heritage-tour-afternoon-tea-5th-july-2026",
     "start_date": "2026-07-05 00:00:00",
-    "end_date": "2026-07-05 00:00:00",
+    "end_date": "2026-07-05 02:00:00",
     "category": 14
   },
   {
@@ -1886,7 +941,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1233016",
     "url": "https://www.blackpoolgrand.co.uk/event/preston-dance-college-summer-showcase",
     "start_date": "2026-07-07 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-07 21:30:00",
     "category": 1
   },
   {
@@ -1901,7 +956,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/event/its-not-a-game",
     "url": "https://www.blackpoolgrand.co.uk/event/its-not-a-game",
     "start_date": "2026-07-08 00:00:00",
-    "end_date": "2026-07-08 00:00:00",
+    "end_date": "2026-07-08 02:00:00",
     "category": 29
   },
   {
@@ -1916,7 +971,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1201216",
     "url": "https://www.blackpoolgrand.co.uk/event/80s-live",
     "start_date": "2026-07-09 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-09 21:30:00",
     "category": 29
   },
   {
@@ -1931,7 +986,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198818",
     "url": "https://www.blackpoolgrand.co.uk/event/nw1-10th-anniversary-show",
     "start_date": "2026-07-11 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-11 16:30:00",
     "category": 29
   },
   {
@@ -1946,7 +1001,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198820",
     "url": "https://www.blackpoolgrand.co.uk/event/nw1-10th-anniversary-show",
     "start_date": "2026-07-11 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-11 21:30:00",
     "category": 29
   },
   {
@@ -1961,7 +1016,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1198819",
     "url": "https://www.blackpoolgrand.co.uk/event/nw1-10th-anniversary-show",
     "start_date": "2026-07-12 15:00:00",
-    "end_date": null,
+    "end_date": "2026-07-12 17:00:00",
     "category": 29
   },
   {
@@ -1976,7 +1031,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169016",
     "url": "https://www.blackpoolgrand.co.uk/event/the-tiger-who-came-to-tea",
     "start_date": "2026-07-14 16:30:00",
-    "end_date": null,
+    "end_date": "2026-07-14 18:30:00",
     "category": 29
   },
   {
@@ -1991,7 +1046,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169017",
     "url": "https://www.blackpoolgrand.co.uk/event/the-tiger-who-came-to-tea",
     "start_date": "2026-07-15 10:30:00",
-    "end_date": null,
+    "end_date": "2026-07-15 12:30:00",
     "category": 29
   },
   {
@@ -2006,7 +1061,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1169018",
     "url": "https://www.blackpoolgrand.co.uk/event/the-tiger-who-came-to-tea",
     "start_date": "2026-07-15 13:30:00",
-    "end_date": null,
+    "end_date": "2026-07-15 15:30:00",
     "category": 29
   },
   {
@@ -2021,7 +1076,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/event/theatre-heritage-tour-grand-opulence-july",
     "url": "https://www.blackpoolgrand.co.uk/event/theatre-heritage-tour-grand-opulence-july",
     "start_date": "2026-07-16 00:00:00",
-    "end_date": "2026-07-16 00:00:00",
+    "end_date": "2026-07-16 02:00:00",
     "category": 21
   },
   {
@@ -2036,7 +1091,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1098216",
     "url": "https://www.blackpoolgrand.co.uk/event/the-rocket-man",
     "start_date": "2026-07-17 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-17 21:30:00",
     "category": 29
   },
   {
@@ -2051,7 +1106,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1259416",
     "url": "https://www.blackpoolgrand.co.uk/event/going-viral-silver-surfers-vs-tiktok-teens",
     "start_date": "2026-07-17 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-17 21:30:00",
     "category": 28
   },
   {
@@ -2066,7 +1121,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1163016",
     "url": "https://www.blackpoolgrand.co.uk/event/an-evening-with-jimmy-tarbuck-2",
     "start_date": "2026-07-18 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-18 21:30:00",
     "category": 29
   },
   {
@@ -2081,7 +1136,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167217",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-21 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-21 21:30:00",
     "category": 21
   },
   {
@@ -2096,7 +1151,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167218",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-22 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-22 21:30:00",
     "category": 21
   },
   {
@@ -2111,7 +1166,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167216",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-23 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-23 16:30:00",
     "category": 21
   },
   {
@@ -2126,7 +1181,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167219",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-23 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-23 21:30:00",
     "category": 21
   },
   {
@@ -2141,7 +1196,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167220",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-24 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-24 21:30:00",
     "category": 21
   },
   {
@@ -2156,7 +1211,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167222",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-25 14:30:00",
-    "end_date": null,
+    "end_date": "2026-07-25 16:30:00",
     "category": 21
   },
   {
@@ -2171,7 +1226,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1167221",
     "url": "https://www.blackpoolgrand.co.uk/event/9-to-5-the-musical",
     "start_date": "2026-07-25 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-25 21:30:00",
     "category": 21
   },
   {
@@ -2186,7 +1241,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/event/afternoon-tea-july-2026",
     "url": "https://www.blackpoolgrand.co.uk/event/afternoon-tea-july-2026",
     "start_date": "2026-07-25 00:00:00",
-    "end_date": "2026-07-30 00:00:00",
+    "end_date": "2026-07-25 02:00:00",
     "category": 29
   },
   {
@@ -2201,7 +1256,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205616",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-07-29 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-29 21:30:00",
     "category": 21
   },
   {
@@ -2216,7 +1271,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1205816",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-07-30 14:00:00",
-    "end_date": null,
+    "end_date": "2026-07-30 16:00:00",
     "category": 21
   },
   {
@@ -2231,7 +1286,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206016",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-07-30 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-30 21:30:00",
     "category": 21
   },
   {
@@ -2246,7 +1301,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206216",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-07-31 19:30:00",
-    "end_date": null,
+    "end_date": "2026-07-31 21:30:00",
     "category": 21
   },
   {
@@ -2261,7 +1316,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206416",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-01 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-01 16:00:00",
     "category": 21
   },
   {
@@ -2276,7 +1331,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206217",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-01 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-01 21:30:00",
     "category": 21
   },
   {
@@ -2291,7 +1346,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206616",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-04 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-04 21:30:00",
     "category": 21
   },
   {
@@ -2306,7 +1361,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206816",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-05 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-05 16:00:00",
     "category": 21
   },
   {
@@ -2321,7 +1376,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206617",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-05 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-05 21:30:00",
     "category": 21
   },
   {
@@ -2336,7 +1391,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206817",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-06 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-06 16:00:00",
     "category": 21
   },
   {
@@ -2351,7 +1406,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206618",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-06 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-06 21:30:00",
     "category": 21
   },
   {
@@ -2366,7 +1421,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206619",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-07 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-07 21:30:00",
     "category": 21
   },
   {
@@ -2381,7 +1436,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206818",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-08 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-08 16:00:00",
     "category": 21
   },
   {
@@ -2396,7 +1451,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1206620",
     "url": "https://www.blackpoolgrand.co.uk/event/summer-holiday",
     "start_date": "2026-08-08 19:30:00",
-    "end_date": null,
+    "end_date": "2026-08-08 21:30:00",
     "category": 21
   },
   {
@@ -2411,7 +1466,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/event/afternoon-tea-august-2026",
     "url": "https://www.blackpoolgrand.co.uk/event/afternoon-tea-august-2026",
     "start_date": "2026-08-05 00:00:00",
-    "end_date": "2026-08-08 00:00:00",
+    "end_date": "2026-08-05 02:00:00",
     "category": 29
   },
   {
@@ -2426,7 +1481,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249016",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-19 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-19 21:00:00",
     "category": 28
   },
   {
@@ -2441,7 +1496,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249017",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-20 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-20 21:00:00",
     "category": 28
   },
   {
@@ -2456,7 +1511,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249416",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-21 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-21 16:00:00",
     "category": 28
   },
   {
@@ -2471,7 +1526,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249018",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-21 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-21 21:00:00",
     "category": 28
   },
   {
@@ -2486,7 +1541,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249216",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-22 14:00:00",
-    "end_date": null,
+    "end_date": "2026-08-22 16:00:00",
     "category": 28
   },
   {
@@ -2501,7 +1556,7 @@
     "tickets_url": "https://www.blackpoolgrand.co.uk/book-instance/?EventInstanceId=1249019",
     "url": "https://www.blackpoolgrand.co.uk/event/joseph-and-the-amazing-technicolor-dreamcoat",
     "start_date": "2026-08-22 19:00:00",
-    "end_date": null,
+    "end_date": "2026-08-22 21:00:00",
     "category": 28
   }
 ]
