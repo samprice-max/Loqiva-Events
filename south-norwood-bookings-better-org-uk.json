@@ -1,0 +1,47 @@
+[
+  {
+    "id": 672358855,
+    "title": "Group Cycle",
+    "description": "<p>A class focused on core strength and conditioning.</p>",
+    "address": "South Norwood Leisure Centre, Studio 2",
+    "longitude": -0.074594,
+    "latitude": 51.39986,
+    "venue_name": "South Norwood Leisure Centre",
+    "image_url": "https://www.better.org.uk/packs/images/social_enerprise_logo_black--desktop~f9b07e73136523812b3464dc538efa56.gif",
+    "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "start_date": "2026-06-24 18:00:00",
+    "end_date": "2026-06-24 18:45:00",
+    "category": 29
+  },
+  {
+    "id": 1988388249,
+    "title": "Core Conditioning",
+    "description": "<p>A class focused on core strength and conditioning.</p>",
+    "address": "South Norwood Leisure Centre, Studio 1",
+    "longitude": -0.074594,
+    "latitude": 51.39986,
+    "venue_name": "South Norwood Leisure Centre",
+    "image_url": "https://www.better.org.uk/packs/images/social_enerprise_logo_black--desktop~f9b07e73136523812b3464dc538efa56.gif",
+    "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "start_date": "2026-06-24 18:00:00",
+    "end_date": "2026-06-24 18:45:00",
+    "category": 29
+  },
+  {
+    "id": 3440230880,
+    "title": "Power Pump",
+    "description": "<p>A class focused on core strength and conditioning.</p>",
+    "address": "South Norwood Leisure Centre, Studio 1",
+    "longitude": -0.074594,
+    "latitude": 51.39986,
+    "venue_name": "South Norwood Leisure Centre",
+    "image_url": "https://www.better.org.uk/packs/images/social_enerprise_logo_black--desktop~f9b07e73136523812b3464dc538efa56.gif",
+    "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-24/by-time/class/AQGeOo10Av9Ap1s2ICw4l9wEqgz1lqqXHA",
+    "start_date": "2026-06-24 18:55:00",
+    "end_date": "2026-06-24 19:55:00",
+    "category": 29
+  }
+]
