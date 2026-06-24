@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1949436968,
+    "title": "Glamstar Rock Band",
+    "description": "<p>Due to popular demand 'Glamstar' band will be returning on Saturday, 14 November 2026, 8:00pm.</p><p>Tickets are on sale now.</p><p>Members £x</p><p>Non Members £x</p><p>There are limited availability, so don't miss out!</p>",
+    "address": "South Norwood Conservative Club, South Norwood, London",
+    "longitude": -0.074594,
+    "latitude": 51.39986,
+    "venue_name": "South Norwood Community Club",
+    "image_url": "https://www.southnorwoodcc.org/images/glamstar-band-norwood-2026.png",
+    "tickets_url": "https://www.southnorwoodcc.org/club-events-entertainment/glamstar-rock-band.html",
+    "url": "https://www.southnorwoodcc.org/club-events-entertainment/glamstar-rock-band.html",
+    "start_date": "2026-11-14 20:00:00",
+    "end_date": "2026-11-14 23:59:59",
+    "category": 12
+  }
+]
