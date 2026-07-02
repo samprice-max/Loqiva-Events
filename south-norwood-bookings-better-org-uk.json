@@ -1,23 +1,23 @@
 [
   {
-    "id": 1243448712,
-    "title": "Circuit Training",
-    "description": "<p><strong>Fitness Classes</strong></p><p>South Norwood Leisure Centre</p><p>**Thu 2 Jul**</p><p>6am - 10pm</p><p>09:00 - 10:30</p><p>90min</p><p><strong>Tai Chi</strong></p><p>Instructor: Adrianna</p><p>(Beginner Class) (Studio 1)</p><p>Status: Fully booked</p><p>10:30 - 11:30</p><p>60min</p><p><strong>Dance Fitness</strong></p><p>Instructor: Gail</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>11:30 - 12:30</p><p>60min</p><p><strong>Pilates</strong></p><p>Instructor: Gail</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>12:00 - 12:45</p><p>45min</p><p><strong>Aqua Aerobics</strong></p><p>Instructor: Karen</p><p>Location: Main Pool, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>13:00 - 14:00</p><p>60min</p><p><strong>Pilates</strong></p><p>Instructor: Michelle</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>17:00 - 18:00</p><p>60min</p><p><strong>Yoga</strong></p><p>Instructor: Claudette</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>18:30 - 19:30</p><p>60min</p><p><strong>Circuit Training</strong></p><p>Instructor: Shantelle</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Spaces: 10 available</p><p>19:15 - 20:00</p><p>45min</p><p><strong>Group Cycle</strong></p><p>Instructor: Donna</p><p>Location: Studio 2, South Norwood Leisure Centre</p><p>Spaces: 3 available</p><p>19:30 - 20:15</p><p>45min</p><p><strong>Zumba</strong></p><p>Instructor: Karen</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Status: Fully booked</p><p>20:15 - 21:00</p><p>45min</p><p><strong>Step Aerobics</strong></p><p>Instructor: Donna</p><p>Location: Studio 1, South Norwood Leisure Centre</p><p>Spaces: 9 available</p></p>",
+    "id": 3493699295,
+    "title": "Tai Chi",
+    "description": "<p>Push your workout to the next level with high intensity circuit training. Circuit routines provide a rigorous, all-body workout as you tackle a sequence of physical challenges designed to get you fitter and stronger.</p>",
     "address": "South Norwood Leisure Centre",
     "longitude": -0.074594,
     "latitude": 51.39986,
     "venue_name": "South Norwood Leisure Centre",
     "image_url": "https://livingfunky.co.uk/wp-content/uploads/2015/12/500-CR55176-04-300x200.jpg",
     "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-02/by-time/class/AQGeRKDeFfmErXAI_FlNpV8EtJ_9lrQtqA",
-    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-02/by-time",
+    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-02/by-time/class/AQGeRKDeFfmErXAI_FlNpV8EtJ_9lrQtqA",
     "start_date": "2026-07-02 18:30:00",
     "end_date": "2026-07-02 19:30:00",
-    "category": 4
+    "category": 29
   },
   {
     "id": 1570416380,
     "title": "Group Cycle",
-    "description": "<p>South Norwood Leisure Centre</p><p>Legs, Bums and Tums</p><p>A great full body workout, targeting those challenging areas. Sculpt, tone, conditioning and build strength whilst focusing on your bums, tums and thighs. This class does exactly what is says on the tin – what more could you ask for!</p><p>Date: Fri 03 Jul 2026</p><p>Time: 11:30am - 12:30pm (60min)</p><p>Instructor: Abbie</p><p>Location: Studio 1, Studios, South Norwood Leisure Centre</p><p>Price: N/A</p>",
+    "description": "<p>Legs, Bums and Tums</p><p>A great full body workout, targeting those challenging areas. Sculpt, tone, conditioning and build strength whilst focusing on your bums, tums and thighs. This class does exactly what is says on the tin – what more could you ask for!</p>",
     "address": "South Norwood Leisure Centre, Studio 2",
     "longitude": -0.074594,
     "latitude": 51.39986,
@@ -32,8 +32,8 @@
   {
     "id": 3348887430,
     "title": "Power Pump",
-    "description": "<p><strong>Your selection:</strong></p><p>South Norwood Leisure Centre</p><p><strong>Group Cycle</strong></p><p>Pedal your way fit. Cycle along with the group in one of our themed classes to uplifting music, or focus on achieving your goals in one of our disciplined based classes.</p><p><strong>Date:</strong> Sat 04 Jul 2026</p><p><strong>Time:</strong> 08:00am - 08:45am (45min)</p><p><strong>Instructor:</strong> Noveen</p><p><strong>Location:</strong> Studio 2, Studios, South Norwood Leisure Centre</p><p><strong>Price:</strong> N/A</p>",
-    "address": "South Norwood Leisure Centre",
+    "description": "<p><strong>Your selection:</strong></p>\n<p>South Norwood Leisure Centre</p>\n<p><strong>Group Cycle</strong></p>\n<p>Pedal your way fit. Cycle along with the group in one of our themed classes to uplifting music, or focus on achieving your goals in one of our disciplined based classes.</p>\n<p><strong>Date:</strong> Sat 04 Jul 2026</p>\n<p><strong>Time:</strong> 08:00am - 08:45am (45min)</p>\n<p><strong>Instructor:</strong> Noveen</p>\n<p><strong>Location:</strong> Studio 2, Studios, South Norwood Leisure Centre</p>\n<p><strong>Price:</strong> N/A</p>\n<p><a href=\"https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-04/by-time/class/AQGeOo8IVvOui6Vf9H2p_gIEtq6VlrY5fA\">Book now</a> | <a href=\"https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-04/by-time/class/AQGeOo8IVvOui6Vf9H2p_gIEtq6VlrY5fA\">Add to basket</a></p>",
+    "address": "South Norwood Leisure Centre, Studio 1, Studios",
     "longitude": -0.074594,
     "latitude": 51.39986,
     "venue_name": "South Norwood Leisure Centre",
@@ -45,10 +45,10 @@
     "category": 29
   },
   {
-    "id": 2371142074,
-    "title": "Body Conditioning",
-    "description": "<p><strong>Fitness Classes</strong></p><p>South Norwood Leisure Centre is offering a variety of fitness classes:</p><ul><li><strong>Yoga</strong><br>Time: 10:30 - 11:30 (60 min)<br>Instructor: Lemi<br>Location: Studio 1, Studios, South Norwood Leisure Centre<br>Status: Fully booked</li><li><strong>Power Pump</strong><br>Time: 11:40 - 12:40 (60 min)<br>Instructor: Emma<br>Location: Studio 1, Studios, South Norwood Leisure Centre<br>Status: Fully booked</li><li><strong>Body Conditioning</strong><br>Time: 12:40 - 13:40 (60 min)<br>Instructor: Emma<br>Location: Studio 1, Studios, South Norwood Leisure Centre<br>Status: Fully booked</li></ul><p>Join us today!</p>",
-    "address": "South Norwood Leisure Centre, Studio 1, Studios, South Norwood",
+    "id": 1725562316,
+    "title": "Yoga",
+    "description": "<p><strong>Fitness Classes</strong></p>\n<p>South Norwood Leisure Centre</p>\n<p><strong>06.00 - 22.00</strong></p>\n<p><strong>Sun 5 Jul</strong></p>\n<p>10:30 - 11:30</p>\n<p>60min</p>\n<p>Yoga</p>\n<p>Fitness Classes</p>\n<p>Lemi</p>\n<p>Studio 1, Studios, South Norwood Leisure Centre</p>\n<p>Fully booked</p>\n<p>11:40 - 12:40</p>\n<p>60min</p>\n<p>Power Pump</p>\n<p>Fitness Classes</p>\n<p>Emma</p>\n<p>Studio 1, Studios, South Norwood Leisure Centre</p>\n<p>Fully booked</p>\n<p>12:40 - 13:40</p>\n<p>60min</p>\n<p>Body Conditioning</p>\n<p>Fitness Classes</p>\n<p>Emma</p>\n<p>Studio 1, Studios, South Norwood Leisure Centre</p>\n<p>Fully booked</p>\n<p>Shopping basket: £0.00</p>\n<p>Log in to add items to your basket</p>\n<p><strong>What We Offer</strong></p>\n<p><a href=\"https://www.better.org.uk/leisure-centres\">Leisure</a></p>\n<p><a href=\"https://www.better.org.uk/what-we-offer/lessons-and-courses\">Lessons and Courses</a></p>\n<p><a href=\"https://www.better.org.uk/library\">Libraries</a></p>\n<p><a href=\"https://www.better.org.uk/venue-hire\">Venue Hire</a></p>\n<p><a href=\"https://www.better.org.uk/children-centre\">Children's Centres</a></p></p>",
+    "address": "South Norwood Leisure Centre, Studio 1, Studios, South Norwood Leisure Centre",
     "longitude": -0.074594,
     "latitude": 51.39986,
     "venue_name": "South Norwood Leisure Centre",
@@ -60,18 +60,18 @@
     "category": 11
   },
   {
-    "id": 3797431952,
-    "title": "Yoga",
-    "description": "<p>Fitness Classes are available at South Norwood Leisure Centre. Here is the schedule for Monday, 6th July:</p><p><strong>09:30 - 10:30</strong><br> Body Conditioning<br> Instructor: Jameelah<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: Fully booked<br><br></p><p><strong>10:00 - 10:45</strong><br> Aqua Aerobics<br> Instructor: Emma<br> Location: Main Pool, South Norwood Leisure Centre<br> Status: Fully booked<br><br></p><p><strong>10:30 - 11:30</strong><br> Yoga<br> Instructor: Jameelah<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: Fully booked<br><br></p><p><strong>11:45 - 12:45</strong><br> Legs, Bums and Tums<br> Instructor: Katherine<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: 14 spaces available<br><a href='https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time/class/AQGeRKLG-vrYiKaKvUjcS8oEuYbJlrkUvA'>Book</a><br><br></p><p><strong>17:00 - 18:00</strong><br> Combat<br> Instructor: Emma<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: 9 spaces available<br><a href='https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time/class/AQGeRL_6of9riQQwH6txkhQEudDllrlekA'>Book</a><br><br></p><p><strong>18:00 - 19:00</strong><br> Body Conditioning<br> Instructor: Jade<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: Fully booked<br><br></p><p><strong>19:00 - 20:00</strong><br> Zumba<br> Instructor: Jade<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: Fully booked<br><br></p><p><strong>20:00 - 21:00</strong><br> Yoga<br> Instructor: Jade<br> Location: Studio 1, Studios, South Norwood Leisure Centre<br> Status: 1 space available<br><a href='https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time/class/AQGeQVEgh_Q2vyFYa-poWCoEufrVlrqIwA'>Book</a></p><p>You can register for these classes on the respective booking pages.</p>",
-    "address": "South Norwood Leisure Centre",
+    "id": 3679589101,
+    "title": "Body Conditioning",
+    "description": "<p><strong>What We Offer</strong></p><p><a href=\"https://www.better.org.uk/leisure-centres\">Leisure</a></p><p><a href=\"https://www.better.org.uk/what-we-offer/lessons-and-courses\">Lessons and Courses</a></p><p><a href=\"https://www.better.org.uk/library\">Libraries</a></p><p><a href=\"https://www.better.org.uk/venue-hire\">Venue Hire</a></p><p><a href=\"https://www.better.org.uk/children-centre\">Children's Centres</a></p><p><strong>Contact & Support</strong></p><p><a href=\"https://www.better.org.uk/faqs\">Help Centre</a></p><p><a href=\"https://www.better.org.uk/contactus\">Contact Us</a></p><p><a href=\"https://www.gll.org/press\">Media Enquiries</a></p><p><a href=\"https://www.better.org.uk/legal-policies\">Terms and Policies</a></p><p><a href=\"https://www.better.org.uk/sitemap\">Sitemap</a></p><p><strong>About Us</strong></p><p><a href=\"https://www.gll.org/about-us\">Our Story</a></p><p><a href=\"https://www.better.org.uk/who-we-are/social-enterprise\">Being a Charitable Social Enterprise</a></p><p><a href=\"https://www.better.org.uk/news\">News</a></p><p><a href=\"https://www.better.org.uk/jobs\">Careers</a></p><p><a href=\"https://www.gll.org/\">GLL Corporate Website</a></p><p><a href=\"https://www.gllsportfoundation.org/\">GLL Sport Foundation</a></p><p><strong>Download app</strong></p><p><img src=\"https://www.better.org.uk/packs/images/google_play_badge~793134736fb30551b1cb423c4032726e.gif\" alt=\"Get it on Google Play\" /></p><p><strong>Let's get social</strong></p><p>Better is a registered trademark and trading name of GLL (Greenwich Leisure Limited), a charitable social enterprise and registered society under the Co-operative & Community Benefit & Societies Act 2014 registration no. 27793R. Registered office: Middlegate House, The Royal Arsenal, London, SE18 6SX. Inland Revenue Charity no: XR43398</p>",
+    "address": "South Norwood Leisure Centre, Studio 1, Studios",
     "longitude": -0.074594,
     "latitude": 51.39986,
     "venue_name": "South Norwood Leisure Centre",
     "image_url": "https://livingfunky.co.uk/wp-content/uploads/2015/12/500-CR55176-04-300x200.jpg",
-    "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time",
-    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time",
-    "start_date": "2026-07-06 06:00:00",
-    "end_date": "2026-07-06 22:00:00",
-    "category": 11
+    "tickets_url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time/class/AQGeRKLG-vrYiKaKvUjcS8oEuYbJlrkUvA",
+    "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-07-06/by-time/class/AQGeRKLG-vrYiKaKvUjcS8oEuYbJlrkUvA",
+    "start_date": "2026-07-06 11:45:00",
+    "end_date": "2026-07-06 12:45:00",
+    "category": 4
   }
 ]
