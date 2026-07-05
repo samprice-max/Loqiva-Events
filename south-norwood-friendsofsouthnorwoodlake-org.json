@@ -1,20 +1,5 @@
 [
   {
-    "id": 914588279,
-    "title": "July Workday",
-    "description": "<p>Join us for the July workday with coffee, tea and biscuits at 12!</p>",
-    "address": "'The Glade' Woodvale Ave, London SE25 4AN, UK",
-    "longitude": -0.074594,
-    "latitude": 51.39986,
-    "venue_name": "South Norwood Lake",
-    "image_url": "https://static.wixstatic.com/media/f1578f_12c9de82f3d24148b465e20fd38637c1~mv2.jpg",
-    "tickets_url": "https://www.friendsofsouthnorwoodlake.org/event-details-registration/july-workday-4",
-    "url": "https://www.friendsofsouthnorwoodlake.org/event-details-registration/july-workday-4",
-    "start_date": "2026-07-05 10:00:00",
-    "end_date": "2026-07-05 12:20:00",
-    "category": 29
-  },
-  {
     "id": 4236679419,
     "title": "August Workday",
     "description": "<p>Join us for the August workday with coffee, tea and biscuits at 12!</p>",
