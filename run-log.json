@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-07-09T15:36:42.503Z",
+    "hub": "Canterbury",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 1
+  },
+  {
     "timestamp": "2026-07-09T15:00:31.157Z",
     "hub": "Canterbury",
     "venues": [
