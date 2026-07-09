@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-09T13:41:18.621Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Kavanagh Cinema",
+        "url": "https://kavanaghcinema.com/KavanaghCinema.dll/Page?p=0&m=mm",
+        "filename": "canterbury-kavanaghcinema-com.json",
+        "events": 17,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 17,
+    "errors": [],
+    "duration_seconds": 357
+  },
+  {
     "timestamp": "2026-07-09T13:27:22.310Z",
     "hub": "Canterbury",
     "venues": [],
