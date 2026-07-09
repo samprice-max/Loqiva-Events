@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-09T13:27:22.310Z",
+    "hub": "Canterbury",
+    "venues": [],
+    "total_events": 0,
+    "errors": [
+      {
+        "url": "https://kavanaghcinema.com/KavanaghCinema.dll/Page?p=0&m=mm",
+        "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."
+      }
+    ],
+    "duration_seconds": 6
+  },
+  {
     "timestamp": "2026-07-09T13:24:17.692Z",
     "hub": "Canterbury",
     "venues": [
