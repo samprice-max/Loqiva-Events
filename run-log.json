@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-09T12:53:40.900Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Malthouse Theatre",
+        "url": "https://malthousetheatre.co.uk/whats-on/",
+        "filename": "canterbury-malthousetheatre-co-uk.json",
+        "events": 48,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 48,
+    "errors": [],
+    "duration_seconds": 227
+  },
+  {
     "timestamp": "2026-07-09T12:47:57.521Z",
     "hub": "Canterbury",
     "venues": [
