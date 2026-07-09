@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-07-09T11:34:49.537Z",
+    "hub": "Canterbury",
+    "venues": [],
+    "total_events": 0,
+    "errors": [
+      {
+        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
+        "error": "Cannot read properties of null (reading 'replace')"
+      }
+    ],
+    "duration_seconds": 66
+  },
+  {
     "timestamp": "2026-07-09T11:07:11.682Z",
     "hub": "Canterbury",
     "venues": [
