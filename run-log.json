@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-09T14:28:04.118Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "The Beaney",
+        "url": "https://canterburymuseums.co.uk/the-beaney/whats-on/",
+        "filename": "canterbury-canterburymuseums-co-uk.json",
+        "events": 0,
+        "status": "empty"
+      }
+    ],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 18
+  },
+  {
     "timestamp": "2026-07-09T13:41:18.621Z",
     "hub": "Canterbury",
     "venues": [
