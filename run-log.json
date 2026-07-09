@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-09T11:44:20.069Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Gulbenkian Arts Centre",
+        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
+        "filename": "canterbury-thegulbenkian-co-uk.json",
+        "events": 9,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 9,
+    "errors": [],
+    "duration_seconds": 145
+  },
+  {
     "timestamp": "2026-07-09T11:34:49.537Z",
     "hub": "Canterbury",
     "venues": [],
