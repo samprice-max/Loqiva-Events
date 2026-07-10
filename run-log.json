@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-10T08:34:26.217Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Marlowe Theatre",
+        "url": "https://marlowetheatre.com/whats-on/",
+        "filename": "canterbury-marlowetheatre-com.json",
+        "events": 41,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 41,
+    "errors": [],
+    "duration_seconds": 247
+  },
+  {
     "timestamp": "2026-07-09T19:25:13.100Z",
     "hub": "Canterbury",
     "venues": [
