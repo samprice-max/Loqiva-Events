@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-10T14:32:14.291Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Westgate Hall",
+        "url": "https://www.westgatehall.org/events/",
+        "filename": "canterbury-westgatehall-org.json",
+        "events": 19,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 19,
+    "errors": [],
+    "duration_seconds": 125
+  },
+  {
     "timestamp": "2026-07-10T11:42:40.433Z",
     "hub": "Canterbury",
     "venues": [
