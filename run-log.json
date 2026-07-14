@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-14T08:58:25.450Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Canterbury Festival",
+        "url": "https://canterburyfestival.co.uk/whats-on/",
+        "filename": "canterbury-canterburyfestival-co-uk.json",
+        "events": 139,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 139,
+    "errors": [],
+    "duration_seconds": 5
+  },
+  {
     "timestamp": "2026-07-14T08:37:20.907Z",
     "hub": "Canterbury",
     "venues": [
