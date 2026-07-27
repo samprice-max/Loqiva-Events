@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-07-27T19:43:46.823Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 60,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 55,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 115,
+    "errors": [],
+    "duration_seconds": 125
+  },
+  {
     "timestamp": "2026-07-27T19:28:25.403Z",
     "hub": "Stirling",
     "venues": [
