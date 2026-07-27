@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-07-27T19:28:25.403Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-stirlingevents-org.json",
+        "events": 60,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 60,
+    "errors": [],
+    "duration_seconds": 1673
+  },
+  {
     "timestamp": "2026-07-14T08:58:25.450Z",
     "hub": "Canterbury",
     "venues": [
