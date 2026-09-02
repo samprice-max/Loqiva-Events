@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-02T09:27:17.207Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 99,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 99,
+    "errors": [],
+    "duration_seconds": 6
+  },
+  {
     "timestamp": "2026-09-02T09:17:54.448Z",
     "hub": "Stirling",
     "venues": [
@@ -758,21 +774,5 @@
       }
     ],
     "duration_seconds": 246
-  },
-  {
-    "timestamp": "2026-07-07T15:31:51.254Z",
-    "hub": "South Norwood",
-    "venues": [
-      {
-        "venue": "South Norwood Leisure Centre",
-        "url": "https://bookings.better.org.uk/location/south-norwood-leisure-centre/fitness-classes1/2026-06-25/by-time",
-        "filename": "south-norwood-bookings-better-org-uk.json",
-        "events": 12,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 12,
-    "errors": [],
-    "duration_seconds": 153
   }
 ]
