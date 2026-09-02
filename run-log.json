@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-09-02T08:28:04.463Z",
+    "hub": "Stirling",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 63
+  },
+  {
     "timestamp": "2026-07-27T19:43:46.823Z",
     "hub": "Stirling",
     "venues": [
