@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-02T08:56:52.655Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 89,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 89,
+    "errors": [],
+    "duration_seconds": 136
+  },
+  {
     "timestamp": "2026-09-02T08:46:58.778Z",
     "hub": "Stirling",
     "venues": [
