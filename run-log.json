@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-09-09T20:47:55.457Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 60,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 49,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 114,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 23,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 246,
+    "errors": [],
+    "duration_seconds": 1101
+  },
+  {
     "timestamp": "2026-09-09T16:34:24.062Z",
     "hub": "Stirling",
     "venues": [
@@ -764,18 +801,5 @@
     "total_events": 9,
     "errors": [],
     "duration_seconds": 145
-  },
-  {
-    "timestamp": "2026-07-09T11:34:49.537Z",
-    "hub": "Canterbury",
-    "venues": [],
-    "total_events": 0,
-    "errors": [
-      {
-        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
-        "error": "Cannot read properties of null (reading 'replace')"
-      }
-    ],
-    "duration_seconds": 66
   }
 ]
