@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-09T16:34:24.062Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 115,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 115,
+    "errors": [],
+    "duration_seconds": 10
+  },
+  {
     "timestamp": "2026-09-02T10:14:17.350Z",
     "hub": "Stirling",
     "venues": [
@@ -761,21 +777,5 @@
       }
     ],
     "duration_seconds": 66
-  },
-  {
-    "timestamp": "2026-07-09T11:07:11.682Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Marlowe Theatre",
-        "url": "https://marlowetheatre.com/whats-on/",
-        "filename": "canterbury-marlowetheatre-com.json",
-        "events": 20,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 20,
-    "errors": [],
-    "duration_seconds": 481
   }
 ]
