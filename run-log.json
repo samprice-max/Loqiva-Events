@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-14T12:47:12.099Z",
+    "hub": "South Norwood",
+    "venues": [
+      {
+        "venue": "Stanley Arts",
+        "url": "https://stanleyarts.org/events/",
+        "filename": "south-norwood-stanleyarts-org.json",
+        "events": 12,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 12,
+    "errors": [],
+    "duration_seconds": 18
+  },
+  {
     "timestamp": "2026-09-14T12:36:41.239Z",
     "hub": "South Norwood",
     "venues": [
@@ -785,21 +801,5 @@
     "total_events": 5,
     "errors": [],
     "duration_seconds": 23
-  },
-  {
-    "timestamp": "2026-07-09T12:03:20.618Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Gulbenkian Arts Centre",
-        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
-        "filename": "canterbury-thegulbenkian-co-uk.json",
-        "events": 11,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 11,
-    "errors": [],
-    "duration_seconds": 171
   }
 ]
