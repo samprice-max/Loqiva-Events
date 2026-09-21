@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1838358260,
+    "title": "Stirling Science Festival",
+    "description": "<p>The Stirling Science Festival will be back from 21-24 October promising fun for the whole family!<br/>The festival theme is<br/><b>Play • Move • Discover</b><br/><b><i>The Science of Sport and Wellbeing</i></b><br/>The festival is funded by Stirling Council and Scottish Government and supported by the Programme Board Partners: Stirling Council services, Active Stirling, Codebase, University of Stirling and Deborah McNeill Consultancy.</p>",
+    "address": "Various Locations, Stirling, Scotland",
+    "longitude": -3.9428,
+    "latitude": 56.1194,
+    "venue_name": "Various Venues",
+    "image_url": "https://stirlingevents.org/wp-content/uploads/2025/06/Science-Fest-logo-2021-banner-col-1024x442-1-e1753955859685.png",
+    "tickets_url": "https://stirlingevents.org/festival/stirling-science-festival/",
+    "url": "https://stirlingevents.org/festival/stirling-science-festival/",
+    "start_date": "2026-10-21 12:00:00",
+    "end_date": "2026-10-21 14:00:00",
+    "category": 6
+  },
+  {
+    "id": 1758599691,
+    "title": "Move for Wellbeing (50+)",
+    "description": "<p>Join this science-themed Active Life session exploring the connection between movement, healthy ageing and wellbeing. Start with a fun and familiar fitness and mobility session, with opportunities to test your balance, coordination, heart rate and pulse before and after exercise. After the class, join us for a cuppa and discover the science behind staying active as we age, including how exercise supports heart, lung and brain health, while helping us maintain strength, flexibility and independence. Limited spaces available. Prebooking required on 01877 330000. Suitable for ages 50+</p>",
+    "address": "McLaren Leisure, Stirling",
+    "longitude": -3.9428,
+    "latitude": 56.1194,
+    "venue_name": "Various Venues",
+    "image_url": "https://stirlingevents.org/wp-content/uploads/2026/08/MoveforWellbeing-McLarenLeisure-scaled.jpg",
+    "tickets_url": "https://stirlingevents.org/event/move-for-wellbeing-50-560011/",
+    "url": "https://stirlingevents.org/event/move-for-wellbeing-50-560011/",
+    "start_date": "2026-10-21 09:30:00",
+    "end_date": "2026-10-21 11:30:00",
+    "category": 11
+  },
+  {
+    "id": 3772123415,
+    "title": "scientific support dept. & Bel Docherty exhibition",
+    "description": "<p>Part of Stirling Science Festival 2026. This exhibition is a collaboration between scientific support dept. and digital artist Bel Docherty, exploring the myths of the wolf legend and mental health through modular synth sound design and projection mapping in one of Stirling’s famous landmarks. Created and performed for Culture Night Stirling 2026, scientific support dept. & Bel Docherty exhibits at Tolbooth as part of Stirling Science Festival 2026.</p>",
+    "address": "Tolbooth, Stirling",
+    "longitude": -3.9428,
+    "latitude": 56.1194,
+    "venue_name": "Various Venues",
+    "image_url": "https://stirlingevents.org/wp-content/uploads/2026/06/Projector-Output_53584.jpg",
+    "tickets_url": "https://stirlingevents.org/event/scientific-support-dept-bel-docherty-549210/",
+    "url": "https://stirlingevents.org/event/scientific-support-dept-bel-docherty-549210/",
+    "start_date": "2026-10-21 10:00:00",
+    "end_date": "2026-10-21 17:00:00",
+    "category": 14
+  },
+  {
+    "id": 492597107,
+    "title": "Stirling Science Festival at Stirling Smith Museum",
+    "description": "<p>Play Move Discover @ The Smith Museum Science Trail. The Smith is home to over 60,000 artworks and objects spanning over 10,000 years of Stirling’s history. Follow the clues on our museum trail to find the Sport and Science connected objects within our Gallery 3, including the World’s Oldest Football and World’s Oldest Curling Stone!</p>",
+    "address": "The Smith Art Gallery & Museum, Stirling",
+    "longitude": -3.9428,
+    "latitude": 56.1194,
+    "venue_name": "Various Venues",
+    "image_url": "https://stirlingevents.org/wp-content/uploads/2026/08/Play-Move-Discover-@-The-Smith-Museum-Science-Trail-scaled.png",
+    "tickets_url": "https://stirlingevents.org/event/stirling-science-festival-at-stirling-smith-museum-560610/",
+    "url": "https://stirlingevents.org/event/stirling-science-festival-at-stirling-smith-museum-560610/",
+    "start_date": "2026-10-21 10:00:00",
+    "end_date": "2026-10-21 17:00:00",
+    "category": 6
+  }
+]
