@@ -973,5 +973,20 @@
     "start_date": "2026-12-11 19:00:00",
     "end_date": "2026-12-11 21:00:00",
     "category": 4
-  }
+  },
+  {
+  "id": 445829163,
+  "title": "The Best of Bublé – Home for Christmas",
+  "description": "<p>Following huge audience demand, this reimagined show is now presented as a full production theatre spectacular, delivering the ultimate Bublé experience.</p><p>Expect stunning staging, atmospheric lighting, big band energy and all the charm, style and warmth that has made Michael Bublé a global favourite.</p><p>Join us for a festive journey through Bublé's greatest hits and iconic Christmas classics, as Josh Hindle and his live band perform much-loved songs including Home, Feeling Good, Haven't Met You Yet, alongside festive favourites such as Winter Wonderland, White Christmas, Silent Night, Christmas (Baby Please Come Home) and many more.</p><p>Starring Josh Hindle (as seen on ITV's STARSTRUCK and on tour with Jane McDonald), this show captures the sound, swing and sophistication of a true Christmas crooner — all wrapped up in a high-energy, feel-good theatre production.</p><p>A magical festive night out and the perfect way to get into the Christmas spirit, The Best of Bublé – Home for Christmas is set to be one of the must-see shows of the season.</p>",
+  "address": "The Albert Halls, Dumbarton Road, Stirling, FK8 2QL",
+  "longitude": -3.9418,
+  "latitude": 56.1182,
+  "venue_name": "The Albert Halls",
+  "image_url": "https://system.spektrix.com/tolbooth/files/a7c16b05-ef1f-4075-9e55-6f33ac4c5de1.jpg",
+  "tickets_url": "https://www.ticketsource.com/glitzoevents/the-best-of-buble-home-for-christmas-albert-halls-stirling/e-qgljdo",
+  "url": "https://www.ticketsource.com/glitzoevents/the-best-of-buble-home-for-christmas-albert-halls-stirling/e-qgljdo",
+  "start_date": "2026-12-02 19:00:00",
+  "end_date": "2026-12-02 21:00:00",
+  "category": 4
+}
 ]
