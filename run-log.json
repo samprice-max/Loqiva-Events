@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-09-23T15:58:52.393Z",
+    "hub": "Harborne",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 1
+  },
+  {
     "timestamp": "2026-09-23T15:23:18.868Z",
     "hub": "Harborne",
     "venues": [
@@ -776,21 +784,5 @@
     "total_events": 9,
     "errors": [],
     "duration_seconds": 56
-  },
-  {
-    "timestamp": "2026-07-09T14:49:37.183Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Marlowe Theatre",
-        "url": "https://marlowetheatre.com/whats-on/",
-        "filename": "canterbury-marlowetheatre-com.json",
-        "events": 18,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 18,
-    "errors": [],
-    "duration_seconds": 422
   }
 ]
