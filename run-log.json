@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-23T14:30:17.316Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 155,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 155,
+    "errors": [],
+    "duration_seconds": 4
+  },
+  {
     "timestamp": "2026-09-23T14:09:12.308Z",
     "hub": "Harborne",
     "venues": [
@@ -779,21 +795,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-07-09T13:24:17.692Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "The Beaney",
-        "url": "https://canterburymuseums.co.uk/the-beaney/whats-on/",
-        "filename": "canterbury-canterburymuseums-co-uk.json",
-        "events": 0,
-        "status": "empty"
-      }
-    ],
-    "total_events": 0,
-    "errors": [],
-    "duration_seconds": 68
   }
 ]
