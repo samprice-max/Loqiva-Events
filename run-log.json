@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-09-23T13:30:08.783Z",
+    "hub": "Harborne",
+    "venues": [],
+    "total_events": 0,
+    "errors": [
+      {
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "error": "Failed to scrape URL. Status code: 402. Error: Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."
+      }
+    ],
+    "duration_seconds": 6
+  },
+  {
     "timestamp": "2026-09-21T08:51:59.095Z",
     "hub": "Stirling Science Festival",
     "venues": [
@@ -782,21 +795,5 @@
       }
     ],
     "duration_seconds": 157
-  },
-  {
-    "timestamp": "2026-07-09T12:39:18.087Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Gulbenkian Arts Centre",
-        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
-        "filename": "canterbury-thegulbenkian-co-uk.json",
-        "events": 14,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 14,
-    "errors": [],
-    "duration_seconds": 36
   }
 ]
