@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 3194648136,
+    "title": "Harborne Pool and Fitness Centre",
+    "description": "<p>Harborne Pool & Fitness Centre in Birmingham offers a swimming pool, gym, fitness classes and sports facilities for all ages. Focused on health and wellbeing, the centre provides expert coaching, community activities and flexible memberships for local residents.</p>",
+    "address": "Lordswood Road, Harborne, Birmingham, B17 9QS",
+    "longitude": -1.9593643,
+    "latitude": 52.458508,
+    "venue_name": "Harborne Pool & Fitness Centre",
+    "image_url": "https://www.placesleisure.org/media/epbf1yut/harborne-gym-new.webp?width=1200&height=600&v=1dc0aab898e6c10",
+    "tickets_url": "https://placesleisure.gladstonego.cloud/memberships?siteId=134",
+    "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+    "start_date": "2023-09-23 06:00:00",
+    "end_date": "2026-10-15 21:00:00",
+    "category": 11
+  }
+]
