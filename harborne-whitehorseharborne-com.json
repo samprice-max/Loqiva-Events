@@ -1,8 +1,8 @@
 [
   {
-    "id": 2046002809,
-    "title": "Live Music with Groove Ghetto",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3946682964,
+    "title": "Groove Ghetto",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -12,12 +12,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-09-26 21:30:00",
     "end_date": "2026-09-26 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 109468385,
-    "title": "Live Music with Back On The Road",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 2901745992,
+    "title": "Back On The Road",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -27,12 +27,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-10-03 21:30:00",
     "end_date": "2026-10-03 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 1215105687,
-    "title": "Live Music with Breaking Thru",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3219587088,
+    "title": "Breaking Thru",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -42,12 +42,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-10-10 21:30:00",
     "end_date": "2026-10-10 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 4170219925,
-    "title": "Live Music with Audio Vault",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 1699017728,
+    "title": "Audio Vault",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -57,12 +57,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-10-17 21:30:00",
     "end_date": "2026-10-17 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 3262217423,
-    "title": "Live Music with Peter Hydes Vieliards",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3195441542,
+    "title": "Peter Hydes Vieliards",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -72,12 +72,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-10-24 21:30:00",
     "end_date": "2026-10-24 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 2914347019,
-    "title": "Live Music with Driving Force",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 1246251781,
+    "title": "Driving Force",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -87,12 +87,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-10-31 21:30:00",
     "end_date": "2026-10-31 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 3531835070,
-    "title": "Live Music with Recovered",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 1180798511,
+    "title": "Recovered",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -102,12 +102,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-11-07 21:30:00",
     "end_date": "2026-11-07 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 463926983,
-    "title": "Live Music with Rock Show",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 123264651,
+    "title": "Rock Show",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -120,9 +120,9 @@
     "category": 12
   },
   {
-    "id": 3403051286,
-    "title": "Live Music with Derek & The Checkmates",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 2267375095,
+    "title": "Derek & The Checkmates",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -132,12 +132,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-11-21 21:30:00",
     "end_date": "2026-11-21 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 3693742985,
-    "title": "Live Music with 7th Son",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 353747417,
+    "title": "7th Son",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -147,12 +147,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-11-28 21:30:00",
     "end_date": "2026-11-28 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 1081782371,
-    "title": "Live Music with Giga Byte",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3347185363,
+    "title": "Giga Byte",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -165,9 +165,9 @@
     "category": 12
   },
   {
-    "id": 2477960055,
-    "title": "Live Music with Musical History Tour",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3937157465,
+    "title": "Musical History Tour",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -177,12 +177,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-12-12 21:30:00",
     "end_date": "2026-12-12 23:30:00",
-    "category": 12
+    "category": 21
   },
   {
-    "id": 3119791599,
-    "title": "Live Music with Thirsty Work",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 848137168,
+    "title": "Thirsty Work",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -192,12 +192,12 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-12-19 21:30:00",
     "end_date": "2026-12-19 23:30:00",
-    "category": 12
+    "category": 29
   },
   {
-    "id": 2222551788,
-    "title": "Live Music with Schemers Xmas Bash",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
+    "id": 3844385825,
+    "title": "Schemers Xmas Bash",
+    "description": "<p>Enjoy Live Music at the White Horse.</p>",
     "address": "White Horse, Harborne",
     "longitude": -1.946278,
     "latitude": 52.458596,
@@ -207,36 +207,6 @@
     "url": "http://www.whitehorseharborne.com/Whitehorse.html",
     "start_date": "2026-12-26 21:30:00",
     "end_date": "2026-12-26 23:30:00",
-    "category": 12
-  },
-  {
-    "id": 224211866,
-    "title": "No Band Tonight",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
-    "address": "White Horse, Harborne",
-    "longitude": -1.946278,
-    "latitude": 52.458596,
-    "venue_name": "White Horse Harborne",
-    "image_url": "https://harborne.loqiva.com/public/images/maps/micae1af54845.jpg?qEMD",
-    "tickets_url": "http://www.whitehorseharborne.com/Whitehorse.html",
-    "url": "http://www.whitehorseharborne.com/Whitehorse.html",
-    "start_date": "2026-12-31 21:30:00",
-    "end_date": "2026-12-31 23:30:00",
-    "category": 12
-  },
-  {
-    "id": 1903252496,
-    "title": "Live Music with TBC",
-    "description": "<p>Enjoy audio treasures with Audio Vault.</p>",
-    "address": "White Horse, Harborne",
-    "longitude": -1.946278,
-    "latitude": 52.458596,
-    "venue_name": "White Horse Harborne",
-    "image_url": "https://harborne.loqiva.com/public/images/maps/micae1af54845.jpg?qEMD",
-    "tickets_url": "http://www.whitehorseharborne.com/Whitehorse.html",
-    "url": "http://www.whitehorseharborne.com/Whitehorse.html",
-    "start_date": "2027-01-02 21:30:00",
-    "end_date": "2027-01-02 23:30:00",
-    "category": 12
+    "category": 5
   }
 ]
