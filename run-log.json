@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-23T13:56:44.808Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 16,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 16,
+    "errors": [],
+    "duration_seconds": 34
+  },
+  {
     "timestamp": "2026-09-23T13:32:24.477Z",
     "hub": "Harborne",
     "venues": [
@@ -782,21 +798,5 @@
     "total_events": 48,
     "errors": [],
     "duration_seconds": 227
-  },
-  {
-    "timestamp": "2026-07-09T12:47:57.521Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Gulbenkian Arts Centre",
-        "url": "https://thegulbenkian.co.uk/whats-on/live-events/",
-        "filename": "canterbury-thegulbenkian-co-uk.json",
-        "events": 18,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 18,
-    "errors": [],
-    "duration_seconds": 81
   }
 ]
