@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-23T14:43:17.551Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 12,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 12,
+    "errors": [],
+    "duration_seconds": 31
+  },
+  {
     "timestamp": "2026-09-23T14:41:57.690Z",
     "hub": "Harborne",
     "venues": [],
@@ -779,21 +795,5 @@
     "total_events": 0,
     "errors": [],
     "duration_seconds": 20
-  },
-  {
-    "timestamp": "2026-07-09T14:28:04.118Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "The Beaney",
-        "url": "https://canterburymuseums.co.uk/the-beaney/whats-on/",
-        "filename": "canterbury-canterburymuseums-co-uk.json",
-        "events": 0,
-        "status": "empty"
-      }
-    ],
-    "total_events": 0,
-    "errors": [],
-    "duration_seconds": 18
   }
 ]
