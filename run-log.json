@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-23T15:23:18.868Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/centre-activities/swimming-lessons/#timetable",
+        "filename": "harborne-harborne-pool-fitness-centre.json",
+        "events": 0,
+        "status": "empty"
+      }
+    ],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 22
+  },
+  {
     "timestamp": "2026-09-23T15:21:57.030Z",
     "hub": "Harborne",
     "venues": [],
@@ -776,21 +792,5 @@
     "total_events": 18,
     "errors": [],
     "duration_seconds": 422
-  },
-  {
-    "timestamp": "2026-07-09T14:33:32.344Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "The Beaney",
-        "url": "https://canterburymuseums.co.uk/the-beaney/whats-on/",
-        "filename": "canterbury-canterburymuseums-co-uk.json",
-        "events": 0,
-        "status": "empty"
-      }
-    ],
-    "total_events": 0,
-    "errors": [],
-    "duration_seconds": 52
   }
 ]
