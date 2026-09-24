@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-24T12:39:36.580Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Harborne Stores",
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "filename": "harborne-craftunionpubs-com.json",
+        "events": 124,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 124,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-09-24T12:34:58.347Z",
     "hub": "Harborne",
     "venues": [
@@ -768,21 +784,5 @@
     "total_events": 139,
     "errors": [],
     "duration_seconds": 45
-  },
-  {
-    "timestamp": "2026-07-14T08:28:46.761Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Canterbury Festival",
-        "url": "https://canterburyfestival.co.uk/whats-on/",
-        "filename": "canterbury-canterburyfestival-co-uk.json",
-        "events": 139,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 139,
-    "errors": [],
-    "duration_seconds": 146
   }
 ]
