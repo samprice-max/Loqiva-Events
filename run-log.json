@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-24T10:56:59.780Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Harborne Stores",
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "filename": "harborne-craftunionpubs-com.json",
+        "events": 159,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 159,
+    "errors": [],
+    "duration_seconds": 4
+  },
+  {
     "timestamp": "2026-09-24T10:45:03.993Z",
     "hub": "Harborne",
     "venues": [
@@ -768,21 +784,5 @@
     "total_events": 139,
     "errors": [],
     "duration_seconds": 124
-  },
-  {
-    "timestamp": "2026-07-10T14:32:14.291Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Westgate Hall",
-        "url": "https://www.westgatehall.org/events/",
-        "filename": "canterbury-westgatehall-org.json",
-        "events": 19,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 19,
-    "errors": [],
-    "duration_seconds": 125
   }
 ]
