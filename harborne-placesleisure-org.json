@@ -1,8 +1,8 @@
 [
   {
-    "id": 2972085031,
-    "title": "Family Swim",
-    "description": "<p>An open swim session for the whole family to enjoy.</p>",
+    "id": 2055813018,
+    "title": "Aqua Aerobics",
+    "description": "<p>A low-impact water-based fitness class suitable for all abilities.</p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -10,14 +10,14 @@
     "image_url": "https://www.placesleisure.org/media/e3mb3llc/gallery-harborne-swimming-pool.webp?width=1200&height=600&v=1da758865f9e950",
     "tickets_url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
-    "start_date": "2026-09-24 11:00:00",
-    "end_date": "2026-09-24 11:59:59",
-    "category": 5
+    "start_date": "2026-09-24 12:00:00",
+    "end_date": "2026-09-24 12:44:59",
+    "category": 11
   },
   {
-    "id": 4197238463,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 2066694148,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -27,12 +27,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-09-25 06:30:00",
     "end_date": "2026-09-25 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 2777138455,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 1141532170,
+    "title": "Body Attack",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -42,12 +42,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-09-26 09:00:00",
     "end_date": "2026-09-26 09:44:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 2524207108,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 145485537,
+    "title": "Body Combat",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -60,9 +60,9 @@
     "category": 11
   },
   {
-    "id": 3859978285,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 1413532077,
+    "title": "Body Pump",
+    "description": "<p>A barbell-based class designed to tone and strengthen your whole body.</p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -72,12 +72,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-09-28 06:40:00",
     "end_date": "2026-09-28 07:24:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 1046190251,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 551932381,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -87,12 +87,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-09-29 06:30:00",
     "end_date": "2026-09-29 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 1158231359,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 1196856316,
+    "title": "Spinning",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -105,9 +105,9 @@
     "category": 11
   },
   {
-    "id": 1507170991,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 2046544054,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -117,12 +117,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-01 06:30:00",
     "end_date": "2026-10-01 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 2961407702,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 4121663938,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -132,12 +132,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-02 06:30:00",
     "end_date": "2026-10-02 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 3669921100,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 4029622482,
+    "title": "Body Attack",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -147,12 +147,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-03 09:00:00",
     "end_date": "2026-10-03 09:44:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 3126647292,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 998256002,
+    "title": "Body Combat",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -165,9 +165,9 @@
     "category": 11
   },
   {
-    "id": 813419611,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 3824706950,
+    "title": "Body Pump",
+    "description": "<p>A barbell-based class designed to tone and strengthen your whole body.</p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -177,12 +177,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-05 06:40:00",
     "end_date": "2026-10-05 07:24:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 2990575043,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 2247078887,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -192,12 +192,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-06 06:30:00",
     "end_date": "2026-10-06 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 1297009830,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 682680421,
+    "title": "Spinning",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -210,9 +210,9 @@
     "category": 11
   },
   {
-    "id": 3753975680,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 2015763025,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -222,12 +222,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-08 06:30:00",
     "end_date": "2026-10-08 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 738876413,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 621774623,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -237,12 +237,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-09 06:30:00",
     "end_date": "2026-10-09 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 1880829235,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 4017142029,
+    "title": "Body Attack",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -252,12 +252,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-10 09:00:00",
     "end_date": "2026-10-10 09:44:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 1058048931,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 3062783825,
+    "title": "Body Combat",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -270,9 +270,9 @@
     "category": 11
   },
   {
-    "id": 656377094,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 1177900508,
+    "title": "Body Pump",
+    "description": "<p>A barbell-based class designed to tone and strengthen your whole body.</p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -282,12 +282,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-12 06:40:00",
     "end_date": "2026-10-12 07:24:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 2630776985,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 1385502385,
+    "title": "Group Cycling",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
@@ -297,12 +297,12 @@
     "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
     "start_date": "2026-10-13 06:30:00",
     "end_date": "2026-10-13 07:14:59",
-    "category": 11
+    "category": 29
   },
   {
-    "id": 3179295281,
-    "title": "Fitness Class",
-    "description": "<p>A group fitness session to improve your strength, stamina and wellbeing.</p>",
+    "id": 372304454,
+    "title": "Spinning",
+    "description": "<p></p>",
     "address": "Harborne Pool & Fitness Centre, Tennal Road, Birmingham, B32 2JE",
     "longitude": -1.9676,
     "latitude": 52.4558,
