@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-24T09:48:09.220Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 21,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 21,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-09-24T09:47:09.659Z",
     "hub": "Harborne",
     "venues": [],
@@ -768,21 +784,5 @@
     "total_events": 41,
     "errors": [],
     "duration_seconds": 199
-  },
-  {
-    "timestamp": "2026-07-10T08:34:26.217Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Marlowe Theatre",
-        "url": "https://marlowetheatre.com/whats-on/",
-        "filename": "canterbury-marlowetheatre-com.json",
-        "events": 41,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 41,
-    "errors": [],
-    "duration_seconds": 247
   }
 ]
