@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-25T16:13:43.063Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "Spa Valley Railway",
+        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
+        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
+        "events": 0,
+        "status": "empty"
+      }
+    ],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-09-25T15:59:22.743Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -804,21 +820,5 @@
     "total_events": 93,
     "errors": [],
     "duration_seconds": 18
-  },
-  {
-    "timestamp": "2026-09-02T08:39:04.490Z",
-    "hub": "Stirling",
-    "venues": [
-      {
-        "venue": "Macrobert Arts Centre",
-        "url": "https://www.macrobertartscentre.org/whats-on/",
-        "filename": "stirling-macrobert-arts-centre.json",
-        "events": 98,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 98,
-    "errors": [],
-    "duration_seconds": 26
   }
 ]
