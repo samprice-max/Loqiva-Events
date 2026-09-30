@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-30T12:42:19.101Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "The Pantiles",
+        "url": "https://thepantiles.com/events/",
+        "filename": "royal-tunbridge-wells-thepantiles-com.json",
+        "events": 37,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 37,
+    "errors": [],
+    "duration_seconds": 58
+  },
+  {
     "timestamp": "2026-09-30T12:32:32.608Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -762,21 +778,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-21T08:51:59.095Z",
-    "hub": "Stirling Science Festival",
-    "venues": [
-      {
-        "venue": "Various Venues",
-        "url": "https://stirlingevents.org/festival/stirling-science-festival/",
-        "filename": "stirling-science-festival-stirlingevents-org.json",
-        "events": 4,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 4,
-    "errors": [],
-    "duration_seconds": 18
   }
 ]
