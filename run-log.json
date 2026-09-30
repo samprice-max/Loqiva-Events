@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-30T12:05:28.535Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
+        "events": 30,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 30,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-09-30T09:58:37.985Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -759,21 +775,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-14T12:48:18.744Z",
-    "hub": "South Norwood",
-    "venues": [
-      {
-        "venue": "Stanley Arts",
-        "url": "https://stanleyarts.org/events/",
-        "filename": "south-norwood-stanleyarts-org.json",
-        "events": 11,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 11,
-    "errors": [],
-    "duration_seconds": 19
   }
 ]
