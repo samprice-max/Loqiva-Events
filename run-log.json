@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-30T09:58:37.985Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "King Charles the Martyr",
+        "url": "https://www.kcmtw.org/events-calander/",
+        "filename": "royal-tunbridge-wells-kcmtw-org.json",
+        "events": 6,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 6,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-09-30T09:20:05.656Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -759,21 +775,5 @@
     "total_events": 11,
     "errors": [],
     "duration_seconds": 19
-  },
-  {
-    "timestamp": "2026-09-14T12:47:12.099Z",
-    "hub": "South Norwood",
-    "venues": [
-      {
-        "venue": "Stanley Arts",
-        "url": "https://stanleyarts.org/events/",
-        "filename": "south-norwood-stanleyarts-org.json",
-        "events": 12,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 12,
-    "errors": [],
-    "duration_seconds": 18
   }
 ]
