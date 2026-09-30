@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-09-30T09:15:48.319Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 14
+  },
+  {
     "timestamp": "2026-09-30T09:15:09.136Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [],
@@ -767,42 +775,5 @@
     "total_events": 11,
     "errors": [],
     "duration_seconds": 25
-  },
-  {
-    "timestamp": "2026-09-09T20:47:55.457Z",
-    "hub": "Stirling",
-    "venues": [
-      {
-        "venue": "The Albert Halls",
-        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
-        "filename": "stirling-the-albert-halls.json",
-        "events": 60,
-        "status": "healthy"
-      },
-      {
-        "venue": "Tolbooth",
-        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
-        "filename": "stirling-tolbooth.json",
-        "events": 49,
-        "status": "healthy"
-      },
-      {
-        "venue": "Macrobert Arts Centre",
-        "url": "https://www.macrobertartscentre.org/whats-on/",
-        "filename": "stirling-macrobert-arts-centre.json",
-        "events": 114,
-        "status": "healthy"
-      },
-      {
-        "venue": "Fubar",
-        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
-        "filename": "stirling-fubar.json",
-        "events": 23,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 246,
-    "errors": [],
-    "duration_seconds": 1101
   }
 ]
