@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-09-30T09:15:09.136Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 14
+  },
+  {
     "timestamp": "2026-09-30T09:08:29.928Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -796,21 +804,5 @@
     "total_events": 246,
     "errors": [],
     "duration_seconds": 1101
-  },
-  {
-    "timestamp": "2026-09-09T16:34:24.062Z",
-    "hub": "Stirling",
-    "venues": [
-      {
-        "venue": "Macrobert Arts Centre",
-        "url": "https://www.macrobertartscentre.org/whats-on/",
-        "filename": "stirling-macrobert-arts-centre.json",
-        "events": 115,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 115,
-    "errors": [],
-    "duration_seconds": 10
   }
 ]
