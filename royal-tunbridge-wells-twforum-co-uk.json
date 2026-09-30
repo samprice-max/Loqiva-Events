@@ -12,7 +12,7 @@
     "url": "https://www.twforum.co.uk/events/2026-09-30-the-bluetones-30th-anniversary-expected-to-fly-show-the-forum",
     "start_date": "2026-09-30 19:00:00",
     "end_date": "2026-09-30 22:30:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 2159553037,
@@ -57,7 +57,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-02-prima-queen-the-forum",
     "start_date": "2026-10-02 19:30:00",
     "end_date": "2026-10-02 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 3240600541,
@@ -72,7 +72,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-03-clobber-the-forum-basement",
     "start_date": "2026-10-03 19:30:00",
     "end_date": "2026-10-03 22:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 491176694,
@@ -132,7 +132,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-06-winter-gardens-and-opal-mag-the-forum-basement",
     "start_date": "2026-10-06 19:30:00",
     "end_date": "2026-10-06 22:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 3216240802,
@@ -162,7 +162,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-08-the-forum-1",
     "start_date": "2026-10-08 19:30:00",
     "end_date": "2026-10-08 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 4144944960,
@@ -192,7 +192,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-10-a-celebration-of-blink-182-25th-anniversary-of-take-off-your-pants-and-jacket-the-forum",
     "start_date": "2026-10-10 19:30:00",
     "end_date": "2026-10-10 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 2080225294,
@@ -207,7 +207,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-11-dark-horse-comedy-dinesh-nathan-the-forum-basement",
     "start_date": "2026-10-11 19:00:00",
     "end_date": "2026-10-11 22:30:00",
-    "category": 3
+    "category": 12
   },
   {
     "id": 4157970564,
@@ -222,7 +222,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-14-stable-2026-the-polyphonix-prismatiqk-perry-ripley-matt-wright-the-forum",
     "start_date": "2026-10-14 19:00:00",
     "end_date": "2026-10-14 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 1691065594,
@@ -237,7 +237,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-15-krooked-tongue-the-sussex-arms",
     "start_date": "2026-10-15 19:30:00",
     "end_date": "2026-10-15 23:45:00",
-    "category": 21
+    "category": 12
   },
   {
     "id": 3832035008,
@@ -255,21 +255,6 @@
     "category": 12
   },
   {
-    "id": 2259019647,
-    "title": "A celebration of Paul Simon & 40 years of Graceland",
-    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a></p><p>Paul Simon, one of America’s most enduring songwriters, built his reputation on poetic lyrics, restless curiosity, and a gift for melody that spanned folk, rock, and world music. His 1986 album Graceland stands as his boldest and most influential statement. Recorded largely in South Africa during apartheid, the record fused Simon’s storytelling with township jive, mbaqanga rhythms, and Zulu choral traditions. Featuring Ladysmith Black Mambazo and musicians like guitarist Ray Phiri, Graceland won the Grammy for Album of the Year and sparked global conversations about cultural collaboration and appropriation. It remains a landmark in pop music’s cross-cultural dialogue.</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
-    "address": "The Forum, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
-    "longitude": 0.258292,
-    "latitude": 51.127113,
-    "venue_name": "The Forum",
-    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2F7283c3fd-6100-48fb-b52c-2ef86ed3eee4&width=1000&mode=fit",
-    "tickets_url": "https://buytickets.at/quietvictories/1821950",
-    "url": "https://www.twforum.co.uk/events/2026-10-17-a-celebration-of-paul-simon-and-40-years-of-graceland-the-forum",
-    "start_date": "2026-10-17 19:30:00",
-    "end_date": "2026-10-17 23:45:00",
-    "category": 12
-  },
-  {
     "id": 3666318398,
     "title": "Atticomatic",
     "description": "<p>Brighton’s’ Atticomatic resists easy definition and quite literally<br>dances on the edge of simplicity and discord. Each one of their<br>five members weaves together threads of jazz, post-punk,<br>hip-hop, folk, and electronica. The energy of their live shows<br>resonate with a shared understanding of the pain and beauty of<br>this world</p><p>Age: 18+</p>",
@@ -282,6 +267,21 @@
     "url": "https://www.twforum.co.uk/events/2026-10-17",
     "start_date": "2026-10-17 18:30:00",
     "end_date": "2026-10-17 22:45:00",
+    "category": 12
+  },
+  {
+    "id": 2259019647,
+    "title": "A celebration of Paul Simon & 40 years of Graceland",
+    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a></p><p>Paul Simon, one of America’s most enduring songwriters, built his reputation on poetic lyrics, restless curiosity, and a gift for melody that spanned folk, rock, and world music. His 1986 album Graceland stands as his boldest and most influential statement. Recorded largely in South Africa during apartheid, the record fused Simon’s storytelling with township jive, mbaqanga rhythms, and Zulu choral traditions. Featuring Ladysmith Black Mambazo and musicians like guitarist Ray Phiri, Graceland won the Grammy for Album of the Year and sparked global conversations about cultural collaboration and appropriation. It remains a landmark in pop music’s cross-cultural dialogue.</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
+    "address": "The Forum, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
+    "longitude": 0.258292,
+    "latitude": 51.127113,
+    "venue_name": "The Forum",
+    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2F7283c3fd-6100-48fb-b52c-2ef86ed3eee4&width=1000&mode=fit",
+    "tickets_url": "https://buytickets.at/quietvictories/1821950",
+    "url": "https://www.twforum.co.uk/events/2026-10-17-a-celebration-of-paul-simon-and-40-years-of-graceland-the-forum",
+    "start_date": "2026-10-17 19:30:00",
+    "end_date": "2026-10-17 23:45:00",
     "category": 12
   },
   {
@@ -357,7 +357,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-22-hawxx-the-sussex-arms",
     "start_date": "2026-10-22 19:30:00",
     "end_date": "2026-10-22 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 1923538697,
@@ -432,7 +432,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-24-a-celebration-of-oasis-30th-anniversary-of-knebworth-the-forum",
     "start_date": "2026-10-24 19:30:00",
     "end_date": "2026-10-24 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 2575047099,
@@ -447,7 +447,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-27-stable-2026-cranial-expect-less-forever-nowhere-tres-kings-the-forum",
     "start_date": "2026-10-27 19:00:00",
     "end_date": "2026-10-27 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 3291366130,
@@ -462,7 +462,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-28-stable-2026-tom-fleur-leisure-threat-ksenia-lewis-tiny-fish-very-fast-the-forum",
     "start_date": "2026-10-28 19:00:00",
     "end_date": "2026-10-28 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 3062562748,
@@ -477,7 +477,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-29-stable-2026-covered-in-punk-shark-belly-spex-appeal-strumpet-the-forum",
     "start_date": "2026-10-29 19:00:00",
     "end_date": "2026-10-29 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 2815751299,
@@ -507,7 +507,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-30-barrioke-the-big-2026-farewell-the-forum",
     "start_date": "2026-10-30 20:00:00",
     "end_date": "2026-10-30 23:45:00",
-    "category": 17
+    "category": 12
   },
   {
     "id": 1490574351,
@@ -537,7 +537,7 @@
     "url": "https://www.twforum.co.uk/events/2026-10-31-barrioke-the-big-final-2026-farewell-the-forum",
     "start_date": "2026-10-31 20:00:00",
     "end_date": "2026-10-31 23:45:00",
-    "category": 17
+    "category": 12
   },
   {
     "id": 3486315693,
@@ -585,6 +585,21 @@
     "category": 12
   },
   {
+    "id": 1956787789,
+    "title": "A celebration of Placebo: Debut Album 30th Anniversary",
+    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a><br><strong>Performed by Sucker Love</strong></p><p>Placebo are a thrilling, genre-defying rock band that electrifies every stage they step on. Since exploding onto the scene in the mid-’90s with their self-titled debut, they’ve carved out a reputation for raw energy, razor-sharp hooks and an unapologetic attitude that unites fans worldwide. Their first album Placebo stormed the UK charts, with bold singles like “Nancy Boy” breaking into the Top 5 and making international waves. Known for blistering live shows and a fiercely loyal following, Placebo deliver unforgettable performances that blur lines between punk aggression, glam edge and emotional depth. Don’t miss the chance to experience rock-legendary intensity live!</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
+    "address": "The Forum, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
+    "longitude": 0.258292,
+    "latitude": 51.127113,
+    "venue_name": "The Forum",
+    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-5-p.s3.amazonaws.com%2Foriginals%2Fbcdb7b3c-c81d-4e47-97ff-5fc107abb063&width=1000&mode=fit",
+    "tickets_url": "https://buytickets.at/quietvictories/2049614",
+    "url": "https://www.twforum.co.uk/events/2026-11-06-a-celebration-of-placebo-debut-album-30th-anniversary-the-forum",
+    "start_date": "2026-11-06 19:30:00",
+    "end_date": "2026-11-06 23:45:00",
+    "category": 12
+  },
+  {
     "id": 3131961595,
     "title": "Hollow",
     "description": "<p><strong>HOLLOW</strong> brings together members of Jet Black Bees, Mighty Worm, Seamonkeys and 18th Emergency. Phil, Frank, Jamie, Si and the enigmatic Ali deliver heritage grunge favourites with a splash of classic punk. Think Alice in Chains, Queens of the Stone Age, Stone Temple Pilots, Pearl Jam and Iggy Pop, and you will be in their world. After smashing their first few gigs, they are ready to begin their journey towards conquering Tunbridge Wells. Come support a great new cover band not following the herd</p><p>Age: 18+</p>",
@@ -600,19 +615,19 @@
     "category": 12
   },
   {
-    "id": 1956787789,
-    "title": "A celebration of Placebo: Debut Album 30th Anniversary",
-    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a><br><strong>Performed by Sucker Love</strong></p><p>Placebo are a thrilling, genre-defying rock band that electrifies every stage they step on. Since exploding onto the scene in the mid-’90s with their self-titled debut, they’ve carved out a reputation for raw energy, razor-sharp hooks and an unapologetic attitude that unites fans worldwide. Their first album Placebo stormed the UK charts, with bold singles like “Nancy Boy” breaking into the Top 5 and making international waves. Known for blistering live shows and a fiercely loyal following, Placebo deliver unforgettable performances that blur lines between punk aggression, glam edge and emotional depth. Don’t miss the chance to experience rock-legendary intensity live!</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
+    "id": 3378758442,
+    "title": "China Crisis",
+    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a></p><p>In 2026, China Crisis invite you to step into the next chapter of their story with their Warped 2026 tour, a journey through over four decades of innovative pop brilliance. Since their early 80’s breakthrough from Liverpool’s renown music scene, Gary Daly and Eddie Lundon have distinguished themselves with sound that is both instantly recognizable and constantly evolving.</p><p>Their sophisticated yet irresistibly catchy style of pop - blending everything from synths to soul and unexpected textures - produced beloved hits like “Wishful Thinking”, “African and White”, and “Arizona Sky” , and they continue to push forward now with fresh projects that highlight their adventurous songwriting and professional artistry. The band’s latest works, including their acclaimed Autumn in the Neighbourhood and China Greatness albums, prove their music shines brighter than ever, reaffirming their place as pioneers, innovators, and creators of timeless songs.</p><p>On stage, China Crisis remain true originals: blending classic songs, new work, and the humor and heart that make every performance unforgettable. The Warped 2026 tour is not just a celebration of their past—it’s a testament to a band still in full creative stride.</p><p>[YouTube URL=\"https://youtu.be/oj20LKdg8-8?si=oKb6owAk7CwSfNtO\"]</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
     "address": "The Forum, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
     "longitude": 0.258292,
     "latitude": 51.127113,
     "venue_name": "The Forum",
-    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-5-p.s3.amazonaws.com%2Foriginals%2Fbcdb7b3c-c81d-4e47-97ff-5fc107abb063&width=1000&mode=fit",
-    "tickets_url": "https://buytickets.at/quietvictories/2049614",
-    "url": "https://www.twforum.co.uk/events/2026-11-06-a-celebration-of-placebo-debut-album-30th-anniversary-the-forum",
-    "start_date": "2026-11-06 19:30:00",
-    "end_date": "2026-11-06 23:45:00",
-    "category": 6
+    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2Fe8860959-8ed4-4d31-9ea4-22e122ae9f30&width=1000&mode=fit",
+    "tickets_url": "https://buytickets.at/quietvictories/1972691",
+    "url": "https://www.twforum.co.uk/events/2026-11-07-china-crisis-the-forum",
+    "start_date": "2026-11-07 19:30:00",
+    "end_date": "2026-11-07 23:45:00",
+    "category": 12
   },
   {
     "id": 3156952940,
@@ -627,21 +642,6 @@
     "url": "https://www.twforum.co.uk/events/2026-11-07-the-rambling-club-the-forum-basement",
     "start_date": "2026-11-07 19:30:00",
     "end_date": "2026-11-07 23:00:00",
-    "category": 12
-  },
-  {
-    "id": 3378758442,
-    "title": "China Crisis",
-    "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a></p><p>In 2026, China Crisis invite you to step into the next chapter of their story with their Warped 2026 tour, a journey through over four decades of innovative pop brilliance. Since their early 80’s breakthrough from Liverpool’s renown music scene, Gary Daly and Eddie Lundon have distinguished themselves with sound that is both instantly recognizable and constantly evolving.</p><p>Their sophisticated yet irresistibly catchy style of pop - blending everything from synths to soul and unexpected textures - produced beloved hits like “Wishful Thinking”, “African and White”, and “Arizona Sky” , and they continue to push forward now with fresh projects that highlight their adventurous songwriting and professional artistry. The band’s latest works, including their acclaimed Autumn in the Neighbourhood and China Greatness albums, prove their music shines brighter than ever, reaffirming their place as pioneers, innovators, and creators of timeless songs.</p><p>On stage, China Crisis remain true originals: blending classic songs, new work, and the humor and heart that make every performance unforgettable. The Warped 2026 tour is not just a celebration of their past—it’s a testament to a band still in full creative stride.</p><p>[YouTube URL=\"https://youtu.be/oj20LKdg8-8?si=oKb6owAk7CwSfNtO\"]</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
-    "address": "The Forum, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
-    "longitude": 0.258292,
-    "latitude": 51.127113,
-    "venue_name": "The Forum",
-    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2Fe8860959-8ed4-4d31-9ea4-22e122ae9f30&width=1000&mode=fit",
-    "tickets_url": "https://buytickets.at/quietvictories/1972691",
-    "url": "https://www.twforum.co.uk/events/2026-11-07-china-crisis-the-forum",
-    "start_date": "2026-11-07 19:30:00",
-    "end_date": "2026-11-07 23:45:00",
     "category": 12
   },
   {
@@ -690,21 +690,6 @@
     "category": 12
   },
   {
-    "id": 1674644367,
-    "title": "Klämp",
-    "description": "<p><strong>KLAMP</strong> is the sound of terror on a journey to euphoria.</p><p>Formed by a gang of Brits living in the Netherlands, the band is now an entirely different beast<br>to what it started out as.</p><p>KLAMP have now settled into a six piece line up for recording and ‘never know who or what<br>you’re going to get’ live operation.</p><p>Currently putting the finishing touches to the follow up to ‘TOTAAL TECHNIEK’ (LP human<br>worth records) the sound is nearing the vision that was always in pursuit but never out of reach.</p><p>Mind bending, trance inducing, groove ridden (always loud), the live environment is the place to<br>experience the band and become truly fully immersed in the sonic force.</p><p>Tours with mclusky and Shearling, plus European festival appearances (Sonic Whip, Arctangent<br>etc) with peers such as Gnod and Maquina, has seen the band win over unsuspecting new fans<br>and steadily gain the reputation of a ‘must see’ live act.</p><p>Current and former members straddle both sides of the pond (NL/UK) and have a long list of<br>outfits under their belt including Idles, Tall ships, Manatees, Do me bad things etc... Although it<br>would be difficult to draw a comparison.</p><p>Brutal bliss' - Louder than war</p><p>'KLAMP are certainly a once in a lifetime experience' - Noizze</p><p>'Gross, gritty, and a little too real in places' - New noise</p><p>With Support from <strong>Lower Slaughter</strong></p><p>Having ploughed through the UK underground for over a decade, Sussex-by-the-sea’s Lower Slaughter unexpectedly returned in 2024 after an extended hiatus, with a shift in personnel, a new line-up &amp;amp; most recently a brand new album ‘Deep Living’, out on Human Worth!<br>The four piece once described themselves modestly as a band “who make loud riffs” though The Quietus description of “lurching noise-rock that occasionally works the angles but is chiefly a showpiece for big fuck-off riffs that call to mind Pissed Jeans, Nirvana and Harvey Milk” may be more accurate, and most certainly still holds true now.</p><p>Since their debut album release in 2017, the band has garnered high praise from the likes of BBC Radio 1 &amp;amp; BBC 6Music, The Quietus, Louder Than War, Artrocker (no.1 album of 2019), All Music, Loud &amp;amp; Quiet and Flush The Fashion, as well as finding fans among the likes of Huw Stephens, Steve Lamacq, Shaun Keaveny, John Kennedy &amp;amp; cult comedy legend Stewart Lee, whilst also sharing stages with such bands as Pigs x7, Melt Banana, Pissed Jeans, JOHN, Ditz, No Age, Part Chimp, The Men, Hey Colossus, USA Nails, Sex Swing, Gnod, among many others!</p><p>“One of the most unique noise rock bands to have appeared in the past five years.” The Quietus</p><p>“Ferocious, riff-heavy, angry punk!” Huw Stephens</p><p>“This is catharsis in youthful noise.” Loud &amp;amp; Quiet</p><p>“Politically and socially conscious, but it's also an absolute blast.” All Music</p><p>“Smartly alternating between bludgeoning noise rock and smart post-punk” – Louder Than War</p><p>“Lower Slaughter have always had a knack for full tilt riffs, equal parts noise rock rumble and garage slash”– Narc Magazine</p><p>Age: 18+</p>",
-    "address": "The Sussex Arms, Sussex Mews, Tunbridge Wells, TN2 5TE",
-    "longitude": 0.258314,
-    "latitude": 51.12549,
-    "venue_name": "The Sussex Arms",
-    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-5-p.s3.amazonaws.com%2Foriginals%2Fdbf966ee-ef20-4c67-945e-6ca1445088fd&width=1000&mode=fit",
-    "tickets_url": "https://www.twforum.co.uk/events/2026-11-13-klamp-the-sussex-arms",
-    "url": "https://www.twforum.co.uk/events/2026-11-13-klamp-the-sussex-arms",
-    "start_date": "2026-11-13 19:30:00",
-    "end_date": "2026-11-13 22:45:00",
-    "category": 12
-  },
-  {
     "id": 4000575621,
     "title": "A celebration of Metallica: 40th Anniversary of Master Of Puppets",
     "description": "<p>🕢   Venue opens - <strong>7:30pm</strong> :  🕚   Event finishes - <strong>11:00pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a><br><strong>Music performed by Metallica Reloaded</strong></p><p>We celebrate the greatest metal band of all time and what most consider their defining record.<br>40 years of Master Of Puppets</p><p>Plus all the other classic bangers you would expect to hear and bang your heads too.</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
@@ -717,21 +702,21 @@
     "url": "https://www.twforum.co.uk/events/2026-11-13-a-celebration-of-metallica-40th-anniversary-of-master-of-puppets-the-forum",
     "start_date": "2026-11-13 19:30:00",
     "end_date": "2026-11-13 23:45:00",
-    "category": 22
+    "category": 12
   },
   {
-    "id": 1050036267,
-    "title": "Make Friends",
-    "description": "<p>In 2025 Bristol-based band, <strong>Make Friends</strong> release their new single 'Hand-Delivered', as<br>part of their 'How Do You Know?’' EP, set to drop later in the year.</p><p>The band were formed after being collectively inspired by the indie-dance-punk of early<br>era Foals' 'Antidotes', and melodic alt-pop of Bombay Bicycle Club. The band continue<br>to bring their fresh take on modern indie music and their debut EP forged fan favourite<br>'Ellie', followed with a string of singles and a second EP in 2021.</p><p>Much of their work was written over various states of lockdown, which supplied a<br>surprisingly creative climate for the band, with lyrics naturally gravitating towards tackling<br>themes of isolation and mental health.</p><p>To date, the band have seen strong support from BBC Introducing in the West, with<br>stand-out singles 'Falter' + 'Fever' receiving Radio 1 Airplay, culminating in Make Friends<br>being selected for a live session at the esteemed Maida Vale Studios.</p><p>With the help of Ed Nash (Bombay Bicycle Club) at the helm as producer and co-writer,<br>Make Friends' began work on their ‘Loaded Fun’ EP, released in 2024, and continuing to<br>solidify their presence as frontrunners of the UK Indie scene. The EP received further<br>support from Radio 6, BBC Introducing and beyond, with Single ‘Maybe Tomorrow’ being<br>selected as part of their best of 2024 roundup, and lead single ‘Loaded Fun’ appearing<br>on ITV’s FA Cup roundup.</p><p>With Support from <strong>Polo Lounge</strong></p><p>Polo Lounge are an indie rock band from Southeast Kent, influenced by the dark edge of Arctic Monkeys with the dancefloor energy of Bloc Party and Foals. Known for infectious guitar hooks, driving rhythms, and high-energy live shows, the band have quickly built a buzz across the Southeast, gaining a reputation as one of Kent's most exciting emerging acts.</p><p>Polo Lounge have had their music played on various radio stations including, John Kennedy's X-posure shows on Radio X with the song \"L.A.F.S\". Polo Lounge's debut single \"Joyride\" was selected as BBC Introducing Kent's \"Record of the Week\", as well as having all other singles featured on BBC Introducing Kent. Polo Lounge have also recorded a live session for BBC Introducing Kent.</p><p>Latest single “Paradise” is out now. Live shows are booked for the second half of the year and an EP is currently being recorded at Big Jelly Studios in Ramsgate, to be released later in 2026.</p><p>Age: 18+</p>",
-    "address": "Forum Basement, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
-    "longitude": 0.258292,
-    "latitude": 51.127113,
-    "venue_name": "Forum Basement",
-    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2F2db6a838-9a10-4983-a772-f80d6469cc5a&width=1000&mode=fit",
-    "tickets_url": "https://www.twforum.co.uk/events/2026-11-14-make-friends-the-forum-basement",
-    "url": "https://www.twforum.co.uk/events/2026-11-14-make-friends-the-forum-basement",
-    "start_date": "2026-11-14 19:30:00",
-    "end_date": "2026-11-14 23:45:00",
+    "id": 1674644367,
+    "title": "Klämp",
+    "description": "<p><strong>KLAMP</strong> is the sound of terror on a journey to euphoria.</p><p>Formed by a gang of Brits living in the Netherlands, the band is now an entirely different beast<br>to what it started out as.</p><p>KLAMP have now settled into a six piece line up for recording and ‘never know who or what<br>you’re going to get’ live operation.</p><p>Currently putting the finishing touches to the follow up to ‘TOTAAL TECHNIEK’ (LP human<br>worth records) the sound is nearing the vision that was always in pursuit but never out of reach.</p><p>Mind bending, trance inducing, groove ridden (always loud), the live environment is the place to<br>experience the band and become truly fully immersed in the sonic force.</p><p>Tours with mclusky and Shearling, plus European festival appearances (Sonic Whip, Arctangent<br>etc) with peers such as Gnod and Maquina, has seen the band win over unsuspecting new fans<br>and steadily gain the reputation of a ‘must see’ live act.</p><p>Current and former members straddle both sides of the pond (NL/UK) and have a long list of<br>outfits under their belt including Idles, Tall ships, Manatees, Do me bad things etc... Although it<br>would be difficult to draw a comparison.</p><p>Brutal bliss' - Louder than war</p><p>'KLAMP are certainly a once in a lifetime experience' - Noizze</p><p>'Gross, gritty, and a little too real in places' - New noise</p><p>With Support from <strong>Lower Slaughter</strong></p><p>Having ploughed through the UK underground for over a decade, Sussex-by-the-sea’s Lower Slaughter unexpectedly returned in 2024 after an extended hiatus, with a shift in personnel, a new line-up &amp;amp; most recently a brand new album ‘Deep Living’, out on Human Worth!<br>The four piece once described themselves modestly as a band “who make loud riffs” though The Quietus description of “lurching noise-rock that occasionally works the angles but is chiefly a showpiece for big fuck-off riffs that call to mind Pissed Jeans, Nirvana and Harvey Milk” may be more accurate, and most certainly still holds true now.</p><p>Since their debut album release in 2017, the band has garnered high praise from the likes of BBC Radio 1 &amp;amp; BBC 6Music, The Quietus, Louder Than War, Artrocker (no.1 album of 2019), All Music, Loud &amp;amp; Quiet and Flush The Fashion, as well as finding fans among the likes of Huw Stephens, Steve Lamacq, Shaun Keaveny, John Kennedy &amp;amp; cult comedy legend Stewart Lee, whilst also sharing stages with such bands as Pigs x7, Melt Banana, Pissed Jeans, JOHN, Ditz, No Age, Part Chimp, The Men, Hey Colossus, USA Nails, Sex Swing, Gnod, among many others!</p><p>“One of the most unique noise rock bands to have appeared in the past five years.” The Quietus</p><p>“Ferocious, riff-heavy, angry punk!” Huw Stephens</p><p>“This is catharsis in youthful noise.” Loud &amp;amp; Quiet</p><p>“Politically and socially conscious, but it's also an absolute blast.” All Music</p><p>“Smartly alternating between bludgeoning noise rock and smart post-punk” – Louder Than War</p><p>“Lower Slaughter have always had a knack for full tilt riffs, equal parts noise rock rumble and garage slash”– Narc Magazine</p><p>Age: 18+</p>",
+    "address": "The Sussex Arms, Sussex Mews, Tunbridge Wells, TN2 5TE",
+    "longitude": 0.258314,
+    "latitude": 51.12549,
+    "venue_name": "The Sussex Arms",
+    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-5-p.s3.amazonaws.com%2Foriginals%2Fdbf966ee-ef20-4c67-945e-6ca1445088fd&width=1000&mode=fit",
+    "tickets_url": "https://www.twforum.co.uk/events/2026-11-13-klamp-the-sussex-arms",
+    "url": "https://www.twforum.co.uk/events/2026-11-13-klamp-the-sussex-arms",
+    "start_date": "2026-11-13 19:30:00",
+    "end_date": "2026-11-13 22:45:00",
     "category": 12
   },
   {
@@ -750,6 +735,21 @@
     "category": 12
   },
   {
+    "id": 1050036267,
+    "title": "Make Friends",
+    "description": "<p>In 2025 Bristol-based band, <strong>Make Friends</strong> release their new single 'Hand-Delivered', as<br>part of their 'How Do You Know?’' EP, set to drop later in the year.</p><p>The band were formed after being collectively inspired by the indie-dance-punk of early<br>era Foals' 'Antidotes', and melodic alt-pop of Bombay Bicycle Club. The band continue<br>to bring their fresh take on modern indie music and their debut EP forged fan favourite<br>'Ellie', followed with a string of singles and a second EP in 2021.</p><p>Much of their work was written over various states of lockdown, which supplied a<br>surprisingly creative climate for the band, with lyrics naturally gravitating towards tackling<br>themes of isolation and mental health.</p><p>To date, the band have seen strong support from BBC Introducing in the West, with<br>stand-out singles 'Falter' + 'Fever' receiving Radio 1 Airplay, culminating in Make Friends<br>being selected for a live session at the esteemed Maida Vale Studios.</p><p>With the help of Ed Nash (Bombay Bicycle Club) at the helm as producer and co-writer,<br>Make Friends' began work on their ‘Loaded Fun’ EP, released in 2024, and continuing to<br>solidify their presence as frontrunners of the UK Indie scene. The EP received further<br>support from Radio 6, BBC Introducing and beyond, with Single ‘Maybe Tomorrow’ being<br>selected as part of their best of 2024 roundup, and lead single ‘Loaded Fun’ appearing<br>on ITV’s FA Cup roundup.</p><p>With Support from <strong>Polo Lounge</strong></p><p>Polo Lounge are an indie rock band from Southeast Kent, influenced by the dark edge of Arctic Monkeys with the dancefloor energy of Bloc Party and Foals. Known for infectious guitar hooks, driving rhythms, and high-energy live shows, the band have quickly built a buzz across the Southeast, gaining a reputation as one of Kent's most exciting emerging acts.</p><p>Polo Lounge have had their music played on various radio stations including, John Kennedy's X-posure shows on Radio X with the song \"L.A.F.S\". Polo Lounge's debut single \"Joyride\" was selected as BBC Introducing Kent's \"Record of the Week\", as well as having all other singles featured on BBC Introducing Kent. Polo Lounge have also recorded a live session for BBC Introducing Kent.</p><p>Latest single “Paradise” is out now. Live shows are booked for the second half of the year and an EP is currently being recorded at Big Jelly Studios in Ramsgate, to be released later in 2026.</p><p>Age: 18+</p>",
+    "address": "Forum Basement, The Common, Fonthill, Tunbridge Wells, TN4 8YU",
+    "longitude": 0.258292,
+    "latitude": 51.127113,
+    "venue_name": "Forum Basement",
+    "image_url": "https://musicglue-images-prod.global.ssl.fastly.net/resize?url=https%3A%2F%2Fmusicglue-user-app-p-4-p.s3.amazonaws.com%2Foriginals%2F2db6a838-9a10-4983-a772-f80d6469cc5a&width=1000&mode=fit",
+    "tickets_url": "https://www.twforum.co.uk/events/2026-11-14-make-friends-the-forum-basement",
+    "url": "https://www.twforum.co.uk/events/2026-11-14-make-friends-the-forum-basement",
+    "start_date": "2026-11-14 19:30:00",
+    "end_date": "2026-11-14 23:45:00",
+    "category": 12
+  },
+  {
     "id": 3012030241,
     "title": "Millie Manders and The Shutup",
     "description": "<p>🕖   Venue opens - <strong>7:00pm</strong> :  🕥   Event finishes - <strong>10:30pm</strong></p><p>🪑 <strong>Standing show</strong></p><p>♿  <a href=\"https://www.twforum.co.uk/posts/access-starts-online-venue-access-info\"><strong>Accessibility Information</strong></a></p><p><strong>Millie Manders and The Shutup create cross-genre punk that is hard to ignore.</strong></p><p>With lyricism that pokes fun, draws you in or leaves you questioning social norms teamed with incredible vocal dexterity, grinding guitars, irresistible horn hooks and a pumping rhythm section, the Millie Manders Music Machine churns out more raw punk fusion than you can shake a stick at, with a huge amount of Pop appeal.</p><p>Age: 16+ (under 16s accompanied by an adult)</p>",
@@ -762,7 +762,7 @@
     "url": "https://www.twforum.co.uk/events/2026-11-19-millie-manders-and-the-shutup-the-forum",
     "start_date": "2026-11-19 19:00:00",
     "end_date": "2026-11-19 22:30:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 2043148541,
@@ -777,7 +777,7 @@
     "url": "https://www.twforum.co.uk/events/2026-11-20-danny-rampling-plus-guests-danny-clockwork-and-charlie-the-forum",
     "start_date": "2026-11-20 20:00:00",
     "end_date": "2026-11-20 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 3010813839,
@@ -837,7 +837,7 @@
     "url": "https://www.twforum.co.uk/events/2026-11-26-the-forum",
     "start_date": "2026-11-26 19:30:00",
     "end_date": "2026-11-26 23:45:00",
-    "category": 7
+    "category": 12
   },
   {
     "id": 2054747921,
@@ -867,7 +867,7 @@
     "url": "https://www.twforum.co.uk/events/2026-11-28-the-cureheads-50-years-of-the-cure-the-forum",
     "start_date": "2026-11-28 19:30:00",
     "end_date": "2026-11-28 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 292776190,
@@ -942,7 +942,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-06-the-forum",
     "start_date": "2026-12-06 18:00:00",
     "end_date": "2026-12-06 23:45:00",
-    "category": 21
+    "category": 12
   },
   {
     "id": 1010097552,
@@ -972,7 +972,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-09-the-forum",
     "start_date": "2026-12-09 19:00:00",
     "end_date": "2026-12-09 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 968698909,
@@ -1077,7 +1077,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-18-fat-freddie-and-the-queens-the-forum",
     "start_date": "2026-12-18 19:30:00",
     "end_date": "2026-12-18 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 654789438,
@@ -1092,7 +1092,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-19-anti-nowhere-league-the-forum",
     "start_date": "2026-12-19 19:30:00",
     "end_date": "2026-12-19 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 3554621005,
@@ -1122,7 +1122,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-21-tow-rag-christmas-buccaneer-bash-the-forum",
     "start_date": "2026-12-21 19:00:00",
     "end_date": "2026-12-21 23:45:00",
-    "category": 5
+    "category": 12
   },
   {
     "id": 446452948,
@@ -1137,7 +1137,7 @@
     "url": "https://www.twforum.co.uk/events/2026-12-22-origami-dinosaur-christmas-party-the-forum",
     "start_date": "2026-12-22 19:00:00",
     "end_date": "2026-12-22 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 1927873243,
@@ -1197,7 +1197,7 @@
     "url": "https://www.twforum.co.uk/events/2027-01-16-beatles-night-2027-60-years-of-sgt-pepper-the-forum",
     "start_date": "2027-01-16 19:00:00",
     "end_date": "2027-01-16 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 1517222973,
@@ -1272,7 +1272,7 @@
     "url": "https://www.twforum.co.uk/events/2027-02-03-split-dogs-and-bruise-control-the-forum",
     "start_date": "2027-02-03 19:00:00",
     "end_date": "2027-02-03 23:45:00",
-    "category": 22
+    "category": 12
   },
   {
     "id": 171496871,
@@ -1317,7 +1317,7 @@
     "url": "https://www.twforum.co.uk/events/2027-02-12-goldie-lookin-chain-the-forum",
     "start_date": "2027-02-12 19:30:00",
     "end_date": "2027-02-12 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 411713421,
@@ -1392,7 +1392,7 @@
     "url": "https://www.twforum.co.uk/events/2027-03-06-the-forum",
     "start_date": "2027-03-06 20:00:00",
     "end_date": "2027-03-06 23:45:00",
-    "category": 21
+    "category": 12
   },
   {
     "id": 3455006807,
@@ -1407,7 +1407,7 @@
     "url": "https://www.twforum.co.uk/events/2027-03-12-a-celebration-of-linkin-park-and-evanescence-the-forum",
     "start_date": "2027-03-12 19:30:00",
     "end_date": "2027-03-12 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 4218681797,
@@ -1497,7 +1497,7 @@
     "url": "https://www.twforum.co.uk/events/2027-04-03-general-levy-the-forum",
     "start_date": "2027-04-03 19:30:00",
     "end_date": "2027-04-03 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 367674912,
@@ -1587,7 +1587,7 @@
     "url": "https://www.twforum.co.uk/events/2027-05-22-a-celebration-of-radiohead-30-years-of-ok-computer-the-forum",
     "start_date": "2027-05-22 19:30:00",
     "end_date": "2027-05-22 23:45:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 3121046786,
@@ -1617,7 +1617,7 @@
     "url": "https://www.twforum.co.uk/events/2027-07-08-the-smyths-40th-anniversary-of-strangeways-here-we-come-the-forum",
     "start_date": "2027-07-08 19:30:00",
     "end_date": "2027-07-08 23:45:00",
-    "category": 29
+    "category": 12
   },
   {
     "id": 4205186610,
