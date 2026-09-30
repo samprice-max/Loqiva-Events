@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-30T15:31:03.102Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "Hotel du Vin Tunbridge Wells",
+        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
+        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
+        "events": 1,
+        "status": "low"
+      }
+    ],
+    "total_events": 1,
+    "errors": [],
+    "duration_seconds": 12
+  },
+  {
     "timestamp": "2026-09-30T14:33:07.949Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -765,21 +781,5 @@
     "total_events": 16,
     "errors": [],
     "duration_seconds": 34
-  },
-  {
-    "timestamp": "2026-09-23T13:32:24.477Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "St John's Church Harborne",
-        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
-        "filename": "harborne-stjohns-churchsuite-com.json",
-        "events": 166,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 166,
-    "errors": [],
-    "duration_seconds": 4
   }
 ]
