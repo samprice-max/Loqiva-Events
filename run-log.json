@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-09-30T15:53:12.481Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "The Amelia Scott",
+        "url": "https://theamelia.co.uk/events/",
+        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
+        "events": 230,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 230,
+    "errors": [],
+    "duration_seconds": 80
+  },
+  {
     "timestamp": "2026-09-30T15:31:03.102Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -765,21 +781,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-23T13:56:44.808Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "White Horse Harborne",
-        "url": "http://www.whitehorseharborne.com/Live-Music.html",
-        "filename": "harborne-whitehorseharborne-com.json",
-        "events": 16,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 16,
-    "errors": [],
-    "duration_seconds": 34
   }
 ]
