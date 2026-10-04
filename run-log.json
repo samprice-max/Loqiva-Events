@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-10-04T22:20:11.445Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 34,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 44,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 110,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 12,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 200,
+    "errors": [],
+    "duration_seconds": 1209
+  },
+  {
     "timestamp": "2026-10-04T22:02:28.368Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -859,21 +896,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-23T14:34:06.842Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Barefoot Yoga Harborne",
-        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
-        "filename": "harborne-momence-com.json",
-        "events": 155,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 155,
-    "errors": [],
-    "duration_seconds": 4
   }
 ]
