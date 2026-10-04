@@ -1,50 +1,5 @@
 [
   {
-    "id": 3787943829,
-    "title": "Aura Saturdays!",
-    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
-    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
-    "longitude": 0.2616181,
-    "latitude": 51.1283149,
-    "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/d/3/6/2303572_64756844_Aura-Saturdays-.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588832/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588832/",
-    "start_date": "2026-09-26 23:00:00",
-    "end_date": "2026-09-27 04:00:00",
-    "category": 11
-  },
-  {
-    "id": 1936049616,
-    "title": "B.A.G - Black and Gold",
-    "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
-    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
-    "longitude": 0.2616181,
-    "latitude": 51.1283149,
-    "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/d/7/6/2321716_5af39a34_b-a-g-black-and-gold.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659475/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659475/",
-    "start_date": "2026-10-02 22:00:00",
-    "end_date": "2026-10-03 04:00:00",
-    "category": 11
-  },
-  {
-    "id": 2297341965,
-    "title": "Aura Saturdays!",
-    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
-    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
-    "longitude": 0.2616181,
-    "latitude": 51.1283149,
-    "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/d/4/2303572_64756844_Aura-Saturdays-.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588833/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588833/",
-    "start_date": "2026-10-03 23:00:00",
-    "end_date": "2026-10-04 04:00:00",
-    "category": 11
-  },
-  {
     "id": 1037540452,
     "title": "Aura Saturdays!",
     "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
@@ -147,6 +102,21 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659476/",
     "start_date": "2026-11-06 22:00:00",
     "end_date": "2026-11-07 04:00:00",
+    "category": 11
+  },
+  {
+    "id": 3932439243,
+    "title": "The Revival",
+    "description": "<p>Proper house music lands at Aura Tunbridge Wells for the REVIVAL launch. High-energy sets, VIP packages, and dancefloor vibes until 4am.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/e/2/2351913_926a2b9e_the-revival.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Revival/42805685/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Revival/42805685/",
+    "start_date": "2026-11-07 21:00:00",
+    "end_date": "2026-11-08 04:00:00",
     "category": 11
   },
   {
