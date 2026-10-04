@@ -165,6 +165,21 @@
     "category": 12
   },
   {
+    "id": 1973219466,
+    "title": "TW Comedy Club: Lineup TBC",
+    "description": "<p>Tunbridge Wells Comedy Club returns to The Grey Lady for a night of live stand-up. Line-up and tickets coming soon.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://twcomedy.club/tunbridge-wells/",
+    "url": "https://www.70-72thepantiles.co.uk/event/tw-comedy-club-lineup-tbc/",
+    "start_date": "2026-11-19 20:00:00",
+    "end_date": "2026-11-19 23:00:00",
+    "category": 3
+  },
+  {
     "id": 1829301974,
     "title": "Fiesta Latina",
     "description": "<p>Fiesta Latina returns to The Grey Lady for a night of salsa, bachata, reggaeton and Latin hits.</p><p>Line-up, theme and ticket details to be confirmed.</p><p>Presented by YANIFIT. Tickets and info: bookwhen.com/yanifit or WhatsApp 07598816203.</p>",
