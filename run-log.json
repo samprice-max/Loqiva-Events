@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-10-04T22:01:38.237Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 158,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Stores",
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "filename": "harborne-craftunionpubs-com.json",
+        "events": 122,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 12,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 151,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 484,
+    "errors": [],
+    "duration_seconds": 96
+  },
+  {
     "timestamp": "2026-09-30T16:00:56.562Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -768,21 +819,5 @@
     "total_events": 155,
     "errors": [],
     "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-23T14:09:12.308Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "White Horse Harborne",
-        "url": "http://www.whitehorseharborne.com/Live-Music.html",
-        "filename": "harborne-whitehorseharborne-com.json",
-        "events": 14,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 14,
-    "errors": [],
-    "duration_seconds": 38
   }
 ]
