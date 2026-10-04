@@ -88,5 +88,20 @@
     "start_date": "2026-12-06 10:00:00",
     "end_date": "2026-12-06 13:00:00",
     "category": 29
+  },
+  {
+    "id": 2365751556,
+    "title": "King Charles Lecture 2027",
+    "description": "<h4>The Lives and Afterlives of 17th Century Fashion, by Serena Dyer</h4> <p>From the origami-like folds of the mantua to the popularisation of bodies, the ancestor of the corset, women's clothing of the 1600s shaped fashion for centuries to come. This lecture reveals how, as the needle passed from male tailors to female seamstresses and mantua-makers, the way that women's garments were made and sold was altered forever. But the story of these garments didn't end in the 17th century. We will explore the afterlives of Stuart fashion, examining the period's powerful influence on portraiture and the romanticised revival of 17th-century style in 18th- and 19th-century fancy dress. To bring this history off the canvas and into the physical world, this talk features insights from Serena's own historical garment reconstruction projects. Through deep dives into pieces like structural maternity bodies, an early Mantua gown, and a 1740s 'Vandyke' gown, we will uncover how making and wearing recreated garments can enrich our view of this influential period.</p> <div>Dr Serena Dyer is a historian, curator, and broadcaster specialising in histories of fashion, craft, and making. She is the author of Material Lives (Bloomsbury, 2021), Labour of the Stitch (Cambridge University Press, 2024), and the forthcoming Georgian Fashion (Yale University Press, 2027). She has presented the Fashion Through History digital series for English Heritage, and regularly appears on TV and radio. She was previously Associate Professor of Fashion History at De Montfort University, and has also held academic and curatorial posts at the University of Warwick and the National Portrait Gallery. </div> <div> </div>",
+    "address": "King Charles the Martyr, 3 Warwick Park, Tunbridge Wells, TN2 5TA",
+    "longitude": 0.259272,
+    "latitude": 51.12677,
+    "venue_name": "King Charles the Martyr",
+    "image_url": "https://cdn.churchsuite.com/EKDeGmiS/calendar/events/134_3NddhlEY_md.jpg",
+    "tickets_url": "https://kingcharleschurch.churchsuite.com/events/ojlrobvy",
+    "url": "https://kingcharleschurch.churchsuite.com/events/ojlrobvy",
+    "start_date": "2027-01-30 14:30:00",
+    "end_date": "2027-01-30 15:30:00",
+    "category": 4
   }
 ]
