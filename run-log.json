@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-06T07:45:00.600Z",
+    "hub": "Jewellery Quarter",
+    "venues": [
+      {
+        "venue": "The Jam House",
+        "url": "https://thejamhouse.com/birmingham/whats-on/",
+        "filename": "jewellery-quarter-thejamhouse-com.json",
+        "events": 52,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 52,
+    "errors": [],
+    "duration_seconds": 12
+  },
+  {
     "timestamp": "2026-10-06T07:41:11.573Z",
     "hub": "Jewellery Quarter",
     "venues": [
@@ -883,21 +899,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-23T14:43:17.551Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Golf Club",
-        "url": "https://www.harbornegolfclub.org.uk/opens",
-        "filename": "harborne-harbornegolfclub-org-uk.json",
-        "events": 12,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 12,
-    "errors": [],
-    "duration_seconds": 31
   }
 ]
