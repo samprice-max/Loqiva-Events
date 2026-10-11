@@ -1,20 +1,5 @@
 [
   {
-    "id": 1037540452,
-    "title": "Aura Saturdays!",
-    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
-    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
-    "longitude": 0.2616181,
-    "latitude": 51.1283149,
-    "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/2/4/a/2303572_64756844_Aura-Saturdays-.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588834/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588834/",
-    "start_date": "2026-10-10 23:00:00",
-    "end_date": "2026-10-11 04:00:00",
-    "category": 11
-  },
-  {
     "id": 2312613919,
     "title": "Aura Saturdays!",
     "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
@@ -60,21 +45,6 @@
     "category": 11
   },
   {
-    "id": 2737048517,
-    "title": "Aura Saturdays!",
-    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
-    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
-    "longitude": 0.2616181,
-    "latitude": 51.1283149,
-    "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/8/a/7/2303572_64756844_Aura-Saturdays-.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588837/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588837/",
-    "start_date": "2026-10-31 23:00:00",
-    "end_date": "2026-11-01 04:00:00",
-    "category": 11
-  },
-  {
     "id": 4183063360,
     "title": "The Dolls house at Aura",
     "description": "<p>Are you brave enough? Step into Aura's terrifying Dolls House this Halloween. Live DJs, séances & huge fancy dress prizes! 9PM-4AM.</p>",
@@ -90,7 +60,22 @@
     "category": 11
   },
   {
-    "id": 1403915136,
+    "id": 2737048517,
+    "title": "Aura Saturdays!",
+    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/8/a/7/2303572_64756844_Aura-Saturdays-.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588837/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588837/",
+    "start_date": "2026-10-31 23:00:00",
+    "end_date": "2026-11-01 04:00:00",
+    "category": 11
+  },
+  {
+    "id": 3336252483,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -100,7 +85,7 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/e/c/7/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659476/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659476/",
-    "start_date": "2026-11-06 22:00:00",
+    "start_date": "2026-11-06 20:00:00",
     "end_date": "2026-11-07 04:00:00",
     "category": 11
   },
@@ -180,7 +165,7 @@
     "category": 11
   },
   {
-    "id": 3461846393,
+    "id": 4090827288,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -190,7 +175,7 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/b/f/8/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659477/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659477/",
-    "start_date": "2026-12-04 22:00:00",
+    "start_date": "2026-12-04 20:00:00",
     "end_date": "2026-12-05 04:00:00",
     "category": 11
   },
@@ -255,7 +240,7 @@
     "category": 11
   },
   {
-    "id": 1861152847,
+    "id": 3233072254,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -265,7 +250,7 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/6/2/1/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659478/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659478/",
-    "start_date": "2027-01-01 22:00:00",
+    "start_date": "2027-01-01 20:00:00",
     "end_date": "2027-01-02 04:00:00",
     "category": 11
   },
@@ -345,7 +330,7 @@
     "category": 11
   },
   {
-    "id": 2371158465,
+    "id": 2249596951,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -355,7 +340,7 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/5/b/a/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659479/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659479/",
-    "start_date": "2027-02-05 22:00:00",
+    "start_date": "2027-02-05 20:00:00",
     "end_date": "2027-02-06 04:00:00",
     "category": 11
   },
@@ -420,7 +405,7 @@
     "category": 11
   },
   {
-    "id": 2955347100,
+    "id": 3067372033,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -430,12 +415,12 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/4/2/4/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659480/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659480/",
-    "start_date": "2027-03-05 22:00:00",
+    "start_date": "2027-03-05 20:00:00",
     "end_date": "2027-03-06 04:00:00",
     "category": 11
   },
   {
-    "id": 2365624958,
+    "id": 2021879924,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -445,12 +430,12 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/4/9/d/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659481/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659481/",
-    "start_date": "2027-04-02 22:00:00",
+    "start_date": "2027-04-02 20:00:00",
     "end_date": "2027-04-03 04:00:00",
     "category": 11
   },
   {
-    "id": 1451315301,
+    "id": 1128177103,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -460,12 +445,12 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/6/c/d/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659483/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659483/",
-    "start_date": "2027-06-04 22:00:00",
+    "start_date": "2027-06-04 20:00:00",
     "end_date": "2027-06-05 04:00:00",
     "category": 11
   },
   {
-    "id": 1011540867,
+    "id": 1253654684,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -475,12 +460,12 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/6/e/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659484/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659484/",
-    "start_date": "2027-07-02 22:00:00",
+    "start_date": "2027-07-02 20:00:00",
     "end_date": "2027-07-03 04:00:00",
     "category": 11
   },
   {
-    "id": 1013129180,
+    "id": 1212405338,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -490,12 +475,12 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/e/0/a/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659485/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659485/",
-    "start_date": "2027-08-06 22:00:00",
+    "start_date": "2027-08-06 20:00:00",
     "end_date": "2027-08-07 04:00:00",
     "category": 11
   },
   {
-    "id": 1106091172,
+    "id": 3773046116,
     "title": "B.A.G - Black and Gold",
     "description": "<p>B.A.G. - The Grand Opening at Aura Tunbridge Wells. Premium Black and Gold nightlife with great music and unforgettable vibes.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
@@ -505,7 +490,7 @@
     "image_url": "https://d31fr2pwly4c4s.cloudfront.net/c/5/a/2321716_5af39a34_b-a-g-black-and-gold.jpg",
     "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659486/",
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659486/",
-    "start_date": "2027-09-03 22:00:00",
+    "start_date": "2027-09-03 20:00:00",
     "end_date": "2027-09-04 04:00:00",
     "category": 11
   }
