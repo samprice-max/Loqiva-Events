@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-10-11T22:01:20.441Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 145,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 17,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 10,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 151,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 363,
+    "errors": [
+      {
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
+      }
+    ],
+    "duration_seconds": 79
+  },
+  {
     "timestamp": "2026-10-06T12:12:33.291Z",
     "hub": "Canterbury",
     "venues": [
@@ -886,21 +935,5 @@
     "total_events": 0,
     "errors": [],
     "duration_seconds": 1
-  },
-  {
-    "timestamp": "2026-09-23T15:23:18.868Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Pool & Fitness Centre",
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/centre-activities/swimming-lessons/#timetable",
-        "filename": "harborne-harborne-pool-fitness-centre.json",
-        "events": 0,
-        "status": "empty"
-      }
-    ],
-    "total_events": 0,
-    "errors": [],
-    "duration_seconds": 22
   }
 ]
