@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-12T10:41:46.985Z",
+    "hub": "Canterbury",
+    "venues": [
+      {
+        "venue": "Canterbury Festival",
+        "url": "https://canterburyfestival.co.uk/whats-on/",
+        "filename": "canterbury-canterburyfestival-co-uk.json",
+        "events": 140,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 140,
+    "errors": [],
+    "duration_seconds": 6
+  },
+  {
     "timestamp": "2026-10-12T10:17:07.989Z",
     "hub": "Canterbury",
     "venues": [
@@ -1003,18 +1019,5 @@
       }
     ],
     "duration_seconds": 17
-  },
-  {
-    "timestamp": "2026-09-23T16:28:33.364Z",
-    "hub": "Harborne",
-    "venues": [],
-    "total_events": 0,
-    "errors": [
-      {
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/#timetable",
-        "error": "Could not find #timetable-data input in page HTML"
-      }
-    ],
-    "duration_seconds": 12
   }
 ]
