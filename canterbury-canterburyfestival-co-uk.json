@@ -27,7 +27,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674982/events/428786543",
     "start_date": "2026-10-25 14:00:00",
     "end_date": "2026-10-25 16:00:00",
-    "category": 19
+    "category": 13
   },
   {
     "id": 3744658060,
@@ -42,7 +42,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675037/events/428786660",
     "start_date": "2026-10-28 17:45:00",
     "end_date": "2026-10-28 19:45:00",
-    "category": 6
+    "category": 13
   },
   {
     "id": 128119503,
@@ -57,7 +57,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674599/events/428785647",
     "start_date": "2026-10-16 17:45:00",
     "end_date": "2026-10-16 19:45:00",
-    "category": 17
+    "category": 13
   },
   {
     "id": 829617618,
@@ -72,7 +72,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674648/events/428785769",
     "start_date": "2026-10-17 15:00:00",
     "end_date": "2026-10-17 17:00:00",
-    "category": 25
+    "category": 13
   },
   {
     "id": 998414844,
@@ -87,7 +87,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674784/events/428786062",
     "start_date": "2026-10-21 19:45:00",
     "end_date": "2026-10-21 21:45:00",
-    "category": 19
+    "category": 13
   },
   {
     "id": 1935424230,
@@ -102,7 +102,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674652/events/428785776",
     "start_date": "2026-10-17 17:00:00",
     "end_date": "2026-10-17 19:00:00",
-    "category": 19
+    "category": 13
   },
   {
     "id": 1509230990,
@@ -132,7 +132,22 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674788/events/428786067",
     "start_date": "2026-10-22 17:45:00",
     "end_date": "2026-10-22 19:45:00",
-    "category": 6
+    "category": 13
+  },
+  {
+    "id": 1221670790,
+    "title": "Elif Shafak: In One Brief Moment All Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Join multi-award-winning British-Turkish novelist and storyteller Elif Shafak as she discusses her new novel, In One Brief Moment All Eternity , a meditation on creativity in the darkest of times. In this boldly rendered novel, Elif Shafak imagines in vivid colour the life of legendary French writer Gustave Flaubert and all the women who possessed him&mdash;the fictional ones he conjured and the real ones who shaped him&mdash;particularly Madame Bovary. On the heels of her most successful book yet, There Are Rivers in the Sky , Shafak gives us a triumphant new tale that weaves the traditions of the European realist novel with the ethereal, twilight-tinged oral storytelling of the Middle East. Chaired by writer and Chair of Virago Press Lennie Goodings ( A Bite of the Apple: A Life with Books, Writers and Virago ). A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more . Books will be sold at the talks and online by The Bookshop at Canterbury Christ Church University. For more information&nbsp; click here . Canterbury City Council is supporting&nbsp; Off the Page &nbsp;events as part of Canterbury&apos;s proposed UNESCO City of Literature bid and its commitment to the ambitions of the Council&apos;s Ten-Year Cultural Strategy.</p>",
+    "address": "Canterbury Christ Church University - Chaplaincy Centre, N Holmes Rd, Canterbury CT1 1QN",
+    "longitude": 1.0916799,
+    "latitude": 51.2792381,
+    "venue_name": "Augustine Hall - Canterbury Christ Church University",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/hsno2g6u18z5tu3xogqqaq32plul/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674779/events/428786055",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674779/events/428786055",
+    "start_date": "2026-10-20 19:45:00",
+    "end_date": "2026-10-20 21:45:00",
+    "category": 13
   },
   {
     "id": 2704608640,
@@ -147,7 +162,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674980/events/428786541",
     "start_date": "2026-10-24 19:00:00",
     "end_date": "2026-10-24 21:00:00",
-    "category": 25
+    "category": 13
   },
   {
     "id": 4089148934,
@@ -192,7 +207,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675056/events/428786706",
     "start_date": "2026-10-31 14:00:00",
     "end_date": "2026-10-31 16:00:00",
-    "category": 17
+    "category": 13
   },
   {
     "id": 2909799328,
@@ -207,7 +222,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674978/events/428786539",
     "start_date": "2026-10-24 15:00:00",
     "end_date": "2026-10-24 17:00:00",
-    "category": 8
+    "category": 13
   },
   {
     "id": 3543978100,
@@ -222,7 +237,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674740/events/428785952",
     "start_date": "2026-10-19 19:45:00",
     "end_date": "2026-10-19 21:45:00",
-    "category": 10
+    "category": 13
   },
   {
     "id": 540129174,
@@ -237,7 +252,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675058/events/428786708",
     "start_date": "2026-10-31 16:00:00",
     "end_date": "2026-10-31 18:00:00",
-    "category": 25
+    "category": 13
   },
   {
     "id": 573156709,
@@ -252,7 +267,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674977/events/428786538",
     "start_date": "2026-10-24 13:00:00",
     "end_date": "2026-10-24 15:00:00",
-    "category": 19
+    "category": 13
   },
   {
     "id": 551287314,
@@ -267,7 +282,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674633/events/428785726",
     "start_date": "2026-10-16 19:45:00",
     "end_date": "2026-10-16 21:45:00",
-    "category": 6
+    "category": 13
   },
   {
     "id": 3920832086,
@@ -282,7 +297,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675041/events/428786664",
     "start_date": "2026-10-29 17:45:00",
     "end_date": "2026-10-29 19:45:00",
-    "category": 25
+    "category": 13
   },
   {
     "id": 897018488,
@@ -327,7 +342,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674789/events/428786068",
     "start_date": "2026-10-22 19:45:00",
     "end_date": "2026-10-22 21:45:00",
-    "category": 19
+    "category": 13
   },
   {
     "id": 93675846,
@@ -387,7 +402,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675039/events/428786662",
     "start_date": "2026-10-28 19:45:00",
     "end_date": "2026-10-28 21:45:00",
-    "category": 25
+    "category": 13
   },
   {
     "id": 2170705051,
@@ -417,7 +432,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674739/events/428785951",
     "start_date": "2026-10-19 17:45:00",
     "end_date": "2026-10-19 19:45:00",
-    "category": 18
+    "category": 13
   },
   {
     "id": 1734373264,
@@ -432,7 +447,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675048/events/428786695",
     "start_date": "2026-10-30 14:00:00",
     "end_date": "2026-10-30 16:00:00",
-    "category": 17
+    "category": 13
   },
   {
     "id": 1737645908,
@@ -447,7 +462,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674969/events/428786518",
     "start_date": "2026-10-23 17:45:00",
     "end_date": "2026-10-23 19:45:00",
-    "category": 8
+    "category": 13
   },
   {
     "id": 546272136,
@@ -477,7 +492,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674979/events/428786540",
     "start_date": "2026-10-24 17:00:00",
     "end_date": "2026-10-24 19:00:00",
-    "category": 17
+    "category": 13
   },
   {
     "id": 4052260735,
@@ -493,6 +508,51 @@
     "start_date": "2026-10-31 15:30:00",
     "end_date": "2026-10-31 17:30:00",
     "category": 19
+  },
+  {
+    "id": 3297765700,
+    "title": "Bach To Baby: Gulliver's Travels",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Tickets &pound;16.50 (Each adult ticket includes free entry for up to 2 children) Aimed at ages 0 &ndash; 5, all welcome Ahoy, explorers! Set sail on a literary classic brought to life with music, movement, and imagination. Join Gulliver on his epic adventure &ndash; dance to lively sea shanties, twirl to Telemann&rsquo;s fiddles, and encounter giants, Lilliputians, and dreamy Laputans along the way! Bach to Baby is the critically-acclaimed concert series for babies, toddlers and you. Tots dance, roam about and revel in the wonder of live music, while you take a moment out of your busy day to hear top notch performances by outstanding musicians. As seen at Royal Albert Hall and Buckingham Palace. Canterbury City Council is supporting&nbsp; Off the Page &nbsp;events as part of Canterbury&apos;s proposed UNESCO City of Literature bid and its commitment to the ambitions of the Council&apos;s Ten-Year Cultural Strategy.</p>",
+    "address": "Canterbury CT1 2EA",
+    "longitude": 1.0821533,
+    "latitude": 51.2810247,
+    "venue_name": "Beerling Hall",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/z3g6pgn6x5jfdrrm75io854t9kr1/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674743/events/428785955",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674743/events/428785955",
+    "start_date": "2026-10-20 12:30:00",
+    "end_date": "2026-10-20 14:30:00",
+    "category": 5
+  },
+  {
+    "id": 3282890184,
+    "title": "Bach To Baby: Gulliver's Travels",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Tickets &pound;16.50 (Each adult ticket includes free entry for up to 2 children) Aimed at ages 0 &ndash; 5, all welcome Ahoy, explorers! Set sail on a literary classic brought to life with music, movement, and imagination. Join Gulliver on his epic adventure &ndash; dance to lively sea shanties, twirl to Telemann&rsquo;s fiddles, and encounter giants, Lilliputians, and dreamy Laputans along the way! Bach to Baby is the critically-acclaimed concert series for babies, toddlers and you. Tots dance, roam about and revel in the wonder of live music, while you take a moment out of your busy day to hear top notch performances by outstanding musicians. As seen at Royal Albert Hall and Buckingham Palace. Canterbury City Council is supporting&nbsp; Off the Page &nbsp;events as part of Canterbury&apos;s proposed UNESCO City of Literature bid and its commitment to the ambitions of the Council&apos;s Ten-Year Cultural Strategy.</p>",
+    "address": "Canterbury CT1 2EA",
+    "longitude": 1.0821533,
+    "latitude": 51.2810247,
+    "venue_name": "Beerling Hall",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/z3g6pgn6x5jfdrrm75io854t9kr1/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674743/events/428785957",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674743/events/428785957",
+    "start_date": "2026-10-20 14:30:00",
+    "end_date": "2026-10-20 16:30:00",
+    "category": 5
+  },
+  {
+    "id": 4195554284,
+    "title": "Playground - Baby Playground",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Free, For babies 0 &ndash; 18 months Baby Playground creates a magical experience for you to explore with your baby. From exploring music, light, textures and sounds to movement and smells, these exciting sessions are a perfect opportunity for families to engage with new experiences, sensations and connect with each other.</p>",
+    "address": "Canterbury CT1 2EA",
+    "longitude": 1.0821533,
+    "latitude": 51.2810247,
+    "venue_name": "Beerling Hall",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/bqkg10hntlnb1yvyuns9q06u9wgl/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674737/events/428785946",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674737/events/428785946",
+    "start_date": "2026-10-19 10:30:00",
+    "end_date": "2026-10-19 12:30:00",
+    "category": 5
   },
   {
     "id": 1580518057,
@@ -630,6 +690,111 @@
     "category": 12
   },
   {
+    "id": 4171576362,
+    "title": "Circa: Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786059",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786059",
+    "start_date": "2026-10-20 19:30:00",
+    "end_date": "2026-10-20 21:30:00",
+    "category": 19
+  },
+  {
+    "id": 2564919797,
+    "title": "Circa: Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786712",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786712",
+    "start_date": "2026-10-21 19:30:00",
+    "end_date": "2026-10-21 21:30:00",
+    "category": 19
+  },
+  {
+    "id": 3711057666,
+    "title": "Circa: Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786713",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786713",
+    "start_date": "2026-10-22 19:30:00",
+    "end_date": "2026-10-22 21:30:00",
+    "category": 19
+  },
+  {
+    "id": 1448116093,
+    "title": "Circa: Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786714",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786714",
+    "start_date": "2026-10-23 19:15:00",
+    "end_date": "2026-10-23 21:15:00",
+    "category": 19
+  },
+  {
+    "id": 3666819988,
+    "title": "Circa: Eternity",
+    "description": "<p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786716",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786716",
+    "start_date": "2026-10-23 21:30:00",
+    "end_date": "2026-10-23 23:30:00",
+    "category": 19
+  },
+  {
+    "id": 3937117730,
+    "title": "Circa: Eternity",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786715",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786715",
+    "start_date": "2026-10-24 19:15:00",
+    "end_date": "2026-10-24 21:15:00",
+    "category": 19
+  },
+  {
+    "id": 404571340,
+    "title": "Circa: Eternity",
+    "description": "<p>A one-of-a-kind Festival experience. Acrobats hang from the roof of the Nave and perform incredible feats in a bespoke Cathedral circus piece for a rare UK performance. Step into Canterbury Cathedral for a transformative hour of world class circus from Australian ensemble, Circa. Eternity has been created by visionary Yaron Lifschitz and is performed to a score of contemporary spiritual music by Arvo P&auml;rt: Tabula Rasa and Frates , recorded by the Australian Chamber Orchestra. Take your seat around the catwalk stage to witness these talented circus artists explore powerful emotions and delve into profound themes such as love, death, loss, hope and wonder. Eternity is co-commissioned by Brisbane Festival and City of Newcastle&rsquo;s New Annual festival Circa acknowledges the assistance of the Australian Government through Creative Australia, its principal arts investment and advisory body and the Queensland Government through Arts Queensland. &lsquo;The setting is sublime, the music is glorious, the skills are impressive, and the whole show is an absolute delight to watch.&rsquo; (Nothing Ever Happens in Brisbane) Advised for ages 10+. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Cathedral House, 11 The Precincts, Canterbury CT1 2EH",
+    "longitude": 1.0827998,
+    "latitude": 51.2797971,
+    "venue_name": "Canterbury Cathedral",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/vngdroxkzoxccyfl0alkj78ko75u/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786717",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674781/events/428786717",
+    "start_date": "2026-10-24 21:30:00",
+    "end_date": "2026-10-24 23:30:00",
+    "category": 19
+  },
+  {
     "id": 330547038,
     "title": "Adam Kay: This is Going to Hurt",
     "description": "<p>BAFTA-winning comedian Adam Kay shares his uniquely hilarious diaries as a junior doctor in this &lsquo;electrifying&rsquo; (Guardian) evening of stand-up. Based on the multi-million selling book and multi-award-winning TV series, This is Going to Hurt &lsquo;intersperses horror stories from the NHS frontline with a catalogue of sublimely silly spoof songs, and some blissfully brilliant wordplay&rsquo; ( Mail on Sunday ) in a comedy performance that has delighted over 350,000 people. Plus a support act to be announced. &lsquo;Hilarious and heartbreaking.&rsquo; (Charlie Brooker) Ages 16+, contains medical themes and stories that some may find distressing. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
@@ -672,7 +837,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674733/events/428785935/seats",
     "start_date": "2026-10-18 18:00:00",
     "end_date": "2026-10-18 20:00:00",
-    "category": 17
+    "category": 13
   },
   {
     "id": 3246269130,
@@ -717,7 +882,7 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674597/events/428785624",
     "start_date": "2026-10-12 17:30:00",
     "end_date": "2026-10-12 19:30:00",
-    "category": 24
+    "category": 13
   },
   {
     "id": 1380577608,
@@ -732,6 +897,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674729/events/428785930/seats",
     "start_date": "2026-10-17 19:30:00",
     "end_date": "2026-10-17 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 2456506771,
+    "title": "London African Gospel Choir: Paul Simon's Graceland: 40th Anniversary Celebration",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Prepare to be uplifted, inspired, and moved to your feet as the sensational London African Gospel Choir come to Canterbury with their critically acclaimed, soul-deep reinterpretation of one of the most beloved albums of all time: Paul Simon&rsquo;s Graceland . This one-of-a-kind show sees the pan African choir &mdash; comprised of world-class vocalists, musicians and dancers from across Africa and the diaspora &mdash; breathe new life into the iconic 1986 album. Since their first sold-out performance at London&rsquo;s Jazz Cafe, the London African Gospel Choir have wowed thousands across the globe including concerts at The Royal Albert Hall and Southbank Centre. Expect irresistible rhythms, soaring harmonies, joyous dance, and the spiritual power of gospel. &lsquo;Extraordinary! Every song was a highlight&hellip; the musicianship and vocal power were incredible.&rsquo; (Songlines Magazine) A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Whitstable Rd, Rough Common, Canterbury CT2 9DT",
+    "longitude": 1.0551035,
+    "latitude": 51.2938569,
+    "venue_name": "Great Hall, Kent College",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/zhjh8jprfs1hh72td39ugtgjs625/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675038/events/428786661/seats",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675038/events/428786661/seats",
+    "start_date": "2026-10-28 19:30:00",
+    "end_date": "2026-10-28 21:30:00",
     "category": 12
   },
   {
@@ -777,6 +957,36 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675061/events/428786711/seats",
     "start_date": "2026-12-17 19:30:00",
     "end_date": "2026-12-17 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 1800476689,
+    "title": "Paul Merton & Suki Webster’s Improv Show",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Following critically acclaimed seasons in London and Edinburgh, Paul Merton and Suki Webster, two of the UK&rsquo;s leading improvisers, present an evening of wonderfully unscripted cutting-edge comedy. Two of the UK&rsquo;s masters of improvisation are joined by their old friend, improv virtuoso, Mike McShane and a host of very special guests for an evening of sensational improvised comedy. Expect fast and fabulously funny improvised games, scenes, stories, songs and laugh out loud surrealism. All deftly conjured up on the spot and based on suggestions by you: The Audience! &lsquo;Merton and Webster have established themselves as two of the UK&rsquo;s best&hellip;this show is improv comedy at its strongest.&rsquo; (★★★★ The Scots Reviewer) &lsquo;They continue to be the finest exponents of the improv art.&rsquo; (The Mirror) A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Whitstable Rd, Rough Common, Canterbury CT2 9DT",
+    "longitude": 1.0551035,
+    "latitude": 51.2938569,
+    "venue_name": "Great Hall, Kent College",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/dkwfv99lktjgnhai3h3x8rf0z42i/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675049/events/428786696/seats",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675049/events/428786696/seats",
+    "start_date": "2026-10-30 20:00:00",
+    "end_date": "2026-10-30 22:00:00",
+    "category": 3
+  },
+  {
+    "id": 2634475450,
+    "title": "Ronnie Scott’s Jazz Club",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Direct from London&rsquo;s world-famous jazz club and combining world-class live jazz, narration, rare archive photos, and video footage, The Ronnie Scott&rsquo;s All Stars take to the stage to celebrate The Ronnie Scott&rsquo;s Story . Mixing classic music from the jazz greats who have performed at Ronnie Scott&rsquo;s over the years, alongside tales of old Soho, miscreant musicians and police raids, this is a unique evening celebrating one of the world&apos;s most famous venues, its music, and history. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "Whitstable Rd, Rough Common, Canterbury CT2 9DT",
+    "longitude": 1.0551035,
+    "latitude": 51.2938569,
+    "venue_name": "Great Hall, Kent College",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/b6trk6ozdlgl06m55zirhyjyalgx/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675027/events/428786609/seats",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675027/events/428786609/seats",
+    "start_date": "2026-10-27 19:30:00",
+    "end_date": "2026-10-27 21:30:00",
     "category": 12
   },
   {
@@ -960,6 +1170,21 @@
     "category": 3
   },
   {
+    "id": 571220451,
+    "title": "Jacqueline Wilson",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Aimed at 5+, all ages welcome Celebrate the power of books and reading with beloved children&apos;s author Dame Jacqueline Wilson. Jacqueline Wilson wrote her first novel when she was nine years old, and she has been writing ever since. She is now one of Britain&rsquo;s bestselling and most beloved children&rsquo;s authors. She has written over 100 books and is the creator of characters such as Tracy Beaker, Hetty Feather and now the funny and resilient heroine of her latest book, Esme Pepper. As well as winning many awards for her books, including the Children&rsquo;s Book of the Year, Jacqueline is a former Children&rsquo;s Laureate, and in 2008 she was appointed a Dame. Don&apos;t miss this opportunity to harness the joy and power of stories with one of the country&apos;s greatest living children&apos;s authors. Chaired by poet, writer, councillor and teacher Charlotte Cornell. Jacqueline Wilson is unable to sign books after the event but pre-signed copies and bookplates will be available at the bookshop. Before booking your seats, please be aware the lift is currently out of service for the balcony at the Malthouse. We apologise for the inconvenience and if you have any queries or access requirements, please do not hesitate to contact the Box Office on 01227 457568. Canterbury City Council is supporting&nbsp; Off the Page &nbsp;events as part of Canterbury&apos;s proposed UNESCO City of Literature bid and its commitment to the ambitions of the Council&apos;s Ten-Year Cultural Strategy.</p>",
+    "address": "Malthouse Rd, St Stephen's Rd, Canterbury CT2 7JA",
+    "longitude": 1.0793989,
+    "latitude": 51.2868633,
+    "venue_name": "Malthouse Theatre",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/hzf55hngi4hkc2wxi1x0r95wh2oy/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675055/events/428786705/seats",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675055/events/428786705/seats",
+    "start_date": "2026-10-31 14:00:00",
+    "end_date": "2026-10-31 16:00:00",
+    "category": 5
+  },
+  {
     "id": 36515305,
     "title": "Mary Shelley Graphic Novel Workshop: The Mortal Immortal",
     "description": "<p>Free, booking required Aimed at 6+, with support from an accompanying adult. Take part in a graphic novel workshop led by illustrator, Jon Schwochert and writers, Dr Susan Civale and Dr Rachael Stone. Enter the world of Mary Shelley&rsquo;s The Mortal Immortal, where a young man meets a mad scientist with a magic potion promising eternal life. Bring this story to life through pictures. All you need is your imagination and creativity &ndash; we will provide the rest! Creative learning partner: Canterbury Christ Church University (English)</p>",
@@ -972,6 +1197,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173675051/events/428786698",
     "start_date": "2026-10-31 10:30:00",
     "end_date": "2026-10-31 12:30:00",
+    "category": 5
+  },
+  {
+    "id": 682440172,
+    "title": "Mary Shelley Graphic Novel Workshop: The Mortal Immortal",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Free, booking required Aimed at 6+, with support from an accompanying adult. Take part in a graphic novel workshop led by illustrator, Jon Schwochert and writers, Dr Susan Civale and Dr Rachael Stone. Enter the world of Mary Shelley&rsquo;s The Mortal Immortal, where a young man meets a mad scientist with a magic potion promising eternal life. Bring this story to life through pictures. All you need is your imagination and creativity &ndash; we will provide the rest! Creative learning partner: Canterbury Christ Church University (English)</p>",
+    "address": "Malthouse Rd, St Stephen's Rd, Canterbury CT2 7JA",
+    "longitude": 1.0793989,
+    "latitude": 51.2868633,
+    "venue_name": "Malthouse Theatre",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675051/events/428787757",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675051/events/428787757",
+    "start_date": "2026-10-31 13:30:00",
+    "end_date": "2026-10-31 15:30:00",
     "category": 5
   },
   {
@@ -1245,6 +1485,21 @@
     "category": 5
   },
   {
+    "id": 1520620153,
+    "title": "Men Crowd to Listen",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Due to reasons beyond our control, this event has regretfully been cancelled. We would like to apologise for any inconvenience or disappointment caused. Ticket holders will be contacted by the Festival team as soon as possible regarding refunds. Aphra Behn (1640 &ndash; 1689), Canterbury&rsquo;s daughter, was the first professional woman writer in English. Historian Breeze Barrington, author of The Graces , in conversation with Professor Elaine Hobby, explores the court circle of the 1680s, shedding light on how women like Aphra used literature, music and art to challenge men&rsquo;s power &ndash; and how men pushed back. In partnership with the Aphra Behn Society</p>",
+    "address": "Church Street, Saint Paul's, Canterbury CT1 1NH",
+    "longitude": 1.0855226,
+    "latitude": 51.2779171,
+    "venue_name": "St Pauls’ Church",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/wpiro06caxyrn718k4b0z8mi9ekx/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674653/events/428785777",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674653/events/428785777",
+    "start_date": "2026-10-17 19:00:00",
+    "end_date": "2026-10-17 21:00:00",
+    "category": 13
+  },
+  {
     "id": 3353905073,
     "title": "Canterbury Festival Youth Strings",
     "description": "<p>Emerging from the success of the Canterbury Festival Youth Orchestra project, this year&rsquo;s strings-focused initiative provides an opportunity for young musicians from across Kent to meet, gain confidence and build up their professional experience. Come and support them as they take to the stage for the first time as part of an ambitious, county-wide strings ensemble. Creative Learning Partner Karen Jolliffe Supported by Ian Carmalt</p>",
@@ -1257,6 +1512,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173674797/events/428786514",
     "start_date": "2026-10-22 19:30:00",
     "end_date": "2026-10-22 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 1461112258,
+    "title": "The Circle & the Serpent: Harpsichord Recital",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Harpsichordist Petra Hajduchov&aacute; presents an evocative programme exploring the worlds of chaconnes and passacaglias with works by Fischer, Bach, Handel, and more in this intimate recital showcasing variation, virtuosity, and style across eighteenth-century Europe. Featuring imaginative transcriptions, Petra&rsquo;s recital highlights the harpsichord&rsquo;s expressive range. Petra is an acclaimed early music specialist who performs widely across the UK and Europe. A limited number of &pound;10 Under-30s tickets are available for this performance.&nbsp; Click here to find out more .</p>",
+    "address": "33-34 King St, Canterbury CT1 2AJ",
+    "longitude": 1.0812093,
+    "latitude": 51.2816704,
+    "venue_name": "The Old Synagogue",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/rcdq136h3f9ngvxufvni37knb0am/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173674783/events/428786061",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173674783/events/428786061",
+    "start_date": "2026-10-21 14:30:00",
+    "end_date": "2026-10-21 16:30:00",
     "category": 12
   },
   {
@@ -1275,6 +1545,36 @@
     "category": 12
   },
   {
+    "id": 1317474055,
+    "title": "An Evening with Canterbury Catch Club",
+    "description": "<p><strong>SOLD OUT</strong></p><p>For almost a century (1779 &ndash; 1865) Canterbury took immense pride in its Catch Club, a regular night of music, song and wit in a room at the Prince of Wales tavern. In true Catch Club style, Dr Christopher Price and his talented musicians lead us through the history of the club, its 200-year-old lithograph depicting its members (on their best behaviour) and invite you to partake in some serious fun which was the hallmark of this immensely popular culture. The Parrot is a distinguished substitute for the Prince of Wales, and will serve a finger buffet which is included in the ticket price.</p>",
+    "address": "1-9 Church Ln, St Radigunds St, Canterbury CT1 2AG",
+    "longitude": 1.0825462,
+    "latitude": 51.2824112,
+    "venue_name": "The Parrot",
+    "image_url": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/4egd6pvf2vcpq8zqixckq1h9wqd3/a6206d8b8848d1f5f779dd436f25589e3a792fee204effd13dccee565e881abd",
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173675107/events/428786814",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173675107/events/428786814",
+    "start_date": "2026-10-28 19:30:00",
+    "end_date": "2026-10-28 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 804909465,
+    "title": "17th Century Canterbury – Civil War & Religious Turmoil",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Visit the sites and hear the stories of the violence, religious intolerance, feuds and royal visitors that encapsulate 17th century Canterbury. Time(s): 11am Meet: Lady Wootton&apos;s Green, Canterbury CT1 1NG Leader: Alex Irvine Info: 1.5 hrs (1.5 miles). Wheelchair accessible. Well-behaved dogs on leads welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672816/events/428779657",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672816/events/428779657",
+    "start_date": "2026-10-24 11:00:00",
+    "end_date": "2026-10-24 13:00:00",
+    "category": 18
+  },
+  {
     "id": 929399224,
     "title": "5km Running Tour of the City",
     "description": "<p>A running tour showing Canterbury at its most beautiful, taking in the well-known and the lesser-seen sights and sharing some of the city&rsquo;s many secrets. This is for people with a reasonable level of fitness. We will run 3.4 miles at a gentle pace and there will be regular stops for photos, tour information, and a chance to catch your breath. Time(s): 10am Meet: The Buttermarket, Canterbury CT1 2HW Leader: Andy Johnson Info: 1.5 hrs (3.4 miles). The route is step-free and suitable for those running with young children in buggie. Please arrive in your running kit (including trainers) appropriate for the British weather. Please bring bottled water if required. Well-behaved dogs on leads welcome. Canterbury Running Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance.</p>",
@@ -1287,6 +1587,36 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173672777/events/428779449",
     "start_date": "2026-10-18 10:00:00",
     "end_date": "2026-10-18 12:00:00",
+    "category": 18
+  },
+  {
+    "id": 1452332448,
+    "title": "A Guided Walk Through Old Lenham",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Trace the development of Lenham from its origins as an Anglo-Saxon settlement and discover the history of its landmarks including the Manor which was held by the Abbot of St. Augustine. Time(s): 2pm Meet: Glebe Pond Old Ashford Road (opposite Groom Way), Lenham, Maidstone, ME17 2QA Leader: Henny Shotter Info: 1.5 hrs (1 miles). Uneven ground including paving and grass. Well-behaved dogs on leads welcome. Lenham Heritage Society Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672860/events/428779750",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672860/events/428779750",
+    "start_date": "2026-10-24 14:00:00",
+    "end_date": "2026-10-24 16:00:00",
+    "category": 18
+  },
+  {
+    "id": 2492137640,
+    "title": "All About the Journey: Medieval Canterbury Pilgrimage",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Where miracles happened. Our walk explores medieval Canterbury where the streets were paved with pilgrims. Follow their journey and maybe view a piece of Becket himself! Time(s): 11am Meet: Tower House, Westgate Gardens, Canterbury, CT1 2DB Leader: Kevin Larder Info: 1.5 hrs (1.5 miles). Cobbled streets and road crossings. Dogs are not permitted. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672779/events/428779450",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672779/events/428779450",
+    "start_date": "2026-10-16 11:00:00",
+    "end_date": "2026-10-16 13:00:00",
     "category": 18
   },
   {
@@ -1380,6 +1710,21 @@
     "category": 18
   },
   {
+    "id": 1999646326,
+    "title": "Canterbury and the Bayeux Tapestry",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Was the famous embroidery really made in Canterbury? Explore the places in the city connected with the personalities and dramatic events of the Norman Conquest and the making of the Tapestry. Time(s): 11am Meet: Outside the Christchurch Gate, The Buttermarket, Canterbury, CT1 2HW Leader: David Reekie Info: 1.5 hrs (1.5 miles). Well-behaved dogs welcome. Canterbury Ramblers Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672822/events/428779692",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672822/events/428779692",
+    "start_date": "2026-10-28 11:00:00",
+    "end_date": "2026-10-28 13:00:00",
+    "category": 18
+  },
+  {
     "id": 4052968269,
     "title": "Canterbury Creatures & Some Curious Tales",
     "description": "<p>We view nearly 40 different types of creatures depicted in external artwork in central Canterbury, and hear some strange stories associated with some of them. Time(s): 2pm Meet: Outside St Thomas Church Hall, Canterbury Lane, Canterbury CT1 2HL Leader: Ian Osterloh Info: 1.5 hrs (1 mile). Uneven ground, a little traffic. Well-behaved dogs on leads welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
@@ -1395,6 +1740,21 @@
     "category": 18
   },
   {
+    "id": 3772853839,
+    "title": "Canterbury During WW2",
+    "description": "<p><strong>SOLD OUT</strong></p><p>A journey through history seeing how Canterbury prepared for WW2, the Baedeker Blitz of 1942 and its aftermath. Time(s): 12pm Meet: Tower House, Westgate Grove, Canterbury CT1 2DB Leader: Nick Hancock Info: 1.5 hrs (1 mile). Well-behaved dogs on leads welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672808/events/428779562",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672808/events/428779562",
+    "start_date": "2026-10-21 12:00:00",
+    "end_date": "2026-10-21 14:00:00",
+    "category": 18
+  },
+  {
     "id": 3246415582,
     "title": "Canterbury: A City of 'Firsts'",
     "description": "<p>Canterbury not only has the first cathedral in England, many other &quot;firsts&quot; are associated with Canterbury. Discover people and places with links to a &quot;first&quot;... Time(s): 10.30am Meet: Lady Wootton&apos;s Green, Canterbury CT1 1NG Leader: Ziggy Van Dijk Info: 2 hrs (1.5 miles). Well-behaved dogs welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
@@ -1407,6 +1767,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173672819/events/428779688",
     "start_date": "2026-10-26 10:30:00",
     "end_date": "2026-10-26 12:30:00",
+    "category": 18
+  },
+  {
+    "id": 609290220,
+    "title": "Canterbury's Lost Churches",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Find out about the 10 vanished or ruined medieval churches in Canterbury, discover their locations and the strange story they tell about the development of the early Church. Time(s): 10am Meet: St Peters Anglican Church, 15 St Peters St, Canterbury CT1 2BQ Leader: David Reekie Info: 1.5 hrs (1.5 miles). Well-behaved dogs on leads welcome. Canterbury Ramblers Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672801/events/428779550",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672801/events/428779550",
+    "start_date": "2026-10-20 10:00:00",
+    "end_date": "2026-10-20 12:00:00",
     "category": 18
   },
   {
@@ -1437,6 +1812,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173672826/events/428779697",
     "start_date": "2026-10-30 14:00:00",
     "end_date": "2026-10-30 16:00:00",
+    "category": 18
+  },
+  {
+    "id": 3549430960,
+    "title": "Confusing Canterbury (Things Ain't Always What They Seem)",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Can you trust the information you read and the sights you see in Canterbury? Not always! Find out why as we view some of Canterbury&rsquo;s fantastic buildings and artworks in the city centre. Time(s): 2pm Meet: Chaucer Statue (corner of Best Lane and High Street), Canterbury CT1 2AY Leader: Ian Osterloh Info: 1.5 hr (1 mile). Uneven ground, steps, busy streets and traffic. Well-behaved dogs on leads welcome.&nbsp; Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672785/events/428779520",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672785/events/428779520",
+    "start_date": "2026-10-17 14:00:00",
+    "end_date": "2026-10-17 16:00:00",
     "category": 18
   },
   {
@@ -1515,6 +1905,21 @@
     "category": 18
   },
   {
+    "id": 1008151150,
+    "title": "Jewish Canterbury",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Follow in the footsteps of Canterbury&apos;s Jewish communities, from the 12th century to present-day. Time(s): 2pm Meet: Canterbury Castle, Gas Street, CT1 2PR Leader: Naomi Anderson Info: 2 hrs (1.5 miles). Well-behaved dogs on leads welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672823/events/428779693",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672823/events/428779693",
+    "start_date": "2026-10-28 14:00:00",
+    "end_date": "2026-10-28 16:00:00",
+    "category": 18
+  },
+  {
     "id": 1512049392,
     "title": "Kit’s Canterbury: Walk in the Footsteps of Christopher Marlowe",
     "description": "<p>Discover the Elizabethan city where Marlowe was born; sites connected with his early life and education; their influence on him and the start of his mysterious life and legacy. Time(s): 11am Meet: St George&apos;s Clock Tower, Canterbury CT1 2LE Leader: Franki Gray Info: 1.5 hrs (1.5 miles). Some uneven ground and a few steps. Well-behaved dogs on leads welcome. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
@@ -1560,6 +1965,36 @@
     "category": 18
   },
   {
+    "id": 1581495335,
+    "title": "Spies and Villains of Canterbury",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Step into the shadowy world of espionage, treachery and intrigue. Explore Canterbury&apos;s dark hidden past through a thrilling guided tour. Time(s):Fri 16 Oct, 2pm | Sat 17 Oct, 11am Meet: The Buttermarket, The Canterbury War Memorial, CT1 2HW Leader: Elena McCaffrey, Green Badge Guide Info: 1.5 hrs (1.5 miles). Uneven pavements throughout. Accessible entrance to The Beaney museum on Best Lane and lift inside. Only guide dogs permitted. Canterbury Green Badge Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672790/events/428779526",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672790/events/428779526",
+    "start_date": "2026-10-16 14:00:00",
+    "end_date": "2026-10-16 16:00:00",
+    "category": 18
+  },
+  {
+    "id": 3370069817,
+    "title": "Spies and Villains of Canterbury",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Step into the shadowy world of espionage, treachery and intrigue. Explore Canterbury&apos;s dark hidden past through a thrilling guided tour. Time(s):Fri 16 Oct, 2pm | Sat 17 Oct, 11am Meet: The Buttermarket, The Canterbury War Memorial, CT1 2HW Leader: Elena McCaffrey, Green Badge Guide Info: 1.5 hrs (1.5 miles). Uneven pavements throughout. Accessible entrance to The Beaney museum on Best Lane and lift inside. Only guide dogs permitted. Canterbury Green Badge Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672790/events/428779527",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672790/events/428779527",
+    "start_date": "2026-10-17 11:00:00",
+    "end_date": "2026-10-17 13:00:00",
+    "category": 18
+  },
+  {
     "id": 2749206709,
     "title": "Tales of Literary Canterbury",
     "description": "<p>Find out what famous literary visitors thought of Canterbury and how the city impacted the lives of writers born or educated in it. Time(s): 10.30am Meet: The Buttermarket, Canterbury CT1 2HW Leader: Doreen Rosman Info: 1.5 hrs (1 mile). Dogs are not permitted. Canterbury Guided Tours Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
@@ -1572,6 +2007,21 @@
     "url": "https://canterburyfestival.ticketsolve.com/shows/1173672824/events/428779694",
     "start_date": "2026-10-29 10:30:00",
     "end_date": "2026-10-29 12:30:00",
+    "category": 18
+  },
+  {
+    "id": 2143632218,
+    "title": "The Crab & Winkle Line Railway",
+    "description": "<p><strong>SOLD OUT</strong></p><p>Explore one of the first railway line servers to be built and the first in the world to carry passengers regularly. Includes a visit to the historic Tyler Hill Tunnel, which the Trust aims to reopen as a sustainable route. Time(s): 10am Meet: Abbots Mill, Mill Lane, Canterbury CT1 2AW Leader: Lyn Parker Info: 3 hrs (3 miles). Not accessible for wheelchairs (steps and tunnel). Well-behaved dogs on leads welcome (except in tunnels). Please note access inside the tunnel is subject to clearance from the Kent Bat Group. The Crab and Winkle Line Trust Please note that all walks will go ahead unless cancelled by the walk leader due to extreme weather. If this is the case all bookers will be contacted in advance. Walks primarily take place outside, as such we encourage participants to wear appropriate clothing including waterproofs, walking boots and walking sticks if required. Tickets for walks are non-refundable unless an event is cancelled.</p>",
+    "address": "Canterbury",
+    "longitude": 1.0837855,
+    "latitude": 51.2770331,
+    "venue_name": "Walks",
+    "image_url": null,
+    "tickets_url": "https://canterburyfestival.ticketsolve.com/shows/1173672864/events/428779755",
+    "url": "https://canterburyfestival.ticketsolve.com/shows/1173672864/events/428779755",
+    "start_date": "2026-10-17 10:00:00",
+    "end_date": "2026-10-17 12:00:00",
     "category": 18
   },
   {
