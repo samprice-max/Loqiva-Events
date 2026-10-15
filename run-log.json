@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-15T09:49:20.529Z",
+    "hub": "Jewellery Quarter",
+    "venues": [
+      {
+        "venue": "The Jam House",
+        "url": "https://thejamhouse.com/birmingham/whats-on/",
+        "filename": "jewellery-quarter-thejamhouse-com.json",
+        "events": 55,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 55,
+    "errors": [],
+    "duration_seconds": 11
+  },
+  {
     "timestamp": "2026-10-12T10:41:46.985Z",
     "hub": "Canterbury",
     "venues": [
@@ -996,19 +1012,6 @@
   },
   {
     "timestamp": "2026-09-23T16:40:25.014Z",
-    "hub": "Harborne",
-    "venues": [],
-    "total_events": 0,
-    "errors": [
-      {
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/#timetable",
-        "error": "Could not find #timetable-data input in page HTML"
-      }
-    ],
-    "duration_seconds": 17
-  },
-  {
-    "timestamp": "2026-09-23T16:30:47.020Z",
     "hub": "Harborne",
     "venues": [],
     "total_events": 0,
