@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-16T16:29:13.654Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Sarens PSG Stadium",
+        "url": "https://ictfc.com/calendar/fixtures/",
+        "filename": "inverness-ictfc-com.json",
+        "events": 14,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 14,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-10-16T16:20:28.282Z",
     "hub": "Inverness",
     "venues": [
@@ -1015,21 +1031,5 @@
     "total_events": 159,
     "errors": [],
     "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-24T10:45:03.993Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Pool & Fitness Centre",
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
-        "filename": "harborne-placesleisure-org.json",
-        "events": 41,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 41,
-    "errors": [],
-    "duration_seconds": 2
   }
 ]
