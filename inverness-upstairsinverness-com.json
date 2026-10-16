@@ -167,14 +167,14 @@
   {
     "id": 1615162537,
     "title": "Crampsey and Co",
-    "description": "<p>Matthew Crampsey and James O'Sullivan (both formerly of Ceol) bring their full live show to Scotland for the first time — Irish tradition meets modern pop, off the back of their debut Highland Heart EP. 18+ · Doors 7pm, performance from 8pm. Tickets: https://www.skiddle.com/e/42701669</p>",
+    "description": "<p>Matthew Crampsey and James O'Sullivan (both formerly of Ceol) bring their full live show to Scotland for the first time — Irish tradition meets modern pop, off the back of their debut Highland Heart EP. 18+ · Doors 7pm, performance from 8pm.</p>",
     "address": "Upstairs, 14 Bridge St, Inverness, IV1 1HD",
     "longitude": -4.225830765816532,
     "latitude": 57.47744216502537,
     "venue_name": "Upstairs",
     "image_url": "https://static.wixstatic.com/media/9c3627_65b034719418418eb7090230cc086236~mv2.jpg",
-    "tickets_url": "https://www.upstairsinverness.com/event-details-registration/crampsey-and-co",
-    "url": "https://www.upstairsinverness.com/event-details-registration/crampsey-and-co",
+    "tickets_url": "https://www.skiddle.com/e/42701669",
+    "url": "https://www.skiddle.com/e/42701669",
     "start_date": "2026-11-15 19:00:00",
     "end_date": "2026-11-15 22:00:00",
     "category": 12
@@ -252,7 +252,7 @@
     "url": "https://www.upstairsinverness.com/event-details-registration/frankly-the-smiths-matinee-show",
     "start_date": "2026-12-12 14:00:00",
     "end_date": "2026-12-12 16:30:00",
-    "category": 19
+    "category": 12
   },
   {
     "id": 476669206,
