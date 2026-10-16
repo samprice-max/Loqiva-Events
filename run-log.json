@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-16T16:02:55.611Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Upstairs",
+        "url": "https://www.upstairsinverness.com/upstairs-whats-on",
+        "filename": "inverness-upstairsinverness-com.json",
+        "events": 18,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 18,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-10-16T15:39:12.477Z",
     "hub": "Inverness",
     "venues": [
@@ -1015,18 +1031,5 @@
     "total_events": 21,
     "errors": [],
     "duration_seconds": 3
-  },
-  {
-    "timestamp": "2026-09-24T09:47:09.659Z",
-    "hub": "Harborne",
-    "venues": [],
-    "total_events": 0,
-    "errors": [
-      {
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
-        "error": "Invalid URL"
-      }
-    ],
-    "duration_seconds": 0
   }
 ]
