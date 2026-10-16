@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-16T15:17:32.137Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Johnny Foxes",
+        "url": "https://foxes.johnnyfoxes.co.uk/entertainment-at-foxes/",
+        "filename": "inverness-foxes-johnnyfoxes-co-uk.json",
+        "events": 16,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 16,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-15T09:49:20.529Z",
     "hub": "Jewellery Quarter",
     "venues": [
@@ -1009,18 +1025,5 @@
       }
     ],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-23T16:40:25.014Z",
-    "hub": "Harborne",
-    "venues": [],
-    "total_events": 0,
-    "errors": [
-      {
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/#timetable",
-        "error": "Could not find #timetable-data input in page HTML"
-      }
-    ],
-    "duration_seconds": 17
   }
 ]
