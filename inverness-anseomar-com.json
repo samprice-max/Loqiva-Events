@@ -117,12 +117,12 @@
     "url": "https://www.universe.com/events/halloween-monster-mash-trash-tickets-JGK95Q",
     "start_date": "2026-10-31 19:00:00",
     "end_date": "2026-10-31 22:00:00",
-    "category": 5
+    "category": 12
   },
   {
     "id": 2388395960,
     "title": "Just Jovi at An Seòmar",
-    "description": "<p>Just Jovi at An Seòmar at An Seòmar.</p>",
+    "description": "<p>Just Jovi at An Seòmar.</p>",
     "address": "An Seòmar, 11-19 Church St, Inverness, IV1 1DZ",
     "longitude": -4.225917,
     "latitude": 57.4777388,
@@ -137,7 +137,7 @@
   {
     "id": 3883538686,
     "title": "Trail West at An Seòmar | New Date Added",
-    "description": "<p>Trail West at An Seòmar | New Date Added at An Seòmar.</p>",
+    "description": "<p>Trail West at An Seòmar | New Date Added.</p>",
     "address": "An Seòmar, 11-19 Church St, Inverness, IV1 1DZ",
     "longitude": -4.225917,
     "latitude": 57.4777388,
@@ -152,7 +152,7 @@
   {
     "id": 3768547364,
     "title": "Trail West at An Seòmar | Saturday",
-    "description": "<p>Trail West at An Seòmar | Saturday at An Seòmar.</p>",
+    "description": "<p>Trail West at An Seòmar | Saturday.</p>",
     "address": "An Seòmar, 11-19 Church St, Inverness, IV1 1DZ",
     "longitude": -4.225917,
     "latitude": 57.4777388,
@@ -237,7 +237,7 @@
     "url": "https://www.universe.com/events/an-seomar-presents-valtos-tickets-8703G5",
     "start_date": "2026-12-19 19:00:00",
     "end_date": "2026-12-19 22:00:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 1335699378,
@@ -252,7 +252,7 @@
     "url": "https://www.universe.com/events/an-seomar-presents-valtos-sunday-tickets-TW7PY2",
     "start_date": "2026-12-20 18:00:00",
     "end_date": "2026-12-20 22:00:00",
-    "category": 6
+    "category": 12
   },
   {
     "id": 2437192877,
