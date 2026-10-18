@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-10-18T22:01:18.169Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 141,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 17,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 10,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 152,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 360,
+    "errors": [
+      {
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
+      }
+    ],
+    "duration_seconds": 76
+  },
+  {
     "timestamp": "2026-10-16T16:29:13.654Z",
     "hub": "Inverness",
     "venues": [
@@ -1013,22 +1062,6 @@
       }
     ],
     "total_events": 124,
-    "errors": [],
-    "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-24T10:56:59.780Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 159,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 159,
     "errors": [],
     "duration_seconds": 4
   }
