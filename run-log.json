@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-10-18T22:17:50.370Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 32,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 47,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 116,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 13,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 208,
+    "errors": [],
+    "duration_seconds": 1068
+  },
+  {
     "timestamp": "2026-10-18T22:03:10.300Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -1104,21 +1141,5 @@
     "total_events": 124,
     "errors": [],
     "duration_seconds": 3
-  },
-  {
-    "timestamp": "2026-09-24T12:34:58.347Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 124,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 124,
-    "errors": [],
-    "duration_seconds": 4
   }
 ]
