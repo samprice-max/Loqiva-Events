@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-10-18T22:03:10.300Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "Aura Night Club",
+        "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/",
+        "filename": "royal-tunbridge-wells-skiddle-com.json",
+        "events": 32,
+        "status": "healthy"
+      },
+      {
+        "venue": "Spa Valley Railway",
+        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
+        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
+        "events": 41,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Forum",
+        "url": "https://www.twforum.co.uk/listings",
+        "filename": "royal-tunbridge-wells-twforum-co-uk.json",
+        "events": 99,
+        "status": "healthy"
+      },
+      {
+        "venue": "King Charles the Martyr",
+        "url": "https://www.kcmtw.org/events-calander/",
+        "filename": "royal-tunbridge-wells-kcmtw-org.json",
+        "events": 4,
+        "status": "healthy"
+      },
+      {
+        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
+        "events": 29,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Pantiles",
+        "url": "https://thepantiles.com/events/",
+        "filename": "royal-tunbridge-wells-thepantiles-com.json",
+        "events": 43,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Royal Wells Hotel",
+        "url": "https://royalwells.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-royalwells-co-uk.json",
+        "events": 5,
+        "status": "healthy"
+      },
+      {
+        "venue": "Hotel du Vin Tunbridge Wells",
+        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
+        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "The Amelia Scott",
+        "url": "https://theamelia.co.uk/events/",
+        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
+        "events": 222,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 476,
+    "errors": [],
+    "duration_seconds": 188
+  },
+  {
     "timestamp": "2026-10-18T22:01:18.169Z",
     "hub": "Harborne",
     "venues": [
@@ -1035,22 +1107,6 @@
   },
   {
     "timestamp": "2026-09-24T12:34:58.347Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 124,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 124,
-    "errors": [],
-    "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-24T11:02:57.165Z",
     "hub": "Harborne",
     "venues": [
       {
