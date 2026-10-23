@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-10-23T15:22:37.814Z",
+    "hub": "Colmore",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 9
+  },
+  {
     "timestamp": "2026-10-23T15:14:13.057Z",
     "hub": "Colmore",
     "venues": [
@@ -1108,21 +1116,5 @@
     "total_events": 37,
     "errors": [],
     "duration_seconds": 58
-  },
-  {
-    "timestamp": "2026-09-30T12:32:32.608Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "The Pantiles",
-        "url": "https://thepantiles.com/events/",
-        "filename": "royal-tunbridge-wells-thepantiles-com.json",
-        "events": 37,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 37,
-    "errors": [],
-    "duration_seconds": 56
   }
 ]
