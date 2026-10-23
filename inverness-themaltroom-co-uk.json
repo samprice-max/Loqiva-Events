@@ -1,0 +1,32 @@
+[
+  {
+    "id": 692328894,
+    "title": "Dalmore Tasting",
+    "description": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Join us on Friday 23rd October at 7pm when we’ll be joined by Glenn Woodage for a tasting of some core range Dalmore expressions as well as some limited editions and new releases!</p>",
+    "address": "The Malt Room, 34 Church Street, Inverness, IV1 1EH",
+    "longitude": -4.2268201,
+    "latitude": 57.4786415,
+    "venue_name": "The Malt Room",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/567402899cadb60e55488d88/6c06629d-1f41-4214-8cde-dfb41b1891cc/The+Dalmore+-+Tasting+Room.jpg",
+    "tickets_url": "https://www.themaltroom.co.uk/shop/25auvvttau764v5men6tbwnihsta6z",
+    "url": "https://www.themaltroom.co.uk/shop/25auvvttau764v5men6tbwnihsta6z",
+    "start_date": "2026-10-23 19:00:00",
+    "end_date": "2026-10-23 21:00:00",
+    "category": 8
+  },
+  {
+    "id": 3419577331,
+    "title": "Torabhaig and Mossburn Tasting",
+    "description": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Join us on Friday 18th December at 7pm when we’ll be joined by brand ambassador Stewart Dick for a tasting of the most recent Torabhaig releases as well as some single casks and blends from Mossburn!</p>",
+    "address": "The Malt Room, 34 Church Street, Inverness, IV1 1EH",
+    "longitude": -4.2268201,
+    "latitude": 57.4786415,
+    "venue_name": "The Malt Room",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/567402899cadb60e55488d88/c6bc85e2-4edd-4073-8662-99aa626c38b6/torabhaig-distillery-logo.webp",
+    "tickets_url": "https://www.themaltroom.co.uk/shop/p7ohz9cr32i7ozdaafnnqcrwgq0ia9",
+    "url": "https://www.themaltroom.co.uk/shop/p7ohz9cr32i7ozdaafnnqcrwgq0ia9",
+    "start_date": "2026-12-18 19:00:00",
+    "end_date": "2026-12-18 21:00:00",
+    "category": 8
+  }
+]
