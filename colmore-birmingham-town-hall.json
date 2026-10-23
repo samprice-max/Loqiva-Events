@@ -56,7 +56,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-26-oct",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-26-oct",
     "start_date": "2026-10-26 13:00:00",
-    "end_date": "2026-10-26 15:30:00",
+    "end_date": "2026-10-26 14:00:00",
     "category": 12
   },
   {
@@ -266,7 +266,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-in-memoriam",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-in-memoriam",
     "start_date": "2026-11-09 13:00:00",
-    "end_date": "2026-11-09 15:30:00",
+    "end_date": "2026-11-09 14:00:00",
     "category": 12
   },
   {
@@ -311,8 +311,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2026-11-13 10:00:00",
-    "end_date": "2026-11-13 12:30:00",
-    "category": 12
+    "end_date": "2026-11-13 11:00:00",
+    "category": 17
   },
   {
     "id": 1223772258,
@@ -326,8 +326,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2026-11-13 12:00:00",
-    "end_date": "2026-11-13 14:30:00",
-    "category": 12
+    "end_date": "2026-11-13 13:00:00",
+    "category": 17
   },
   {
     "id": 2068106239,
@@ -491,7 +491,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-23-nov",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-23-nov",
     "start_date": "2026-11-23 13:00:00",
-    "end_date": "2026-11-23 15:30:00",
+    "end_date": "2026-11-23 14:00:00",
     "category": 12
   },
   {
@@ -551,7 +551,7 @@
     "tickets_url": "https://bmusic.co.uk/events/cbso-2026-27-beethovens-violin-concerto",
     "url": "https://bmusic.co.uk/events/cbso-2026-27-beethovens-violin-concerto",
     "start_date": "2026-11-29 15:00:00",
-    "end_date": "2026-11-29 17:30:00",
+    "end_date": "2026-11-29 16:45:00",
     "category": 12
   },
   {
@@ -611,7 +611,7 @@
     "tickets_url": "https://bmusic.co.uk/events/ex-cathedra-2026-27-britten-at-christmas",
     "url": "https://bmusic.co.uk/events/ex-cathedra-2026-27-britten-at-christmas",
     "start_date": "2026-12-05 15:00:00",
-    "end_date": "2026-12-05 17:30:00",
+    "end_date": "2026-12-05 17:00:00",
     "category": 12
   },
   {
@@ -641,8 +641,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2026-12-09 10:00:00",
-    "end_date": "2026-12-09 12:30:00",
-    "category": 12
+    "end_date": "2026-12-09 11:00:00",
+    "category": 17
   },
   {
     "id": 901721231,
@@ -656,8 +656,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2026-12-09 12:00:00",
-    "end_date": "2026-12-09 14:30:00",
-    "category": 12
+    "end_date": "2026-12-09 13:00:00",
+    "category": 17
   },
   {
     "id": 3272489254,
@@ -686,7 +686,7 @@
     "tickets_url": "https://bmusic.co.uk/events/cbso-2026-27-kazuki-conducts-the-nutcrackers",
     "url": "https://bmusic.co.uk/events/cbso-2026-27-kazuki-conducts-the-nutcrackers",
     "start_date": "2026-12-10 14:15:00",
-    "end_date": "2026-12-10 16:45:00",
+    "end_date": "2026-12-10 16:15:00",
     "category": 12
   },
   {
@@ -701,7 +701,7 @@
     "tickets_url": "https://bmusic.co.uk/events/cbso-2026-27-kazuki-conducts-the-nutcrackers",
     "url": "https://bmusic.co.uk/events/cbso-2026-27-kazuki-conducts-the-nutcrackers",
     "start_date": "2026-12-10 19:00:00",
-    "end_date": "2026-12-10 21:30:00",
+    "end_date": "2026-12-10 21:00:00",
     "category": 12
   },
   {
@@ -821,7 +821,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-sing-carols-with-the-city-organist",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-sing-carols-with-the-city-organist",
     "start_date": "2026-12-21 13:00:00",
-    "end_date": "2026-12-21 15:30:00",
+    "end_date": "2026-12-21 14:00:00",
     "category": 12
   },
   {
@@ -866,7 +866,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-animal-magic",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-animal-magic",
     "start_date": "2027-02-01 13:00:00",
-    "end_date": "2027-02-01 15:30:00",
+    "end_date": "2027-02-01 14:00:00",
     "category": 12
   },
   {
@@ -956,7 +956,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-15-feb",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-15-feb",
     "start_date": "2027-02-15 13:00:00",
-    "end_date": "2027-02-15 15:30:00",
+    "end_date": "2027-02-15 14:00:00",
     "category": 12
   },
   {
@@ -1016,8 +1016,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2027-02-25 10:00:00",
-    "end_date": "2027-02-25 12:30:00",
-    "category": 12
+    "end_date": "2027-02-25 11:00:00",
+    "category": 17
   },
   {
     "id": 3313669425,
@@ -1031,8 +1031,8 @@
     "tickets_url": "https://bmusic.co.uk/events/town-hall-tour",
     "url": "https://bmusic.co.uk/events/town-hall-tour",
     "start_date": "2027-02-25 12:00:00",
-    "end_date": "2027-02-25 14:30:00",
-    "category": 12
+    "end_date": "2027-02-25 13:00:00",
+    "category": 17
   },
   {
     "id": 3731136335,
@@ -1121,7 +1121,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-celebrating-st-davids-day",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-celebrating-st-davids-day",
     "start_date": "2027-03-01 13:00:00",
-    "end_date": "2027-03-01 15:30:00",
+    "end_date": "2027-03-01 14:00:00",
     "category": 12
   },
   {
@@ -1211,7 +1211,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-mar-27",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-mar-27",
     "start_date": "2027-03-15 13:00:00",
-    "end_date": "2027-03-15 15:30:00",
+    "end_date": "2027-03-15 14:00:00",
     "category": 12
   },
   {
@@ -1421,7 +1421,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-guest-recital-daniel-hyde",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-guest-recital-daniel-hyde",
     "start_date": "2027-04-26 13:00:00",
-    "end_date": "2027-04-26 15:30:00",
+    "end_date": "2027-04-26 14:00:00",
     "category": 12
   },
   {
@@ -1466,7 +1466,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotters-900th-recital-at-birmingham-city-organist",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotters-900th-recital-at-birmingham-city-organist",
     "start_date": "2027-05-10 13:00:00",
-    "end_date": "2027-05-10 15:30:00",
+    "end_date": "2027-05-10 14:00:00",
     "category": 12
   },
   {
@@ -1526,7 +1526,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-may-27",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-thomas-trotter-at-town-hall-may-27",
     "start_date": "2027-05-24 13:00:00",
-    "end_date": "2027-05-24 15:30:00",
+    "end_date": "2027-05-24 14:00:00",
     "category": 12
   },
   {
@@ -1571,7 +1571,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-26-27-thomas-trotter-with-royal-birmingham-conservatoire-chamber-choir",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-26-27-thomas-trotter-with-royal-birmingham-conservatoire-chamber-choir",
     "start_date": "2027-06-07 13:00:00",
-    "end_date": "2027-06-07 15:30:00",
+    "end_date": "2027-06-07 14:00:00",
     "category": 12
   },
   {
@@ -1631,7 +1631,7 @@
     "tickets_url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-summer-requests-with-thomas-trotter",
     "url": "https://bmusic.co.uk/events/lunchtime-organ-concert-2026-27-summer-requests-with-thomas-trotter",
     "start_date": "2027-06-21 13:00:00",
-    "end_date": "2027-06-21 15:30:00",
+    "end_date": "2027-06-21 14:00:00",
     "category": 12
   },
   {
