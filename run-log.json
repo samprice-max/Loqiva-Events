@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T10:19:47.802Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "The Imperial",
+        "url": "https://theimperialpub.com/football-2-2",
+        "filename": "inverness-theimperialpub-com.json",
+        "events": 59,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 59,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-23T10:17:31.229Z",
     "hub": "Inverness",
     "venues": [
@@ -1090,21 +1106,5 @@
     "total_events": 0,
     "errors": [],
     "duration_seconds": 3
-  },
-  {
-    "timestamp": "2026-09-25T15:59:22.743Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Aura Night Club",
-        "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/",
-        "filename": "royal-tunbridge-wells-skiddle-com.json",
-        "events": 36,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 36,
-    "errors": [],
-    "duration_seconds": 2
   }
 ]
