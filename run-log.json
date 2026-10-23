@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T10:05:44.074Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Hootananny",
+        "url": "https://hootanannyinverness.co.uk/live-music/",
+        "filename": "inverness-hootanannyinverness-co-uk.json",
+        "events": 15,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 15,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-23T09:56:47.642Z",
     "hub": "Inverness",
     "venues": [
@@ -1112,22 +1128,6 @@
   },
   {
     "timestamp": "2026-09-24T13:24:33.793Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 124,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 124,
-    "errors": [],
-    "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-24T13:24:00.308Z",
     "hub": "Harborne",
     "venues": [
       {
