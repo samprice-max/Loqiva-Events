@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T10:11:30.031Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Hootananny",
+        "url": "https://hootanannyinverness.co.uk/live-music/",
+        "filename": "inverness-hootanannyinverness-co-uk.json",
+        "events": 15,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 15,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-23T10:07:16.810Z",
     "hub": "Inverness",
     "venues": [
@@ -1090,56 +1106,5 @@
     "total_events": 14,
     "errors": [],
     "duration_seconds": 20
-  },
-  {
-    "timestamp": "2026-09-25T11:44:11.304Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "St John's Church Harborne",
-        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
-        "filename": "harborne-stjohns-churchsuite-com.json",
-        "events": 164,
-        "status": "healthy"
-      },
-      {
-        "venue": "White Horse Harborne",
-        "url": "http://www.whitehorseharborne.com/Live-Music.html",
-        "filename": "harborne-whitehorseharborne-com.json",
-        "events": 0,
-        "status": "empty"
-      },
-      {
-        "venue": "Harborne Pool & Fitness Centre",
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
-        "filename": "harborne-placesleisure-org.json",
-        "events": 41,
-        "status": "healthy"
-      },
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 123,
-        "status": "healthy"
-      },
-      {
-        "venue": "Harborne Golf Club",
-        "url": "https://www.harbornegolfclub.org.uk/opens",
-        "filename": "harborne-harbornegolfclub-org-uk.json",
-        "events": 12,
-        "status": "healthy"
-      },
-      {
-        "venue": "Barefoot Yoga Harborne",
-        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
-        "filename": "harborne-momence-com.json",
-        "events": 154,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 494,
-    "errors": [],
-    "duration_seconds": 68
   }
 ]
