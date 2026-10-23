@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-10-23T15:29:59.472Z",
+    "hub": "Colmore",
+    "venues": [],
+    "total_events": 0,
+    "errors": [],
+    "duration_seconds": 8
+  },
+  {
     "timestamp": "2026-10-23T15:26:37.818Z",
     "hub": "Colmore",
     "venues": [],
@@ -1084,21 +1092,5 @@
     "total_events": 230,
     "errors": [],
     "duration_seconds": 80
-  },
-  {
-    "timestamp": "2026-09-30T15:31:03.102Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Hotel du Vin Tunbridge Wells",
-        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
-        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
-        "events": 1,
-        "status": "low"
-      }
-    ],
-    "total_events": 1,
-    "errors": [],
-    "duration_seconds": 12
   }
 ]
