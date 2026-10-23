@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T15:54:33.048Z",
+    "hub": "Colmore",
+    "venues": [
+      {
+        "venue": "F1 Arcade Birmingham",
+        "url": "https://birmingham.events.f1arcade.com/",
+        "filename": "colmore-f1-arcade-birmingham.json",
+        "events": 16,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 16,
+    "errors": [],
+    "duration_seconds": 6
+  },
+  {
     "timestamp": "2026-10-23T15:41:57.470Z",
     "hub": "Colmore",
     "venues": [
@@ -1076,21 +1092,5 @@
     "total_events": 484,
     "errors": [],
     "duration_seconds": 96
-  },
-  {
-    "timestamp": "2026-09-30T16:00:56.562Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "The Amelia Scott",
-        "url": "https://theamelia.co.uk/events/",
-        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
-        "events": 230,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 230,
-    "errors": [],
-    "duration_seconds": 41
   }
 ]
