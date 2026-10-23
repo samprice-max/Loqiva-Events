@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T09:56:47.642Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "The Malt Room",
+        "url": "https://www.themaltroom.co.uk/shop",
+        "filename": "inverness-themaltroom-co-uk.json",
+        "events": 2,
+        "status": "low"
+      }
+    ],
+    "total_events": 2,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-18T22:17:50.370Z",
     "hub": "Stirling",
     "venues": [
@@ -1125,21 +1141,5 @@
     "total_events": 124,
     "errors": [],
     "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-09-24T12:39:36.580Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "Harborne Stores",
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "filename": "harborne-craftunionpubs-com.json",
-        "events": 124,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 124,
-    "errors": [],
-    "duration_seconds": 3
   }
 ]
