@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T14:46:12.715Z",
+    "hub": "Colmore",
+    "venues": [
+      {
+        "venue": "St Philip's Cathedral",
+        "url": "https://birminghamcathedral.com/whats-on/",
+        "filename": "colmore-st-philip-s-cathedral.json",
+        "events": 80,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 80,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-10-23T13:59:10.507Z",
     "hub": "Colmore",
     "venues": [
@@ -1108,21 +1124,5 @@
     "total_events": 6,
     "errors": [],
     "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-09-30T09:20:05.656Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "The Forum",
-        "url": "https://www.twforum.co.uk/listings",
-        "filename": "royal-tunbridge-wells-twforum-co-uk.json",
-        "events": 111,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 111,
-    "errors": [],
-    "duration_seconds": 13
   }
 ]
