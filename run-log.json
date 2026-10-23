@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T10:17:31.229Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "The Imperial",
+        "url": "https://theimperialpub.com/football-2-2",
+        "filename": "inverness-theimperialpub-com.json",
+        "events": 59,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 59,
+    "errors": [],
+    "duration_seconds": 2
+  },
+  {
     "timestamp": "2026-10-23T10:11:30.031Z",
     "hub": "Inverness",
     "venues": [
@@ -1090,21 +1106,5 @@
     "total_events": 36,
     "errors": [],
     "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-09-25T11:57:36.443Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "White Horse Harborne",
-        "url": "http://www.whitehorseharborne.com/Live-Music.html",
-        "filename": "harborne-whitehorseharborne-com.json",
-        "events": 14,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 14,
-    "errors": [],
-    "duration_seconds": 20
   }
 ]
