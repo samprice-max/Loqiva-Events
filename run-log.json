@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T11:47:12.392Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "MacGregor's",
+        "url": "https://www.macgregorsbars.com/live-music",
+        "filename": "inverness-macgregorsbars-com.json",
+        "events": 148,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 148,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-10-23T10:30:32.154Z",
     "hub": "Inverness",
     "venues": [
@@ -1088,22 +1104,6 @@
       }
     ],
     "total_events": 64,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-09-25T16:18:50.788Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Spa Valley Railway",
-        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
-        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
-        "events": 65,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 65,
     "errors": [],
     "duration_seconds": 2
   }
