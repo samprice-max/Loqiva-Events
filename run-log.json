@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T15:14:13.057Z",
+    "hub": "Colmore",
+    "venues": [
+      {
+        "venue": "Loki Great Western Arcade",
+        "url": "https://www.lokiwine.co.uk/birmingham/",
+        "filename": "colmore-loki-great-western-arcade.json",
+        "events": 53,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 53,
+    "errors": [],
+    "duration_seconds": 320
+  },
+  {
     "timestamp": "2026-10-23T14:50:31.974Z",
     "hub": "Colmore",
     "venues": [
@@ -1108,21 +1124,5 @@
     "total_events": 37,
     "errors": [],
     "duration_seconds": 56
-  },
-  {
-    "timestamp": "2026-09-30T12:05:28.535Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
-        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
-        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
-        "events": 30,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 30,
-    "errors": [],
-    "duration_seconds": 3
   }
 ]
