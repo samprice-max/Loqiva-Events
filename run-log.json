@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2026-10-23T13:40:35.459Z",
+    "hub": "Colmore",
+    "venues": [],
+    "total_events": 0,
+    "errors": [
+      {
+        "url": "https://birminghamcathedral.com/whats-on/",
+        "error": "Events Calendar feed returned 520"
+      }
+    ],
+    "duration_seconds": 0
+  },
+  {
     "timestamp": "2026-10-23T13:34:01.187Z",
     "hub": "Colmore",
     "venues": [
@@ -1090,21 +1103,5 @@
     "total_events": 0,
     "errors": [],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-09-25T16:50:40.640Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Spa Valley Railway",
-        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
-        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
-        "events": 64,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 64,
-    "errors": [],
-    "duration_seconds": 3
   }
 ]
