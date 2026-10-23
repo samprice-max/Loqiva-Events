@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-23T12:40:49.140Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Cultarlann Inbhir Nis",
+        "url": "https://cultarlann.scot/whats-on/",
+        "filename": "inverness-cultarlann-scot.json",
+        "events": 6,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 6,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-10-23T11:47:12.392Z",
     "hub": "Inverness",
     "venues": [
@@ -1077,22 +1093,6 @@
   },
   {
     "timestamp": "2026-09-25T16:29:06.635Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Spa Valley Railway",
-        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
-        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
-        "events": 64,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 64,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-09-25T16:24:39.309Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
       {
