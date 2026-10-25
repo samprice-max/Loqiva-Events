@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-10-25T23:16:36.699Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 32,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 47,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 104,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 13,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 196,
+    "errors": [],
+    "duration_seconds": 994
+  },
+  {
     "timestamp": "2026-10-25T23:02:38.192Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -1053,21 +1090,5 @@
     "total_events": 274,
     "errors": [],
     "duration_seconds": 614
-  },
-  {
-    "timestamp": "2026-10-06T07:45:00.600Z",
-    "hub": "Jewellery Quarter",
-    "venues": [
-      {
-        "venue": "The Jam House",
-        "url": "https://thejamhouse.com/birmingham/whats-on/",
-        "filename": "jewellery-quarter-thejamhouse-com.json",
-        "events": 52,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 52,
-    "errors": [],
-    "duration_seconds": 12
   }
 ]
