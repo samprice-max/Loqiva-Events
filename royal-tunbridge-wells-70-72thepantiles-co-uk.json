@@ -1,20 +1,5 @@
 [
   {
-    "id": 4170805657,
-    "title": "The Grey Lady Sessions: David Migden & The Twisted Roots + Reptile Kin",
-    "description": "<p>Paul Dunton presents The Grey Lady Sessions, twenty years on, with David Migden &amp; The Twisted Roots and Reptile Kin. Doors open 7.15pm. Advance tickets only £12, available through Eventbrite.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/10/07183055/grey-lady-sessions-david-migden-reptile-kin-2026-10-23-730x1024.jpg",
-    "tickets_url": "https://www.eventbrite.co.uk/e/the-grey-lady-sessions-david-migden-the-twisted-roots-reptile-kin-tickets-2000408832668",
-    "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-david-migden-twisted-roots-reptile-kin/",
-    "start_date": "2026-10-23 19:15:00",
-    "end_date": "2026-10-23 22:30:00",
-    "category": 29
-  },
-  {
     "id": 605581400,
     "title": "Taylor Swift Open Mic + Swiftie Meet Up",
     "description": "<p><strong>Our first ever Taylor Swift Open Mic + Swiftie Meet Up.</strong></p><p>Calling all Swifties: for one night The Grey Lady belongs to Taylor. Bring a favourite song from any era and take your turn on the open mic, or just come along, sing along and meet other fans.</p><p><strong>Thursday 29 October 2026, from 7pm</strong><br />The Grey Lady, Tunbridge Wells<br />Tickets £2, book below.</p><p>Want to perform, or have a question? Email <a href=\"mailto:openmic.ts@gmail.com\">openmic.ts@gmail.com</a>.</p><p>All Swifties welcome.</p>",
@@ -135,21 +120,6 @@
     "category": 12
   },
   {
-    "id": 1973219466,
-    "title": "TW Comedy Club: Lineup TBC",
-    "description": "<p>Tunbridge Wells Comedy Club returns to The Grey Lady for a night of live stand-up. Line-up and tickets coming soon.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": null,
-    "tickets_url": "https://twcomedy.club/tunbridge-wells/",
-    "url": "https://www.70-72thepantiles.co.uk/event/tw-comedy-club-lineup-tbc/",
-    "start_date": "2026-11-19 20:00:00",
-    "end_date": "2026-11-19 23:00:00",
-    "category": 3
-  },
-  {
     "id": 3626431281,
     "title": "Fiesta Latina: Shine & Sparkle",
     "description": "<p>Fiesta Latina returns to The Grey Lady with <strong>Shine &amp; Sparkle</strong>: YANIFIT and DJ Javi &#8220;La Máquina de Cuba&#8221; with salsa, merengue, cumbia, samba, reggaeton and more. A touch of sparkle is always fun, or just come ready to dance. Good music, Latin beats, a proper party.</p><p><strong>Tickets</strong></p><ul><li><strong>Full Experience — £35, 6.30pm:</strong> tapas, YANI FIT dance session and party with DJ Javi until late</li><li><strong>Dance &amp; Party — £25, 8.30pm:</strong> YANI FIT dance session and party with DJ Javi until late</li><li><strong>Party Only — £12, 9.30pm</strong></li></ul><p><strong>Dress code:</strong> silver, sparkle, glitter.</p><p>Presented by YANIFIT. Tickets and info: <a href=\"https://bookwhen.com/yanifit\">bookwhen.com/yanifit</a> or call 07598816203.</p>",
@@ -193,6 +163,21 @@
     "start_date": "2026-12-01 19:00:00",
     "end_date": "2026-12-01 22:00:00",
     "category": 12
+  },
+  {
+    "id": 2059030992,
+    "title": "Stand-Up for Imago: Charity Comedy Night",
+    "description": "<p class=\"wp-block-paragraph\">TW Comedy Club brings a night of stand-up to the Grey Lady in support of Imago, the local charity creating change together. All proceeds go to the charity. Tickets £6 online through TW Comedy Club, or £7.50 on the door.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/10/19185229/stand-up-for-imago-2026-12-02-724x1024.jpg",
+    "tickets_url": "https://twcomedy.club/events/a-night-of-standup-wednesday-2nd-december-2026-grey-lady-tunbridge-wells-in-support-of-imago/",
+    "url": "https://www.70-72thepantiles.co.uk/event/stand-up-for-imago-charity-comedy-night/",
+    "start_date": "2026-12-02 19:30:00",
+    "end_date": "2026-12-02 22:30:00",
+    "category": 3
   },
   {
     "id": 2508412082,
@@ -432,6 +417,21 @@
     "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-6/",
     "start_date": "2027-10-08 19:00:00",
     "end_date": "2027-10-08 23:30:00",
+    "category": 29
+  },
+  {
+    "id": 4001437858,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-5/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-5/",
+    "start_date": "2027-10-15 19:00:00",
+    "end_date": "2027-10-15 23:30:00",
     "category": 29
   }
 ]
