@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-11-01T23:02:38.767Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "Aura Night Club",
+        "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/",
+        "filename": "royal-tunbridge-wells-skiddle-com.json",
+        "events": 28,
+        "status": "healthy"
+      },
+      {
+        "venue": "Spa Valley Railway",
+        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
+        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
+        "events": 280,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Forum",
+        "url": "https://www.twforum.co.uk/listings",
+        "filename": "royal-tunbridge-wells-twforum-co-uk.json",
+        "events": 92,
+        "status": "healthy"
+      },
+      {
+        "venue": "King Charles the Martyr",
+        "url": "https://www.kcmtw.org/events-calander/",
+        "filename": "royal-tunbridge-wells-kcmtw-org.json",
+        "events": 4,
+        "status": "healthy"
+      },
+      {
+        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
+        "events": 27,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Pantiles",
+        "url": "https://thepantiles.com/events/",
+        "filename": "royal-tunbridge-wells-thepantiles-com.json",
+        "events": 39,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Royal Wells Hotel",
+        "url": "https://royalwells.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-royalwells-co-uk.json",
+        "events": 5,
+        "status": "healthy"
+      },
+      {
+        "venue": "Hotel du Vin Tunbridge Wells",
+        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
+        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "The Amelia Scott",
+        "url": "https://theamelia.co.uk/events/",
+        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
+        "events": 210,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 686,
+    "errors": [],
+    "duration_seconds": 157
+  },
+  {
     "timestamp": "2026-11-01T23:01:07.575Z",
     "hub": "Harborne",
     "venues": [
@@ -1074,54 +1146,5 @@
     "total_events": 497,
     "errors": [],
     "duration_seconds": 182
-  },
-  {
-    "timestamp": "2026-10-11T22:01:20.441Z",
-    "hub": "Harborne",
-    "venues": [
-      {
-        "venue": "St John's Church Harborne",
-        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
-        "filename": "harborne-stjohns-churchsuite-com.json",
-        "events": 145,
-        "status": "healthy"
-      },
-      {
-        "venue": "White Horse Harborne",
-        "url": "http://www.whitehorseharborne.com/Live-Music.html",
-        "filename": "harborne-whitehorseharborne-com.json",
-        "events": 17,
-        "status": "healthy"
-      },
-      {
-        "venue": "Harborne Pool & Fitness Centre",
-        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
-        "filename": "harborne-placesleisure-org.json",
-        "events": 40,
-        "status": "healthy"
-      },
-      {
-        "venue": "Harborne Golf Club",
-        "url": "https://www.harbornegolfclub.org.uk/opens",
-        "filename": "harborne-harbornegolfclub-org-uk.json",
-        "events": 10,
-        "status": "healthy"
-      },
-      {
-        "venue": "Barefoot Yoga Harborne",
-        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
-        "filename": "harborne-momence-com.json",
-        "events": 151,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 363,
-    "errors": [
-      {
-        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
-        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
-      }
-    ],
-    "duration_seconds": 79
   }
 ]
