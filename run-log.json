@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-11-01T23:14:31.154Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 29,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 41,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 86,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 18,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 174,
+    "errors": [],
+    "duration_seconds": 869
+  },
+  {
     "timestamp": "2026-11-01T23:02:38.767Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -1074,77 +1111,5 @@
     "total_events": 221,
     "errors": [],
     "duration_seconds": 1007
-  },
-  {
-    "timestamp": "2026-10-11T22:03:03.800Z",
-    "hub": "Royal Tunbridge Wells",
-    "venues": [
-      {
-        "venue": "Aura Night Club",
-        "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/",
-        "filename": "royal-tunbridge-wells-skiddle-com.json",
-        "events": 33,
-        "status": "healthy"
-      },
-      {
-        "venue": "Spa Valley Railway",
-        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
-        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
-        "events": 47,
-        "status": "healthy"
-      },
-      {
-        "venue": "The Forum",
-        "url": "https://www.twforum.co.uk/listings",
-        "filename": "royal-tunbridge-wells-twforum-co-uk.json",
-        "events": 103,
-        "status": "healthy"
-      },
-      {
-        "venue": "King Charles the Martyr",
-        "url": "https://www.kcmtw.org/events-calander/",
-        "filename": "royal-tunbridge-wells-kcmtw-org.json",
-        "events": 5,
-        "status": "healthy"
-      },
-      {
-        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
-        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
-        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
-        "events": 30,
-        "status": "healthy"
-      },
-      {
-        "venue": "The Pantiles",
-        "url": "https://thepantiles.com/events/",
-        "filename": "royal-tunbridge-wells-thepantiles-com.json",
-        "events": 46,
-        "status": "healthy"
-      },
-      {
-        "venue": "The Royal Wells Hotel",
-        "url": "https://royalwells.co.uk/upcoming-events/",
-        "filename": "royal-tunbridge-wells-royalwells-co-uk.json",
-        "events": 5,
-        "status": "healthy"
-      },
-      {
-        "venue": "Hotel du Vin Tunbridge Wells",
-        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
-        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
-        "events": 1,
-        "status": "low"
-      },
-      {
-        "venue": "The Amelia Scott",
-        "url": "https://theamelia.co.uk/events/",
-        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
-        "events": 227,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 497,
-    "errors": [],
-    "duration_seconds": 182
   }
 ]
