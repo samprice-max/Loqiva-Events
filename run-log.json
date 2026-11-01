@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-11-01T23:01:07.575Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 182,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 0,
+        "status": "empty"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 10,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 148,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 380,
+    "errors": [
+      {
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
+      }
+    ],
+    "duration_seconds": 65
+  },
+  {
     "timestamp": "2026-10-25T23:16:36.699Z",
     "hub": "Stirling",
     "venues": [
@@ -1074,21 +1123,5 @@
       }
     ],
     "duration_seconds": 79
-  },
-  {
-    "timestamp": "2026-10-06T12:12:33.291Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Marlowe Theatre",
-        "url": "https://marlowetheatre.com/whats-on/",
-        "filename": "canterbury-marlowetheatre-com.json",
-        "events": 274,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 274,
-    "errors": [],
-    "duration_seconds": 614
   }
 ]
