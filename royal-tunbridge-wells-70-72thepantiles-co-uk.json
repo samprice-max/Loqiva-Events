@@ -1,35 +1,5 @@
 [
   {
-    "id": 4206056050,
-    "title": "Open Mic: Singers Night",
-    "description": "<p><strong>How the Night Works</strong></p><p>A welcoming evening for all vocalists, from beginners to pros! Sing with live piano accompaniment by Roger Lewin in a fun, supportive atmosphere. Bring sheet music, backing tracks, or your own original songs. Great vibes, great music, and great food – come sing or just enjoy the show!</p><p><strong>Entry &amp; Contact</strong></p><p>Entry £5 for singers and listeners. Questions? Email <strong><a href=\"mailto:singersnight@yahoo.com\" rel=\"noopener\">singersnight@yahoo.com</a></strong>.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/01/06202717/IMG_9624-724x1024.jpeg",
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/open-mic-singers-night-9/",
-    "url": "https://www.70-72thepantiles.co.uk/event/open-mic-singers-night-9/",
-    "start_date": "2026-11-03 19:00:00",
-    "end_date": "2026-11-03 22:00:00",
-    "category": 12
-  },
-  {
-    "id": 4000706172,
-    "title": "Comedy Showcase",
-    "description": "<p>Details coming soon</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": null,
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/comedy-showcase-2/",
-    "url": "https://www.70-72thepantiles.co.uk/event/comedy-showcase-2/",
-    "start_date": "2026-11-06 19:00:00",
-    "end_date": "2026-11-06 21:00:00",
-    "category": 3
-  },
-  {
     "id": 3223096861,
     "title": "DROVER: Blue & Gold EP Launch",
     "description": "<p>Join Tunbridge Wells folk duo D R O V E R for an intimate acoustic launch of their debut EP, Blue &amp; Gold. Made up of theatre composer Stephen Hyde and Irish actor-musician Peter Long, D R O V E R draw on their Cumbrian and Corkonian roots to create evocative music shaped by close-harmony singing and poignant storytelling. Expect original folk songs, rearranged trad tunes, and the odd dark murder ballad, across two cosy, completely acoustic sets.</p><p>Doors 7pm, music from 7:30pm. Food and drink are served upstairs throughout the evening.</p>",
@@ -268,21 +238,6 @@
     "start_date": "2026-12-30 19:00:00",
     "end_date": "2026-12-30 22:00:00",
     "category": 29
-  },
-  {
-    "id": 1576129694,
-    "title": "Open Mic: Singers Night",
-    "description": "<p><strong>How the Night Works</strong></p><p>A welcoming evening for all vocalists, from beginners to pros! Sing with live piano accompaniment by Roger Lewin in a fun, supportive atmosphere. Bring sheet music, backing tracks, or your own original songs. Great vibes, great music, and great food – come sing or just enjoy the show!</p><p><strong>Entry &amp; Contact</strong></p><p>Entry £5 for singers and listeners. Questions? Email <strong><a href=\"mailto:singersnight@yahoo.com\" rel=\"noopener\">singersnight@yahoo.com</a></strong>.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/01/06202717/IMG_9624-724x1024.jpeg",
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/open-mic-singers-night-11/",
-    "url": "https://www.70-72thepantiles.co.uk/event/open-mic-singers-night-11/",
-    "start_date": "2027-01-05 19:00:00",
-    "end_date": "2027-01-05 22:00:00",
-    "category": 12
   },
   {
     "id": 22924229,
