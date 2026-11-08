@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-11-08T23:23:42.745Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 29,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 83,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 17,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 169,
+    "errors": [],
+    "duration_seconds": 1421
+  },
+  {
     "timestamp": "2026-11-08T23:02:22.417Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -1163,21 +1200,5 @@
     "total_events": 140,
     "errors": [],
     "duration_seconds": 6
-  },
-  {
-    "timestamp": "2026-10-12T10:17:07.989Z",
-    "hub": "Canterbury",
-    "venues": [
-      {
-        "venue": "Canterbury Festival",
-        "url": "https://canterburyfestival.co.uk/whats-on/",
-        "filename": "canterbury-canterburyfestival-co-uk.json",
-        "events": 110,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 110,
-    "errors": [],
-    "duration_seconds": 5
   }
 ]
