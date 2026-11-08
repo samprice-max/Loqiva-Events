@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-11-08T23:02:00.153Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 176,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 17,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 40,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 11,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 152,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 396,
+    "errors": [
+      {
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
+      }
+    ],
+    "duration_seconds": 118
+  },
+  {
     "timestamp": "2026-11-01T23:14:31.154Z",
     "hub": "Stirling",
     "venues": [
@@ -1074,42 +1123,5 @@
     "total_events": 110,
     "errors": [],
     "duration_seconds": 4
-  },
-  {
-    "timestamp": "2026-10-11T22:16:48.498Z",
-    "hub": "Stirling",
-    "venues": [
-      {
-        "venue": "The Albert Halls",
-        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
-        "filename": "stirling-the-albert-halls.json",
-        "events": 32,
-        "status": "healthy"
-      },
-      {
-        "venue": "Tolbooth",
-        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
-        "filename": "stirling-tolbooth.json",
-        "events": 46,
-        "status": "healthy"
-      },
-      {
-        "venue": "Macrobert Arts Centre",
-        "url": "https://www.macrobertartscentre.org/whats-on/",
-        "filename": "stirling-macrobert-arts-centre.json",
-        "events": 130,
-        "status": "healthy"
-      },
-      {
-        "venue": "Fubar",
-        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
-        "filename": "stirling-fubar.json",
-        "events": 13,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 221,
-    "errors": [],
-    "duration_seconds": 1007
   }
 ]
