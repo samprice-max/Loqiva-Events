@@ -2,8 +2,8 @@
   {
     "id": 2342143826,
     "title": "Cheltenham Gold Cup Golf Day 2027",
-    "description": "<p>Start Date: Friday 19th March 2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Friday 19th March 2027 - Signup Closed</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -12,13 +12,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10522",
     "start_date": "2027-03-19 12:00:00",
     "end_date": "2027-03-19 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3854375625,
     "title": "Invitation Day",
-    "description": "<p>Start Date: Saturday 29th May 2027. Signup Opens at 9:00 pm on 30/04/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Saturday 29th May 2027 - Signup Opens at 9:00 pm on 30/04/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -27,13 +27,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10742",
     "start_date": "2027-05-29 12:00:00",
     "end_date": "2027-05-29 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2291705847,
     "title": "Open AM AM 2027",
-    "description": "<p>Start Date: Sunday 6th June 2027. Competition Fee: £200.00. Signup Closes at 11:00 pm on 05/06/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 6th June 2027 - Competition Fee: £200.00. Signup Closes at 11:00 pm on 05/06/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -42,13 +42,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10533",
     "start_date": "2027-06-06 12:00:00",
     "end_date": "2027-06-06 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 4170893237,
     "title": "Seniors Open 2027 - Pairs Betterball Stableford",
-    "description": "<p>Start Date: Monday 14th June 2027. Competition Fee: £80.00. Signup Closes at 11:00 pm on 13/06/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Monday 14th June 2027 - Competition Fee: £80.00. Signup Closes at 11:00 pm on 13/06/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -57,13 +57,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10537",
     "start_date": "2027-06-14 12:00:00",
     "end_date": "2027-06-14 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2983444578,
     "title": "Ascot Golf Day",
-    "description": "<p>Start Date: Friday 18th June 2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Friday 18th June 2027 - Signup Closed</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -72,13 +72,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10519",
     "start_date": "2027-06-18 12:00:00",
     "end_date": "2027-06-18 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2919571886,
     "title": "Ladies Summer Open 2027(3-Ball Alliance)",
-    "description": "<p>Start Date: Sunday 27th June 2027. Competition Fee: £90.00. Signup Closes at 11:00 pm on 26/06/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 27th June 2027 - Competition Fee: £90.00. Signup Closes at 11:00 pm on 26/06/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -87,13 +87,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10528",
     "start_date": "2027-06-27 12:00:00",
     "end_date": "2027-06-27 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1263636061,
     "title": "Men's Open Championship 2027",
-    "description": "<p>Start Date: Sunday 25th July 2027. Competition Fee: £50.00. Signup Closes at 11:00 pm on 24/07/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 25th July 2027 - Competition Fee: £50.00. Signup Closes at 11:00 pm on 24/07/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -102,13 +102,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10536",
     "start_date": "2027-07-25 12:00:00",
     "end_date": "2027-07-25 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1540180801,
     "title": "Seniors Open AM AM 2027",
-    "description": "<p>Start Date: Monday 9th August 2027. Competition Fee: £160.00. Signup Closes at 11:00 pm on 08/08/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Monday 9th August 2027 - Competition Fee: £160.00. Signup Closes at 11:00 pm on 08/08/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -117,13 +117,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10532",
     "start_date": "2027-08-09 12:00:00",
     "end_date": "2027-08-09 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2595560415,
     "title": "Pairs Open Betterball Autumn 2027",
-    "description": "<p>Start Date: Sunday 19th September 2027. Competition Fee: £80.00. Signup Closes at 11:00 pm on 18/09/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 19th September 2027 - Competition Fee: £80.00. Signup Closes at 11:00 pm on 18/09/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -132,13 +132,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=10529",
     "start_date": "2027-09-19 12:00:00",
     "end_date": "2027-09-19 14:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3869645878,
     "title": "The 2027 Finney Shield (Midland Open Scratch Foursomes) - 36 Hole Scratch Foursomes Strokeplay",
-    "description": "<p>Start Date: Sunday 3rd October 2027. Competition Fee: £50.00. Signup Closes at 11:00 pm on 02/10/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 3rd October 2027 - Competition Fee: £50.00. Signup Closes at 11:00 pm on 02/10/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -147,13 +147,13 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=11030",
     "start_date": "2027-10-03 12:00:00",
     "end_date": "2027-10-03 14:00:00",
-    "category": 21
+    "category": 19
   },
   {
     "id": 3044506676,
     "title": "Ladies Summer Open 2027(3-Ball Alliance)",
-    "description": "<p>Start Date: Sunday 25th June 2028. Competition Fee: £90.00. Signup Opens at 10:00 am on 21/10/2027</p>",
-    "address": "Harborne Golf Club, Harborne, Birmingham, B17 8NL",
+    "description": "<p>Sunday 25th June 2028 - Competition Fee: £90.00. Signup Opens at 10:00 am on 21/10/2027</p>",
+    "address": "Harborne Golf Club, Birmingham, UK",
     "longitude": -1.968269,
     "latitude": 52.455619,
     "venue_name": "Harborne Golf Club",
@@ -162,6 +162,6 @@
     "url": "https://www.harbornegolfclub.org.uk/competition2.php?tab=details&compid=11343",
     "start_date": "2028-06-25 12:00:00",
     "end_date": "2028-06-25 14:00:00",
-    "category": 29
+    "category": 25
   }
 ]
