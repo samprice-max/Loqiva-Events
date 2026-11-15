@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-11-15T23:03:07.046Z",
+    "hub": "Harborne",
+    "venues": [
+      {
+        "venue": "St John's Church Harborne",
+        "url": "https://stjohns.churchsuite.com/embed/calendar/json",
+        "filename": "harborne-stjohns-churchsuite-com.json",
+        "events": 161,
+        "status": "healthy"
+      },
+      {
+        "venue": "White Horse Harborne",
+        "url": "http://www.whitehorseharborne.com/Live-Music.html",
+        "filename": "harborne-whitehorseharborne-com.json",
+        "events": 0,
+        "status": "empty"
+      },
+      {
+        "venue": "Harborne Pool & Fitness Centre",
+        "url": "https://www.placesleisure.org/centres/harborne-pool-and-fitness-centre/",
+        "filename": "harborne-placesleisure-org.json",
+        "events": 38,
+        "status": "healthy"
+      },
+      {
+        "venue": "Harborne Golf Club",
+        "url": "https://www.harbornegolfclub.org.uk/opens",
+        "filename": "harborne-harbornegolfclub-org-uk.json",
+        "events": 11,
+        "status": "healthy"
+      },
+      {
+        "venue": "Barefoot Yoga Harborne",
+        "url": "https://momence.com/u/barefoot-birmingham-LwZpQe",
+        "filename": "harborne-momence-com.json",
+        "events": 152,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 362,
+    "errors": [
+      {
+        "url": "https://www.craftunionpubs.com/harborne-stores-birmingham/sport",
+        "error": "JSON parse failed: Unexpected token 'R', \"Redirecting...\n\" is not valid JSON"
+      }
+    ],
+    "duration_seconds": 184
+  },
+  {
     "timestamp": "2026-11-15T23:02:19.360Z",
     "hub": "Royal Tunbridge Wells",
     "venues": [
@@ -1308,22 +1357,6 @@
       }
     ],
     "total_events": 18,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-16T15:17:32.137Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "Johnny Foxes",
-        "url": "https://foxes.johnnyfoxes.co.uk/entertainment-at-foxes/",
-        "filename": "inverness-foxes-johnnyfoxes-co-uk.json",
-        "events": 16,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 16,
     "errors": [],
     "duration_seconds": 2
   }
