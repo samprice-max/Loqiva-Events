@@ -1,5 +1,42 @@
 [
   {
+    "timestamp": "2026-11-15T23:19:50.847Z",
+    "hub": "Stirling",
+    "venues": [
+      {
+        "venue": "The Albert Halls",
+        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
+        "filename": "stirling-the-albert-halls.json",
+        "events": 29,
+        "status": "healthy"
+      },
+      {
+        "venue": "Tolbooth",
+        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
+        "filename": "stirling-tolbooth.json",
+        "events": 39,
+        "status": "healthy"
+      },
+      {
+        "venue": "Macrobert Arts Centre",
+        "url": "https://www.macrobertartscentre.org/whats-on/",
+        "filename": "stirling-macrobert-arts-centre.json",
+        "events": 74,
+        "status": "healthy"
+      },
+      {
+        "venue": "Fubar",
+        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
+        "filename": "stirling-fubar.json",
+        "events": 18,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 160,
+    "errors": [],
+    "duration_seconds": 1187
+  },
+  {
     "timestamp": "2026-11-15T23:03:07.046Z",
     "hub": "Harborne",
     "venues": [
@@ -1343,21 +1380,5 @@
     "total_events": 18,
     "errors": [],
     "duration_seconds": 3
-  },
-  {
-    "timestamp": "2026-10-16T15:39:12.477Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "Upstairs",
-        "url": "https://www.upstairsinverness.com/upstairs-whats-on",
-        "filename": "inverness-upstairsinverness-com.json",
-        "events": 18,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 18,
-    "errors": [],
-    "duration_seconds": 2
   }
 ]
