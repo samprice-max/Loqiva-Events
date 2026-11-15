@@ -1,65 +1,5 @@
 [
   {
-    "id": 2310049503,
-    "title": "RED CARD Wednesday",
-    "description": "<p>Biggest Student Night</p>",
-    "address": "6 Maxwell Place, Stirling, FK8 1JU",
-    "longitude": -3.93755,
-    "latitude": 56.120125,
-    "venue_name": "Fubar",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/6/d/3/2457123_99928916_RED-CARD-Wednesday.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/RED-CARD-Wednesday/43122846/",
-    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/RED-CARD-Wednesday/43122846/",
-    "start_date": "2026-11-11 22:00:00",
-    "end_date": "2026-11-12 02:00:00",
-    "category": 11
-  },
-  {
-    "id": 1358354478,
-    "title": "No Shame Thursdays - Sweaty Indie Disco",
-    "description": "<p>Sweaty Indie Disco is Back!\nbecause Bad Decisions Taste Better- Fubar Thursdays.</p>",
-    "address": "6 Maxwell Place, Stirling, FK8 1JU",
-    "longitude": -3.93755,
-    "latitude": 56.120125,
-    "venue_name": "Fubar",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/4/6/0/2457140_32314837_No-Shame-Thursdays---Sweaty-Indie-Disco.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/No-Shame-Thursdays---Sweaty-Indie-Disco/43122863/",
-    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/No-Shame-Thursdays---Sweaty-Indie-Disco/43122863/",
-    "start_date": "2026-11-12 22:00:00",
-    "end_date": "2026-11-13 02:00:00",
-    "category": 11
-  },
-  {
-    "id": 423000651,
-    "title": "SHOWTIME Friday",
-    "description": "<p>Live music + DJ till late</p>",
-    "address": "6 Maxwell Place, Stirling, FK8 1JU",
-    "longitude": -3.93755,
-    "latitude": 56.120125,
-    "venue_name": "Fubar",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/8/2/2457129_56885519_SHOWTIME-Friday.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/SHOWTIME-Friday/43122852/",
-    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/SHOWTIME-Friday/43122852/",
-    "start_date": "2026-11-13 22:00:00",
-    "end_date": "2026-11-14 03:00:00",
-    "category": 11
-  },
-  {
-    "id": 4263485766,
-    "title": "Fubar Saturdays",
-    "description": "<p>Fubar Saturdays - because where else? it's what you do!</p>",
-    "address": "6 Maxwell Place, Stirling, FK8 1JU",
-    "longitude": -3.93755,
-    "latitude": 56.120125,
-    "venue_name": "Fubar",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/7/4/2457135_14818692_Fubar-Saturdays.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Fubar-Saturdays/43122858/",
-    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Fubar-Saturdays/43122858/",
-    "start_date": "2026-11-14 22:00:00",
-    "end_date": "2026-11-15 03:00:00",
-    "category": 11
-  },
-  {
     "id": 29458164,
     "title": "RED CARD Wednesday",
     "description": "<p>Biggest Student Night</p>",
@@ -72,7 +12,37 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/RED-CARD-Wednesday/43163471/",
     "start_date": "2026-11-18 22:00:00",
     "end_date": "2026-11-19 02:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 156598063,
+    "title": "No Shame Thursdays",
+    "description": "<p>Because bad decisions taste better.</p>",
+    "address": "6 Maxwell Place, Stirling, FK8 1JU",
+    "longitude": -3.93755,
+    "latitude": 56.120125,
+    "venue_name": "Fubar",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/9/7/7/2471717_68639018_No-Shame-Thursdays.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/No-Shame-Thursdays/43186508/",
+    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/No-Shame-Thursdays/43186508/",
+    "start_date": "2026-11-19 22:00:00",
+    "end_date": "2026-11-20 02:00:00",
+    "category": 16
+  },
+  {
+    "id": 4161611056,
+    "title": "Showtime x Official Stirling Fight Night Afterparty",
+    "description": "<p>Join us for the OFFICIAL Stirling Student Fight Night afterparty at the HIGHLIGHT of the weekend.</p>",
+    "address": "6 Maxwell Place, Stirling, FK8 1JU",
+    "longitude": -3.93755,
+    "latitude": 56.120125,
+    "venue_name": "Fubar",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/c/2/c/2468238_e8ef6ee8_showtime-x-official-stirling-fight-night-afterparty.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Showtime-x-Official-Stirling-Fight-Night-Afterparty/43163475/",
+    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Showtime-x-Official-Stirling-Fight-Night-Afterparty/43163475/",
+    "start_date": "2026-11-20 22:00:00",
+    "end_date": "2026-11-21 03:00:00",
+    "category": 16
   },
   {
     "id": 1814084873,
@@ -87,7 +57,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Generation-GBX---Fubar-Edition---Part-5/42437572/",
     "start_date": "2026-11-21 15:00:00",
     "end_date": "2026-11-21 21:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1699588259,
@@ -102,7 +72,22 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Fubar-Saturdays/43163476/",
     "start_date": "2026-11-21 22:00:00",
     "end_date": "2026-11-22 03:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1582456272,
+    "title": "RED CARD Wednesday",
+    "description": "<p>Biggest Student Night</p>",
+    "address": "6 Maxwell Place, Stirling, FK8 1JU",
+    "longitude": -3.93755,
+    "latitude": 56.120125,
+    "venue_name": "Fubar",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/c/9/2/2471735_78288339_RED-CARD-Wednesday.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/RED-CARD-Wednesday/43187093/",
+    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/RED-CARD-Wednesday/43187093/",
+    "start_date": "2026-11-25 22:00:00",
+    "end_date": "2026-11-26 02:00:00",
+    "category": 16
   },
   {
     "id": 2647302276,
@@ -117,7 +102,22 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/No-Shame-Thursday-Lipsync-4-UR-Life/43163473/",
     "start_date": "2026-11-26 22:00:00",
     "end_date": "2026-11-27 02:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1254017834,
+    "title": "SHOWTIME Friday",
+    "description": "<p>Live music + DJ till late</p>",
+    "address": "6 Maxwell Place, Stirling, FK8 1JU",
+    "longitude": -3.93755,
+    "latitude": 56.120125,
+    "venue_name": "Fubar",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/a/8/8/2471734_10726460_SHOWTIME-Friday.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/SHOWTIME-Friday/43187092/",
+    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/SHOWTIME-Friday/43187092/",
+    "start_date": "2026-11-27 22:00:00",
+    "end_date": "2026-11-28 03:00:00",
+    "category": 16
   },
   {
     "id": 510314945,
@@ -132,7 +132,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Last-Last/43056686/",
     "start_date": "2026-11-27 22:00:00",
     "end_date": "2026-11-28 03:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 647069737,
@@ -147,7 +147,22 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Gimme-Gimme-Gimme-An-ABBA-Daytime-Disco-Winter-Edition/42618653/",
     "start_date": "2026-11-28 16:00:00",
     "end_date": "2026-11-28 21:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1286356911,
+    "title": "Fubar Saturdays",
+    "description": "<p>Fubar Saturdays - because where else? it's what you do!</p>",
+    "address": "6 Maxwell Place, Stirling, FK8 1JU",
+    "longitude": -3.93755,
+    "latitude": 56.120125,
+    "venue_name": "Fubar",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/4/f/8/2471733_52421303_Fubar-Saturdays.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Fubar-Saturdays/43187091/",
+    "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Fubar-Saturdays/43187091/",
+    "start_date": "2026-11-28 22:00:00",
+    "end_date": "2026-11-29 03:00:00",
+    "category": 16
   },
   {
     "id": 4012419646,
@@ -162,7 +177,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Definitely-Oasis-Live-at-Fubar--Showtime/42288174/",
     "start_date": "2026-12-04 20:00:00",
     "end_date": "2026-12-05 01:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 3002483000,
@@ -177,7 +192,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Sector-Events--Fubar-Stirling-present-Inner-Rhythm/42415714/",
     "start_date": "2026-12-05 14:00:00",
     "end_date": "2026-12-05 22:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 2482179510,
@@ -192,7 +207,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/OOO-X-Fubar--Hannah-Doc/43028577/",
     "start_date": "2026-12-05 22:30:00",
     "end_date": "2026-12-06 03:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 3565813845,
@@ -207,7 +222,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/I-Am-A-Raver-presents-Nanna-Makina/43050956/",
     "start_date": "2026-12-11 22:00:00",
     "end_date": "2026-12-12 03:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 404892301,
@@ -222,7 +237,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Martin-Kemp-Back-To-The-80s-Christmas-Party/42840002/",
     "start_date": "2026-12-12 15:00:00",
     "end_date": "2026-12-12 21:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 2763136576,
@@ -237,7 +252,7 @@
     "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/Glitch-Gary-Beck-002/43123475/",
     "start_date": "2026-12-18 22:00:00",
     "end_date": "2026-12-19 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 104032031,
