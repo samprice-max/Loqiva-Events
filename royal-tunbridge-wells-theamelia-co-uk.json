@@ -1,20 +1,5 @@
 [
   {
-    "id": 4255338250,
-    "title": "Activist Avenue",
-    "description": "<p>Learn about the history of Tunbridge Wells in a way you’ve never seen before… <br>From the minds of the Young Producers comes a new trail full of untold stories – be the first to uncover the forgotten histories of radicals like Olive Walton, Jasper Sprange and Amelia Scott herself. <br>Across the Amelia, you will travel through the past and investigate the life of each pioneer from Tunbridge Wells’ history. Interact with their stories further by reading about their experiences and completing fun activities! Collect all the stamps along the way in your “Passport Through Time” and perhaps they will leave you a special reward… <br>An experience for all ages. <br>This project is part of our Unlocking Collections Programme, supported using public funding from the National Lottery through Arts Council England.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/09/Radical-History-Magazine-1-e1788440917935.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/activist-avenue/",
-    "url": "https://theamelia.co.uk/event/activist-avenue/",
-    "start_date": "2026-09-19 09:30:00",
-    "end_date": "2026-12-01 17:00:00",
-    "category": 5
-  },
-  {
     "id": 1742685186,
     "title": "Warm Welcome Spaces",
     "description": "<p>Warm Welcome Spaces – Discover more at The Amelia <br>Step in from the cold, explore fascinating local history, relax with a good book, meet new people, or simply enjoy some quiet time for yourself. Whether you’re visiting for five minutes or spending the afternoon with us, The Amelia Scott is a comfortable space where everyone is welcome. <br>There’s always something new to discover, from exhibitions and displays to books, activities and creative wellbeing programmes. <br>Free Library Services <br>Your library membership gives you access to a wide range of free resources and services; <br>– Free computer access and Wi-Fi<br>– E-books and audiobooks for adults, young people and children<br>– Free digital newspapers and magazines, including The New Yorker, Cosmopolitan, National Geographic, HELLO! and House &amp; Garden<br>– Free online computer courses, including introductory coding in Python and Java<br>– Access to over 40 research databases and online subscriptions, including Ancestry<br>– Ask a librarian, a free online enquiry service available 24 hours a day<br>– Homework and reference support<br>– Access to our grand piano for anyone who would like to play <br>Kent Libraries’ online resources go far beyond a standard internet search. If you’d like to learn more, our friendly staff are always happy to help and can show you how to get started. <br>Programmes and activities you can join: </p><p>Group</p><p>When</p><p>Silent Book Club<br>No need to book drop in</p><p>2nd Monday of every month 10am-12pm </p><p>Knit &amp; Stitch Club<br>No need to book drop in<br>Every Weds 1pm-3pm</p><p>Game Cafe<br>When Green Room unoccupied – free drop in<br>Fri PM, Sat, Sun and Mon</p><p>Citizen Advice (CAB) Kiosk<br>free, confidential information and advice on legal, debt, consumer, housing and other problems.<br>Wed 14:00 – 16:00, Fri 14:00 – 16:00</p><p>Create and Connect<br>Email creativehealth@tunbridgewells.gov.uk<br>Weekly, Fridays</p><p>Your Place to be<br>Monthly group for people who are caring for someone else.<br>1st Monday of the month – 13:00 – 14:30</p><p>Come As You Are<br>For those affected by bereavement. E mail creativehealth@tunbridgewells.gov.uk<br>Weekly Tuesday</p><p>Mindfulness Trail<br>Practice slow looking through a series of gentle prompts inspired by objects, artworks and historic collections throughout the building.<br>Enjoy at your own leisure.</p><p>Family Trail<br> Artist-designed family trail, ask at welcome desk for booklet<br>Enjoy at your own leisure.</p><p>Community Support<br>Throughout the winter, visitors can also access a range of community initiatives and donation points, including:<br>– Mayor’s Toy Appeal<br>– Nourish Community Foodbank collections<br>– Stitch Club is also creating a winter hat tree, all welcome to join. <br>Everyone Welcome<br>Most importantly, The Amelia Scott is a place for everyone. Whether you’re looking for warmth, company, support, inspiration, or simply somewhere comfortable to spend time, our doors are open. Come in, make yourself at home, and discover all that The Amelia Scott has to offer.</p>",
@@ -43,186 +28,6 @@
     "start_date": "2026-10-23 09:30:00",
     "end_date": "2027-02-21 17:00:00",
     "category": 14
-  },
-  {
-    "id": 767796443,
-    "title": "Silent Book Club",
-    "description": "<p>Silent Book Club is a global community of readers with 2,200+ chapters in 70 countries <br>There’s no assigned reading — you can bring your own book. <br>Take time for yourself to come together and silently enjoy reading in a friendly communal environment, a community to read together and swap stories. Hot drink will be provided. <br>All readers are welcome and all book formats welcome. <br>Silent Book Club is every 2nd Monday of each month. Drop in – no need to book!</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Upper Atrium",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/08/sbc-crop.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/silent-book-club/2026-11-09/",
-    "url": "https://theamelia.co.uk/event/silent-book-club/2026-11-09/",
-    "start_date": "2026-11-09 10:00:00",
-    "end_date": "2026-11-09 12:00:00",
-    "category": 11
-  },
-  {
-    "id": 3436639526,
-    "title": "Story Time",
-    "description": "<p>Listening to stories is a great way to develop and encourage young children to read books. Come and join one of our Story Time sessions for 3 to 4 year olds – it’s great fun! </p><p>You can find Kent Libraries online Story time playlist on our You Tube channel. <br>Research shows that babies and children introduced early to stories and books do better in school in later years. So if you have no time to read tonight, download a free audio story from Storynory or Kent Libraries growing audiobooks collection. <br>Story Time will be taking place in the Children’s Library (under the beautiful night sky) on Monday Mornings at 11:00 from the 9th May. <br>No need to book, just drop in.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Children’s Library",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/Story-Time.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/story-time/2026-11-09/",
-    "url": "https://theamelia.co.uk/event/story-time/2026-11-09/",
-    "start_date": "2026-11-09 11:00:00",
-    "end_date": "2026-11-09 12:00:00",
-    "category": 5
-  },
-  {
-    "id": 3456445242,
-    "title": "Art Room",
-    "description": "<p>Please join Art Room for the autumn art course, Hidden Symbols found in Art. <br>Over this seven week course, students will learn about hidden symbols and meanings found in various artworks, and will make their own art inspired by these findings. Students will use many different materials and art techniques, to produce unique, creative pieces of art. <br>The course is run by local art teacher and artist Gemma Marissa, and is taught in the Residency Studio at the Amelia Scott on Tuesday mornings from 9:30-11:30am. The course is suitable for all adults of all ages and abilities. <br>To book please email tw.art.room@gmail.com <br>Art Room is not affiliated to The Amelia Scott, for all enquiries please email the address above.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Residency Studio",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/08/TW-Art-Room-for-Website.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/art-room/2026-11-10/",
-    "url": "https://theamelia.co.uk/event/art-room/2026-11-10/",
-    "start_date": "2026-11-10 09:30:00",
-    "end_date": "2026-11-10 11:30:00",
-    "category": 10
-  },
-  {
-    "id": 832354645,
-    "title": "Rhyme Time",
-    "description": "<p>Come and join our fun and noisy singing session for children under 4 and their parents and carers. <br>A free, fun and noisy way for under 4s to develop a love of language and a foundation for learning. Each session lasts about 20 – 30 minutes and includes the opportunity to join in with nursery rhymes and action songs. <br>Research shows that these activities can help develop literacy and communication skills in babies and children. <br>These sessions will take place in the Children’s library (under the beautiful night sky) on Tuesdays at 10:00 and 11:00, and Thursdays at 10:00. <br>No need to book, just drop in!</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Children’s Library",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/ChildrensLibrary-1-v2.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2026-11-10/",
-    "url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2026-11-10/",
-    "start_date": "2026-11-10 10:00:00",
-    "end_date": "2026-11-10 12:00:00",
-    "category": 5
-  },
-  {
-    "id": 4139915980,
-    "title": "Home Education at The Amelia - Primary",
-    "description": "<p>Join us at The Amelia for our monthly learning sessions open to home educated children across the borough. <br>Our learning sessions are linked to The Amelia’s collections, are based on enquiry-led learning and are rooted in the National Curriculum. Sessions provide unique opportunities for object-handling and inspiring activities to guide children and their families as they explore our galleries. <br>Duration: Standard sessions last 60 mins <br>We aim to provide a fully inclusive service for all our young visitors. Please let us know if there are any SPLD/ or accessibility needs we should be aware of so that we can help support all participants to engage with the session. <br>Please note, children must be accompanied by their parent/carers and remain their responsibility at all times. <br>Monthly themes: <br>8 September – Archaeology Adventure<br>Join us for a special exhibition-linked session. The group will start with an introduction to archaeology in the Learning Room, with the chance to explore artefacts and objects hands-on. The session will conclude in Archaeology Adventure, our current temporary exhibition. <br>13 October – The Story of the Wells – Local History<br>In this session, the group will discover how and why our town came into existence. Using artefacts to piece together its story from forest, to popular health resort, to holiday destination for a princess, the group will also find out why children from the East End of London would spend their summer holidays here 100 years ago! <br>10 November – Dinosaurs and Fossils<br>In this session, the group are cast as palaeontologists and explore clues about what the world was like millions of years ago. They have the chance to handle a range of fossils from The Amelia’s Collection to investigate how they were made and what they tell us about the past. <br>8 December – Generations of Joy<br>This session will take place off-site and provide an enriching opportunity for inter-generational engagement, with children and care-home residents taking part in Christmas-themed activities together. </p><p>Contact us to find out more before booking</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/06/Millies-Journey.png",
-    "tickets_url": "https://theamelia.co.uk/event/home-education-at-the-amelia-primary-4/",
-    "url": "https://theamelia.co.uk/event/home-education-at-the-amelia-primary-4/",
-    "start_date": "2026-11-10 10:00:00",
-    "end_date": "2026-11-10 14:00:00",
-    "category": 4
-  },
-  {
-    "id": 1600090170,
-    "title": "Come as you are  – a group for people affected by bereavement",
-    "description": "<p>Are you affected by bereavement? <br>Would you like to find: </p><p>Creativity<br>Community<br>Connection</p><p>This programme will offer a range of creative activities to support wellbeing and connection. This might involve art, music, storytelling, playing games – the participants will choose the activities themselves, with no pressure to create and no experience needed. <br>We will offer a warm, welcoming space with free tea and biscuits and the freedom for people to ‘come as you are’. </p><p>Contact us for more information or to book your place</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Residency Studio",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/06/Activities_creativity_-04-2-1.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/come-as-you-are-a-group-for-people-affected-by-bereavement/2026-11-10/",
-    "url": "https://theamelia.co.uk/event/come-as-you-are-a-group-for-people-affected-by-bereavement/2026-11-10/",
-    "start_date": "2026-11-10 12:30:00",
-    "end_date": "2026-11-10 14:30:00",
-    "category": 11
-  },
-  {
-    "id": 1966454301,
-    "title": "Just Dance at The Amelia Scott - Pre School Ballet, Tap & Modern",
-    "description": "<p>Discover the joy of dance! <br>Our Pre School classes are designed to nurture listening skills, memory, coordination through imaginative dance exercises. Each week, your little one might jump like a frog on the farm, splash at the seaside or soar into outer space, all while exploring our exciting class themes and engaging props. <br>Every activity has purpose and progression behind it. Our exercises help prepare children for the prestigious ISTD dance syllabus, taught by our fully qualified ISTD teachers. As a school, we also provide classes across Tunbridge Wells and provide the dance provision at Homewood House and Somerhill Schools. <br>https://www.justdanceuk.co.uk/1-to-4-years <br>Just Dance is not affiliated to The Amelia Scott, if you have any queries please visit their website above.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – The Green Room",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/06/Just-Dance.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/just-dance-at-the-amelia-scott-pre-school-ballet-tap-modern/2026-11-11/",
-    "url": "https://theamelia.co.uk/event/just-dance-at-the-amelia-scott-pre-school-ballet-tap-modern/2026-11-11/",
-    "start_date": "2026-11-11 09:45:00",
-    "end_date": "2026-11-11 11:15:00",
-    "category": 5
-  },
-  {
-    "id": 2792779398,
-    "title": "Knit & Stitch Club",
-    "description": "<p>Come along to our drop in Knit &amp; Stich club here at The Amelia Scott every Wednesday from 1-3pm. <br>Enjoy meeting and crafting with like minded makers in a relaxed and friendly environment.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Lower Atrium",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/04/Notes_at_The_Amelia-OPT.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/knit-stitch-club-2/2026-11-11/",
-    "url": "https://theamelia.co.uk/event/knit-stitch-club-2/2026-11-11/",
-    "start_date": "2026-11-11 13:00:00",
-    "end_date": "2026-11-11 15:00:00",
-    "category": 11
-  },
-  {
-    "id": 1830112065,
-    "title": "Rhyme Time",
-    "description": "<p>Come and join our fun and noisy singing session for children under 4 and their parents and carers. <br>A free, fun and noisy way for under 4s to develop a love of language and a foundation for learning. Each session lasts about 20 – 30 minutes and includes the opportunity to join in with nursery rhymes and action songs. <br>Research shows that these activities can help develop literacy and communication skills in babies and children. <br>These sessions will take place in the Children’s library (under the beautiful night sky) on Tuesdays at 10:00 and 11:00, and Thursdays at 10:00. <br>No need to book, just drop in!</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Children’s Library",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/ChildrensLibrary-1-v2.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2026-11-12/",
-    "url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2026-11-12/",
-    "start_date": "2026-11-12 10:00:00",
-    "end_date": "2026-11-12 12:00:00",
-    "category": 5
-  },
-  {
-    "id": 1755072330,
-    "title": "Botanical Lino Printing Workshop with Susan Yeates",
-    "description": "<p>Join Susan Yeates for a hands-on botanical themed linocut printing workshop this November. <br>Working from leaves, seed heads and garden finds, you’ll learn how to translate a botanical subject into a confident single-colour linocut print, from first sketch through to that satisfying peel-and-reveal moment. Susan has taught linocut for over twenty years and guided more than 3,000 students through the process. This in-person session distils that experience into a relaxed, sociable session of carving and printing. No previous printmaking experience is needed, just a willingness to get a little inky. All materials and tools provided, you’ll leave with a small collection of your own hand-printed nature studies. <br>Due to demand we have now added an afternoon workshop, 2pm-5pm. See booking link <br>Susan Yeates is an artist, author and TEDx speaker. She has written and self-published four books, and her Search Press titles include Beginner’s Guide to Linocut, published in 2018, Sketchbook Challenge and Sketch-a-Day Card Deck. Susan obtained a fine art, printmaking degree from Loughborough University and has been teaching art courses and workshops both in person and online since 2003. She also co-runs a pottery café in Woking, Surrey. Susan runs an annual 30-day sketching challenge every January through her website susanyeates.co.uk and on Instagram (@susanyeatesartist) and Facebook, encouraging people to develop a daily sketching habit. <br>Susan lives and works in Woking in Surrey, UK, and continues to teach printmaking and sketching through online courses. Susan is passionate about inspiring others to get creative. <br>Susan will also be joining us in the afternoon for a talk, more information here! <br>Your purchase today helps to support our work and enables The Amelia to continue to provide free access to the arts, culture, learning and creative health programmes for everyone in our community. Thank You!</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/Lino-109-susan-yeates-PLEASECREDIT-EddieJuddPhotography.png",
-    "tickets_url": "https://theamelia.co.uk/event/botanical-lino-printing-workshop-with-susan-yeates/",
-    "url": "https://theamelia.co.uk/event/botanical-lino-printing-workshop-with-susan-yeates/",
-    "start_date": "2026-11-12 10:00:00",
-    "end_date": "2026-11-12 17:00:00",
-    "category": 10
-  },
-  {
-    "id": 966251541,
-    "title": "Create & Connect",
-    "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott – Residency Studio",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/07/Image-9.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/create-connect-2/2026-11-13/",
-    "url": "https://theamelia.co.uk/event/create-connect-2/2026-11-13/",
-    "start_date": "2026-11-13 10:30:00",
-    "end_date": "2026-11-13 15:30:00",
-    "category": 11
-  },
-  {
-    "id": 2560954093,
-    "title": "Christmas Kick Off at The Amelia Scott",
-    "description": "<p>Join us on 14th November when we will join the town in celebrating the ‘Kick Off’ of Christmas festivities in the heart of Tunbridge Wells. <br>Experience all the wonderful things that make The Amelia Scott such a unique and welcoming place. Discover our museum, gallery, library, archives and community spaces, while enjoying a day filled with festive fun for all ages. <br>Get creative with seasonal craft activities, explore our fascinating collections, and take part in a range of engaging experiences that showcase everything we do throughout the year. Whether you’re a regular visitor or discovering us for the first time, there’s plenty to enjoy. <br>We proudly host a Donation Station for Nourish Community Foodbank and The Mayors Toy Appeal, giving visitors the opportunity to support local people and families during the festive season. It’s a simple way to spread a little Christmas kindness and make a difference in our community. <br>With festive activities, community spirit, seasonal surprises and much more, it’s the perfect opportunity to celebrate together and embrace the magic of Christmas.</p>",
-    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
-    "longitude": 0.263829,
-    "latitude": 51.133213,
-    "venue_name": "The Amelia Scott",
-    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/Social-Post-SQUARE-1080-x-1080-px-19.jpg",
-    "tickets_url": "https://theamelia.co.uk/event/christmas-kick-off-at-the-amelia-scott/",
-    "url": "https://theamelia.co.uk/event/christmas-kick-off-at-the-amelia-scott/",
-    "start_date": "2026-11-14 09:00:00",
-    "end_date": "2026-11-14 17:00:00",
-    "category": 5
   },
   {
     "id": 3325781434,
@@ -402,7 +207,7 @@
     "url": "https://theamelia.co.uk/event/take-a-closer-look-howard-hodgkin-2/",
     "start_date": "2026-11-22 14:00:00",
     "end_date": "2026-11-22 14:30:00",
-    "category": 19
+    "category": 17
   },
   {
     "id": 1481487088,
@@ -777,7 +582,7 @@
     "url": "https://theamelia.co.uk/event/take-a-closer-look-howard-hodgkin-3/",
     "start_date": "2026-12-09 12:30:00",
     "end_date": "2026-12-09 13:00:00",
-    "category": 19
+    "category": 17
   },
   {
     "id": 1612235808,
@@ -812,7 +617,7 @@
   {
     "id": 1097191738,
     "title": "Christmas Wreath Making Workshop",
-    "description": "<p>Begin the Christmas season in style with a relaxing morning/afternoon of wreath‑making. With expert guidance, you’ll use a fresh moss-base, natural foliage and a variety of festive decorations and ribbon, to design a beautiful handmade wreath to take home with you. <br>Enjoy a complimentary glass of Prosecco or hot drink as you enjoy the perfect Christmas experience. <br>What’s included:<br>– All materials and guidance<br>– Your finished wreath to take home<br>– A glass of prosecco (18+) or hot drink <br>Ideal for beginner wreath makers, though adults of all experience levels are welcome to book. <br>All items will be supplied, but feel free to bring any of your own personal decorations that you would like to add. Please bring some gardening gloves and an apron if you are able, to avoid getting too messy and wet! <br>We also have an Adult &amp; Child workshop, click here for more details.</p>",
+    "description": "<p>Begin the Christmas season in style with a relaxing morning/afternoon of wreath‑making. With expert guidance, you’ll use a fresh moss-base, natural foliage and a variety of festive decorations and ribbon, to design a beautiful handmade wreath to take home with you. <br>Enjoy a complimentary glass of Prosecco or hot drink as you enjoy the perfect Christmas experience. <br>What’s included:<br>– All materials and guidance<br>– Your finished wreath to take home<br>– A glass of prosecco (18+) or hot drink <br>Ideal for beginner wreath makers, though adults of all experience levels are welcome to book. <br>All items will be supplied, but feel free to bring any of your own personal decorations that you would like to add. Please bring some gardening gloves and an apron if you are able, to avoid getting too messy and wet! It would also be useful to bring your own secateurs and wire cutters if you have them. <br>We also have an Adult &amp; Child workshop, click here for more details.</p>",
     "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
     "longitude": 0.263829,
     "latitude": 51.133213,
@@ -857,7 +662,7 @@
   {
     "id": 3708172178,
     "title": "Christmas Wreath Making Workshop",
-    "description": "<p>Begin the Christmas season in style with a relaxing morning/afternoon of wreath‑making. With expert guidance, you’ll use a fresh moss-base, natural foliage and a variety of festive decorations and ribbon, to design a beautiful handmade wreath to take home with you. <br>Enjoy a complimentary glass of Prosecco or hot drink as you enjoy the perfect Christmas experience. <br>What’s included:<br>– All materials and guidance<br>– Your finished wreath to take home<br>– A glass of prosecco (18+) or hot drink <br>Ideal for beginner wreath makers, though adults of all experience levels are welcome to book. <br>All items will be supplied, but feel free to bring any of your own personal decorations that you would like to add. Please bring some gardening gloves and an apron if you are able, to avoid getting too messy and wet! <br>We also have an Adult &amp; Child workshop, click here for more details.</p>",
+    "description": "<p>Begin the Christmas season in style with a relaxing morning/afternoon of wreath‑making. With expert guidance, you’ll use a fresh moss-base, natural foliage and a variety of festive decorations and ribbon, to design a beautiful handmade wreath to take home with you. <br>Enjoy a complimentary glass of Prosecco or hot drink as you enjoy the perfect Christmas experience. <br>What’s included:<br>– All materials and guidance<br>– Your finished wreath to take home<br>– A glass of prosecco (18+) or hot drink <br>Ideal for beginner wreath makers, though adults of all experience levels are welcome to book. <br>All items will be supplied, but feel free to bring any of your own personal decorations that you would like to add. Please bring some gardening gloves and an apron if you are able, to avoid getting too messy and wet! It would also be useful to bring your own secateurs and wire cutters if you have them. <br>We also have an Adult &amp; Child workshop, click here for more details.</p>",
     "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
     "longitude": 0.263829,
     "latitude": 51.133213,
@@ -1500,6 +1305,21 @@
     "category": 5
   },
   {
+    "id": 2465926767,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-14/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-14/",
+    "start_date": "2027-01-14 10:30:00",
+    "end_date": "2027-01-14 12:30:00",
+    "category": 11
+  },
+  {
     "id": 2758335088,
     "title": "Create & Connect",
     "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
@@ -1542,7 +1362,7 @@
     "url": "https://theamelia.co.uk/event/take-a-closer-look-howard-hodgkin-4/",
     "start_date": "2027-01-17 10:00:00",
     "end_date": "2027-01-17 10:30:00",
-    "category": 19
+    "category": 17
   },
   {
     "id": 83518547,
@@ -1603,6 +1423,21 @@
     "start_date": "2027-01-21 10:00:00",
     "end_date": "2027-01-21 12:00:00",
     "category": 5
+  },
+  {
+    "id": 1029900250,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-21/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-21/",
+    "start_date": "2027-01-21 10:30:00",
+    "end_date": "2027-01-21 12:30:00",
+    "category": 11
   },
   {
     "id": 1477725995,
@@ -1680,6 +1515,21 @@
     "category": 5
   },
   {
+    "id": 3311854873,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-28/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-01-28/",
+    "start_date": "2027-01-28 10:30:00",
+    "end_date": "2027-01-28 12:30:00",
+    "category": 11
+  },
+  {
     "id": 1048822262,
     "title": "Take a Closer Look: Howard Hodgkin",
     "description": "<p>Join a Curator from The Amelia for a short guided tour of the current temporary exhibition Howard Hodgkin: In a Public Garden. Whether you already know the works of Howard Hodgkin, or are curious to learn more, join us to take a closer look. <br>This autumn, The Amelia Scott presents Howard Hodgkin: In a Public Garden, a critically acclaimed exhibition bringing together more than 30 prints spanning five decades of the artist’s career, from 1966 to 2016. <br>Originally developed by Pitzhanger Manor &amp; Gallery, this landmark exhibition showcases the work of Howard Hodgkin, whose vivid use of colour, expressive brushwork and deeply personal approach to abstraction made him one of Britain’s most distinctive post-war artists. <br>Featuring bold, gestural compositions that explore memory, emotion and place, the exhibition immerses visitors in Hodgkin’s unique visual world. The selected prints reveal the important role printmaking played throughout his practice and demonstrate his extraordinary ability to transform fleeting experiences into powerful images. <br>Howard Hodgkin: In a Public Garden, a Pitzhanger Manor &amp; Gallery Touring Exhibition.  <br>Image credit: Howard Hodgkin, Palm and Window 1990-1991 (detail) – © 2026 The Estate of Howard Hodgkin. All rights reserved, DACS</p>",
@@ -1692,7 +1542,7 @@
     "url": "https://theamelia.co.uk/event/take-a-closer-look-howard-hodgkin-5/",
     "start_date": "2027-01-28 12:30:00",
     "end_date": "2027-01-28 13:00:00",
-    "category": 19
+    "category": 17
   },
   {
     "id": 20070999,
@@ -1800,6 +1650,21 @@
     "category": 5
   },
   {
+    "id": 2326989664,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-04/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-04/",
+    "start_date": "2027-02-04 10:30:00",
+    "end_date": "2027-02-04 12:30:00",
+    "category": 11
+  },
+  {
     "id": 260428512,
     "title": "Create & Connect",
     "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
@@ -1905,6 +1770,21 @@
     "category": 5
   },
   {
+    "id": 511251143,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-11/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-11/",
+    "start_date": "2027-02-11 10:30:00",
+    "end_date": "2027-02-11 12:30:00",
+    "category": 11
+  },
+  {
     "id": 3564170096,
     "title": "Create & Connect",
     "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
@@ -1920,6 +1800,21 @@
     "category": 11
   },
   {
+    "id": 4081843129,
+    "title": "Little Miss Marple Storytelling Session for Children",
+    "description": "<p>Can you solve the mystery? <br>Drop in to the vicarage with our storyteller as she reads you a very cosy book about St Mary Mead’s brilliant detective, Little Miss Marple! <br>All mini sleuths are cordially invited to join in solving, singing, storytelling, and drawing along – with classic characters from the much-loved Mr. Men and Little Miss universe. <br>Our storyteller will then facilitate a gentle craft workshop where attendees can create their own Little Miss Marple or Mr. Poirot figures and simple backdrops inspired by illustrations from the Mr. Men Little Miss Agatha Christie Mysteries books! <br>About our Storyteller<br>Vanessa tells stories that are playful and inclusive, often using props and music. She has collaborated with many of the UKs biggest museums, festivals and galleries. She’s hosted an afternoon of family stories for Guy Garvey for the Southbank’s Meltdown Festival, told spooky tales for Shakespeare’s Globe and a season of stories on board the London Eye. She loves solving mysteries! <br>About Mr. Men Little Miss<br>With a cast of over 90 classic characters, the Mr. Men Little Miss collections have brought fun and laughter to generations of families for over 50 years and have sold over 250 million books. Created by the late Roger Hargreaves in 1971 starting with Mr. Tickle, his son Adam Hargreaves continued writing and drawing new books and characters. Mr. Men Little Miss is one of the best selling pre-school brands in the United Kingdom, and counts over 400 titles published in 17 languages worldwide. <br>Agatha Christie Biography<br>Born in Torquay, England, in 1890, Agatha Christie is the best-selling novelist of all time. With over one billion books sold in English and another billion in over 100 languages, she is outsold only by the Bible and Shakespeare. She wrote 80 crime novels and collections of short stories, over 25 plays (including The Mousetrap, the world’s longest-running play), and six novels under the pseudonym Mary Westmacott. Her first novel, The Mysterious Affair at Styles, introduced the world to the Belgian detective Hercule Poirot, followed a decade later by the shrewd and often-underestimated Miss Marple. Agatha Christie was made a Dame (DBE) in 1971 and died peacefully in 1976 at the age of 85. <br>Copyright © 2025 THOIP (a SANRIO company) and Agatha Christie Limited. All rights reserved.</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/11/Social-Post-SQUARE-1080-x-1080-px-31.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/little-miss-marple-storytelling-session-for-children/",
+    "url": "https://theamelia.co.uk/event/little-miss-marple-storytelling-session-for-children/",
+    "start_date": "2027-02-13 11:00:00",
+    "end_date": "2027-02-13 12:00:00",
+    "category": 5
+  },
+  {
     "id": 3652496401,
     "title": "Take a Closer Look: Howard Hodgkin",
     "description": "<p>Join a Curator from The Amelia for a short guided tour of the current temporary exhibition Howard Hodgkin: In a Public Garden. Whether you already know the works of Howard Hodgkin, or are curious to learn more, join us to take a closer look. <br>This autumn, The Amelia Scott presents Howard Hodgkin: In a Public Garden, a critically acclaimed exhibition bringing together more than 30 prints spanning five decades of the artist’s career, from 1966 to 2016. <br>Originally developed by Pitzhanger Manor &amp; Gallery, this landmark exhibition showcases the work of Howard Hodgkin, whose vivid use of colour, expressive brushwork and deeply personal approach to abstraction made him one of Britain’s most distinctive post-war artists. <br>Featuring bold, gestural compositions that explore memory, emotion and place, the exhibition immerses visitors in Hodgkin’s unique visual world. The selected prints reveal the important role printmaking played throughout his practice and demonstrate his extraordinary ability to transform fleeting experiences into powerful images. <br>Howard Hodgkin: In a Public Garden, a Pitzhanger Manor &amp; Gallery Touring Exhibition.  <br>Image credit: Howard Hodgkin, Palm and Window 1990-1991 (detail) – © 2026 The Estate of Howard Hodgkin. All rights reserved, DACS</p>",
@@ -1932,7 +1827,7 @@
     "url": "https://theamelia.co.uk/event/take-a-closer-look-howard-hodgkin-6/",
     "start_date": "2027-02-15 10:00:00",
     "end_date": "2027-02-15 10:30:00",
-    "category": 19
+    "category": 17
   },
   {
     "id": 1712910212,
@@ -2008,6 +1903,21 @@
     "start_date": "2027-02-18 10:00:00",
     "end_date": "2027-02-18 12:00:00",
     "category": 5
+  },
+  {
+    "id": 1155469239,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-18/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-18/",
+    "start_date": "2027-02-18 10:30:00",
+    "end_date": "2027-02-18 12:30:00",
+    "category": 11
   },
   {
     "id": 3968496504,
@@ -2100,6 +2010,21 @@
     "category": 5
   },
   {
+    "id": 2975321687,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-25/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-02-25/",
+    "start_date": "2027-02-25 10:30:00",
+    "end_date": "2027-02-25 12:30:00",
+    "category": 11
+  },
+  {
     "id": 3880126963,
     "title": "Sensing Culture: Group for blind & partially sighted adults",
     "description": "<p>Blind and partially sighted adults are invited to explore The Amelia’s collections through touch, sound and imagination. <br>Run in collaboration Kent Association for the Blind, Sensing Culture workshops offer a relaxed, creative environment where you can experience objects up close, discover new stories and enjoy making art together. <br>Sessions take place monthly, on the last Friday of each month, from 10:30am to 12:30pm, in the Artist Residency Studio at The Amelia Scott. <br>What to expect <br>• Object Handling: Explore authentic museum objects through guided touch with support from our trained staff. <br>• Tactile Tours: Take part in sensory-led journeys through our galleries and private tours of temporary exhibitions. <br>• Creative Making: Try out different materials and create your own artwork inspired by the collection. <br>No previous art experience needed. <br>If you’d like to join or want to know more, please contact Wendy Daws: <br>– wendy.daws@kab.org.uk <br>– 01622 691357 (Kent Association for the Blind) <br>Wendy will be happy to answer any questions you may have.</p>",
@@ -2142,7 +2067,7 @@
     "url": "https://theamelia.co.uk/event/yarnival-2027-saturday/",
     "start_date": "2027-02-27 09:00:00",
     "end_date": "2027-02-27 16:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1990726687,
@@ -2157,7 +2082,7 @@
     "url": "https://theamelia.co.uk/event/yarnival-2027-sunday/",
     "start_date": "2027-02-28 10:00:00",
     "end_date": "2027-02-28 16:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1515020412,
@@ -2233,6 +2158,21 @@
     "start_date": "2027-03-04 10:00:00",
     "end_date": "2027-03-04 12:00:00",
     "category": 5
+  },
+  {
+    "id": 1316451232,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-04/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-04/",
+    "start_date": "2027-03-04 10:30:00",
+    "end_date": "2027-03-04 12:30:00",
+    "category": 11
   },
   {
     "id": 3831963017,
@@ -2340,6 +2280,21 @@
     "category": 5
   },
   {
+    "id": 3479940641,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-11/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-11/",
+    "start_date": "2027-03-11 10:30:00",
+    "end_date": "2027-03-11 12:30:00",
+    "category": 11
+  },
+  {
     "id": 1037298861,
     "title": "Create & Connect",
     "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
@@ -2413,6 +2368,21 @@
     "start_date": "2027-03-18 10:00:00",
     "end_date": "2027-03-18 12:00:00",
     "category": 5
+  },
+  {
+    "id": 608173012,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-18/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-18/",
+    "start_date": "2027-03-18 10:30:00",
+    "end_date": "2027-03-18 12:30:00",
+    "category": 11
   },
   {
     "id": 4184130268,
@@ -2505,6 +2475,21 @@
     "category": 5
   },
   {
+    "id": 4082331948,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-25/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-03-25/",
+    "start_date": "2027-03-25 10:30:00",
+    "end_date": "2027-03-25 12:30:00",
+    "category": 11
+  },
+  {
     "id": 3957383114,
     "title": "Sensing Culture: Group for blind & partially sighted adults",
     "description": "<p>Blind and partially sighted adults are invited to explore The Amelia’s collections through touch, sound and imagination. <br>Run in collaboration Kent Association for the Blind, Sensing Culture workshops offer a relaxed, creative environment where you can experience objects up close, discover new stories and enjoy making art together. <br>Sessions take place monthly, on the last Friday of each month, from 10:30am to 12:30pm, in the Artist Residency Studio at The Amelia Scott. <br>What to expect <br>• Object Handling: Explore authentic museum objects through guided touch with support from our trained staff. <br>• Tactile Tours: Take part in sensory-led journeys through our galleries and private tours of temporary exhibitions. <br>• Creative Making: Try out different materials and create your own artwork inspired by the collection. <br>No previous art experience needed. <br>If you’d like to join or want to know more, please contact Wendy Daws: <br>– wendy.daws@kab.org.uk <br>– 01622 691357 (Kent Association for the Blind) <br>Wendy will be happy to answer any questions you may have.</p>",
@@ -2593,6 +2578,21 @@
     "start_date": "2027-04-01 10:00:00",
     "end_date": "2027-04-01 12:00:00",
     "category": 5
+  },
+  {
+    "id": 3984615268,
+    "title": "Out of this World - Creative Writing Course",
+    "description": "<p>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>Love Fantasy? Obsessed with sci-fi? <br>Learn to write your own! <br>Join our FREE 12 week introductory creative writing course designed for people who are lonely or isolated. <br>Create characters, build worlds, tell epic stories and find new connections with others. <br>We will guide you on your quest to create your own gripping science fiction and fantasy. <br>You do not need any writing experience to join. <br>Starts Thursday 14th January 2027 every Thursday for 12 weeks at Sherwood Library from 10:30-12:30. <br>If you feel lonely or isolated this group is a great way to make new connections and learn something new!<br>No experience needed, just enthusiasm! <br>*****This course takes place at Sherwood Library – TN2 Community Centre, Greggs Wood Rd, Tunbridge Wells TN2 3LZ ***** <br>For more information and to sign up email: <br>CreativeHealth@tunbridgewells.gov.uk</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "Sherwood Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/10/ootw.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-04-01/",
+    "url": "https://theamelia.co.uk/event/out-of-this-world-creative-writing-course/2027-04-01/",
+    "start_date": "2027-04-01 10:30:00",
+    "end_date": "2027-04-01 12:30:00",
+    "category": 11
   },
   {
     "id": 3328439303,
@@ -3042,6 +3042,96 @@
     "url": "https://theamelia.co.uk/event/story-time/2027-05-10/",
     "start_date": "2027-05-10 11:00:00",
     "end_date": "2027-05-10 12:00:00",
+    "category": 5
+  },
+  {
+    "id": 4007640875,
+    "title": "Rhyme Time",
+    "description": "<p>Come and join our fun and noisy singing session for children under 4 and their parents and carers. <br>A free, fun and noisy way for under 4s to develop a love of language and a foundation for learning. Each session lasts about 20 – 30 minutes and includes the opportunity to join in with nursery rhymes and action songs. <br>Research shows that these activities can help develop literacy and communication skills in babies and children. <br>These sessions will take place in the Children’s library (under the beautiful night sky) on Tuesdays at 10:00 and 11:00, and Thursdays at 10:00. <br>No need to book, just drop in!</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott – Children’s Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/ChildrensLibrary-1-v2.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2027-05-11/",
+    "url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2027-05-11/",
+    "start_date": "2027-05-11 10:00:00",
+    "end_date": "2027-05-11 12:00:00",
+    "category": 5
+  },
+  {
+    "id": 499488393,
+    "title": "Home Education at The Amelia - Primary",
+    "description": "<p>Join us at The Amelia for our monthly learning sessions open to home educated children across the borough. <br>Our learning sessions are linked to The Amelia’s collections, are based on enquiry-led learning and are rooted in the National Curriculum. Sessions provide unique opportunities for object-handling and inspiring activities to guide children and their families as they explore our galleries. <br>Duration: Standard sessions last 60 mins <br>We aim to provide a fully inclusive service for all our young visitors. Please let us know if there are any SPLD/ or accessibility needs we should be aware of so that we can help support all participants to engage with the session. <br>Please note, children must be accompanied by their parent/carers and remain their responsibility at all times. <br>Monthly themes: <br>8 September – Archaeology Adventure<br>Join us for a special exhibition-linked session. The group will start with an introduction to archaeology in the Learning Room, with the chance to explore artefacts and objects hands-on. The session will conclude in Archaeology Adventure, our current temporary exhibition. <br>13 October – The Story of the Wells – Local History<br>In this session, the group will discover how and why our town came into existence. Using artefacts to piece together its story from forest, to popular health resort, to holiday destination for a princess, the group will also find out why children from the East End of London would spend their summer holidays here 100 years ago! <br>10 November – Dinosaurs and Fossils<br>In this session, the group are cast as palaeontologists and explore clues about what the world was like millions of years ago. They have the chance to handle a range of fossils from The Amelia’s Collection to investigate how they were made and what they tell us about the past. <br>8 December – Generations of Joy<br>This session will take place off-site and provide an enriching opportunity for inter-generational engagement, with children and care-home residents taking part in Christmas-themed activities together. </p><p>Contact us to find out more before booking</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/06/Millies-Journey.png",
+    "tickets_url": "https://theamelia.co.uk/event/home-education-at-the-amelia-primary/2027-05-11/",
+    "url": "https://theamelia.co.uk/event/home-education-at-the-amelia-primary/2027-05-11/",
+    "start_date": "2027-05-11 10:00:00",
+    "end_date": "2027-05-11 14:00:00",
+    "category": 4
+  },
+  {
+    "id": 832414130,
+    "title": "Come as you are  – a group for people affected by bereavement",
+    "description": "<p>Are you affected by bereavement? <br>Would you like to find: </p><p>Creativity<br>Community<br>Connection</p><p>This programme will offer a range of creative activities to support wellbeing and connection. This might involve art, music, storytelling, playing games – the participants will choose the activities themselves, with no pressure to create and no experience needed. <br>We will offer a warm, welcoming space with free tea and biscuits and the freedom for people to ‘come as you are’. </p><p>Contact us for more information or to book your place</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott – Residency Studio",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/06/Activities_creativity_-04-2-1.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/come-as-you-are-a-group-for-people-affected-by-bereavement/2027-05-11/",
+    "url": "https://theamelia.co.uk/event/come-as-you-are-a-group-for-people-affected-by-bereavement/2027-05-11/",
+    "start_date": "2027-05-11 12:30:00",
+    "end_date": "2027-05-11 14:30:00",
+    "category": 11
+  },
+  {
+    "id": 355153903,
+    "title": "Rhyme Time",
+    "description": "<p>Come and join our fun and noisy singing session for children under 4 and their parents and carers. <br>A free, fun and noisy way for under 4s to develop a love of language and a foundation for learning. Each session lasts about 20 – 30 minutes and includes the opportunity to join in with nursery rhymes and action songs. <br>Research shows that these activities can help develop literacy and communication skills in babies and children. <br>These sessions will take place in the Children’s library (under the beautiful night sky) on Tuesdays at 10:00 and 11:00, and Thursdays at 10:00. <br>No need to book, just drop in!</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott – Children’s Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/ChildrensLibrary-1-v2.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2027-05-13/",
+    "url": "https://theamelia.co.uk/event/rhyme-time-tuesday-thursday-am/2027-05-13/",
+    "start_date": "2027-05-13 10:00:00",
+    "end_date": "2027-05-13 12:00:00",
+    "category": 5
+  },
+  {
+    "id": 1088366974,
+    "title": "Create & Connect",
+    "description": "<p>Are you looking to improve your mental health? <br>Would you like to find –<br>Creativity? Community? Connection? <br>Come along to our free, weekly, welcoming and supportive group, where you can use creativity to improve your mental health, emotional wellbeing, and find connection with others. <br>We have two sessions every Friday: <br>10.30am – 12.30pm <br>1.30pm – 3.30pm <br>Together we will explore ways to express ourselves, reduce stress and build confidence. <br>You will get the chance to experiment with different creative mediums, such as watercolour, photography, and collage, to make space for reflection, self-expression, mindfulness, and connection. <br>The group is designed to encourage positive mental health in a relaxed, non-judgemental environment. Together, we will create art, build connections, and discover how creativity can be a powerful tool for supporting your mental health. <br>No previous experience is needed – just bring an open mind and a willingness to explore. <br>Spaces are limited, please contact us to enquire. </p><p>Contact us for more information or to book your place</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott – Residency Studio",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/07/Image-9.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/create-connect-2/2027-05-14/",
+    "url": "https://theamelia.co.uk/event/create-connect-2/2027-05-14/",
+    "start_date": "2027-05-14 10:30:00",
+    "end_date": "2027-05-14 15:30:00",
+    "category": 11
+  },
+  {
+    "id": 2691032929,
+    "title": "Story Time",
+    "description": "<p>Listening to stories is a great way to develop and encourage young children to read books. Come and join one of our Story Time sessions for 3 to 4 year olds – it’s great fun! </p><p>You can find Kent Libraries online Story time playlist on our You Tube channel. <br>Research shows that babies and children introduced early to stories and books do better in school in later years. So if you have no time to read tonight, download a free audio story from Storynory or Kent Libraries growing audiobooks collection. <br>Story Time will be taking place in the Children’s Library (under the beautiful night sky) on Monday Mornings at 11:00 from the 9th May. <br>No need to book, just drop in.</p>",
+    "address": "The Amelia Scott, Civic Way, Tunbridge Wells, TN1 1LS",
+    "longitude": 0.263829,
+    "latitude": 51.133213,
+    "venue_name": "The Amelia Scott – Children’s Library",
+    "image_url": "https://theamelia.co.uk/wp-content/uploads/2026/03/Story-Time.jpg",
+    "tickets_url": "https://theamelia.co.uk/event/story-time/2027-05-17/",
+    "url": "https://theamelia.co.uk/event/story-time/2027-05-17/",
+    "start_date": "2027-05-17 11:00:00",
+    "end_date": "2027-05-17 12:00:00",
     "category": 5
   }
 ]
