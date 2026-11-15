@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-11-15T23:02:19.360Z",
+    "hub": "Royal Tunbridge Wells",
+    "venues": [
+      {
+        "venue": "Aura Night Club",
+        "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/",
+        "filename": "royal-tunbridge-wells-skiddle-com.json",
+        "events": 38,
+        "status": "healthy"
+      },
+      {
+        "venue": "Spa Valley Railway",
+        "url": "https://spavalleyrailway.co.uk/wp-json/spavalley-api/v1/events",
+        "filename": "royal-tunbridge-wells-spavalleyrailway-co-uk.json",
+        "events": 328,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Forum",
+        "url": "https://www.twforum.co.uk/listings",
+        "filename": "royal-tunbridge-wells-twforum-co-uk.json",
+        "events": 90,
+        "status": "healthy"
+      },
+      {
+        "venue": "King Charles the Martyr",
+        "url": "https://www.kcmtw.org/events-calander/",
+        "filename": "royal-tunbridge-wells-kcmtw-org.json",
+        "events": 4,
+        "status": "healthy"
+      },
+      {
+        "venue": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "url": "https://www.70-72thepantiles.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-70-72thepantiles-co-uk.json",
+        "events": 31,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Pantiles",
+        "url": "https://thepantiles.com/events/",
+        "filename": "royal-tunbridge-wells-thepantiles-com.json",
+        "events": 31,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Royal Wells Hotel",
+        "url": "https://royalwells.co.uk/upcoming-events/",
+        "filename": "royal-tunbridge-wells-royalwells-co-uk.json",
+        "events": 4,
+        "status": "healthy"
+      },
+      {
+        "venue": "Hotel du Vin Tunbridge Wells",
+        "url": "https://fp.sevenrooms.com/events/tunbridgewellshotelduvinbistro",
+        "filename": "royal-tunbridge-wells-hotel-du-vin-tunbridge-wells.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "The Amelia Scott",
+        "url": "https://theamelia.co.uk/events/",
+        "filename": "royal-tunbridge-wells-theamelia-co-uk.json",
+        "events": 209,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 736,
+    "errors": [],
+    "duration_seconds": 136
+  },
+  {
     "timestamp": "2026-11-15T23:00:36.122Z",
     "hub": "Inverness",
     "venues": [
@@ -1254,21 +1326,5 @@
     "total_events": 16,
     "errors": [],
     "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-15T09:49:20.529Z",
-    "hub": "Jewellery Quarter",
-    "venues": [
-      {
-        "venue": "The Jam House",
-        "url": "https://thejamhouse.com/birmingham/whats-on/",
-        "filename": "jewellery-quarter-thejamhouse-com.json",
-        "events": 55,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 55,
-    "errors": [],
-    "duration_seconds": 11
   }
 ]
