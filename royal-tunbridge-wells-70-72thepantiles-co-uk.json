@@ -1,50 +1,5 @@
 [
   {
-    "id": 3223096861,
-    "title": "DROVER: Blue & Gold EP Launch",
-    "description": "<p>Join Tunbridge Wells folk duo D R O V E R for an intimate acoustic launch of their debut EP, Blue &amp; Gold. Made up of theatre composer Stephen Hyde and Irish actor-musician Peter Long, D R O V E R draw on their Cumbrian and Corkonian roots to create evocative music shaped by close-harmony singing and poignant storytelling. Expect original folk songs, rearranged trad tunes, and the odd dark murder ballad, across two cosy, completely acoustic sets.</p><p>Doors 7pm, music from 7:30pm. Food and drink are served upstairs throughout the evening.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/10/10093112/drover-blue-and-gold-2026-11-10-724x1024.jpg",
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/drover-blue-gold-ep-launch/",
-    "url": "https://www.70-72thepantiles.co.uk/event/drover-blue-gold-ep-launch/",
-    "start_date": "2026-11-10 19:30:00",
-    "end_date": "2026-11-10 22:00:00",
-    "category": 12
-  },
-  {
-    "id": 3306811711,
-    "title": "The Grey Lady Sessions: Paul Dunton Orchestra + Primrose",
-    "description": "<p>The Grey Lady Sessions returns with the Paul Dunton Orchestra, plus support from Primrose. Doors open 7.15pm. Advance tickets only £12.50, with none available on the door.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/09/23013400/grey-lady-sessions-paul-dunton-orchestra-primrose-12-nov-2026-730x1024.jpg",
-    "tickets_url": "https://www.eventbrite.co.uk/e/the-grey-lady-sessions-paul-dunton-orchestra-primrose-tickets-2000034163021?aff=oddtdtcreator&amp;keep_tld=true",
-    "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-paul-dunton-orchestra-primrose/",
-    "start_date": "2026-11-12 19:15:00",
-    "end_date": "2026-11-12 23:30:00",
-    "category": 12
-  },
-  {
-    "id": 3797705811,
-    "title": "The Dujons",
-    "description": "<p>Where jazz meets pop and the blues. The two Johns in The Dujons originally sang together as choristers at Westminster Cathedral. Now John Harriman is well known as a super-talented keyboard player, while vocalist John Murray&#8217;s interpretation of songs brings out the richness of music from jazz classics to pop and the blues. Join them and a very talented band for what is sure to be a fun-filled evening.</p>",
-    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
-    "longitude": 0.256977,
-    "latitude": 51.125551,
-    "venue_name": "The Grey Lady",
-    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/08/14151036/dujons-poster-1024x576.jpg",
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-dujons/",
-    "url": "https://www.70-72thepantiles.co.uk/event/the-dujons/",
-    "start_date": "2026-11-13 19:00:00",
-    "end_date": "2026-11-13 23:00:00",
-    "category": 12
-  },
-  {
     "id": 3626431281,
     "title": "Fiesta Latina: Shine & Sparkle",
     "description": "<p>Fiesta Latina returns to The Grey Lady with <strong>Shine &amp; Sparkle</strong>: YANIFIT and DJ Javi &#8220;La Máquina de Cuba&#8221; with salsa, merengue, cumbia, samba, reggaeton and more. A touch of sparkle is always fun, or just come ready to dance. Good music, Latin beats, a proper party.</p><p><strong>Tickets</strong></p><ul><li><strong>Full Experience — £35, 6.30pm:</strong> tapas, YANI FIT dance session and party with DJ Javi until late</li><li><strong>Dance &amp; Party — £25, 8.30pm:</strong> YANI FIT dance session and party with DJ Javi until late</li><li><strong>Party Only — £12, 9.30pm</strong></li></ul><p><strong>Dress code:</strong> silver, sparkle, glitter.</p><p>Presented by YANIFIT. Tickets and info: <a href=\"https://bookwhen.com/yanifit\">bookwhen.com/yanifit</a> or call 07598816203.</p>",
@@ -72,7 +27,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-crying-birds-jez-harley/",
     "start_date": "2026-11-22 19:15:00",
     "end_date": "2026-11-22 23:30:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3530448013,
@@ -87,7 +42,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-isabella-coulstock-caitlin-brace/",
     "start_date": "2026-11-26 19:15:00",
     "end_date": "2026-11-26 23:30:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2680925094,
@@ -132,7 +87,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-2/",
     "start_date": "2026-12-13 14:00:00",
     "end_date": "2026-12-13 17:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1107195689,
@@ -147,7 +102,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-3/",
     "start_date": "2026-12-13 19:00:00",
     "end_date": "2026-12-13 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 210088609,
@@ -162,7 +117,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-4/",
     "start_date": "2026-12-20 19:00:00",
     "end_date": "2026-12-20 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 1643358260,
@@ -177,7 +132,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-5/",
     "start_date": "2026-12-26 19:00:00",
     "end_date": "2026-12-26 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3496307178,
@@ -192,7 +147,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-6/",
     "start_date": "2026-12-27 19:00:00",
     "end_date": "2026-12-27 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3958432445,
@@ -207,7 +162,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-7/",
     "start_date": "2026-12-28 19:00:00",
     "end_date": "2026-12-28 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3479525699,
@@ -222,7 +177,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-8/",
     "start_date": "2026-12-29 19:00:00",
     "end_date": "2026-12-29 22:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2333192304,
@@ -237,7 +192,52 @@
     "url": "https://www.70-72thepantiles.co.uk/event/grey-lady-sessions-9/",
     "start_date": "2026-12-30 19:00:00",
     "end_date": "2026-12-30 22:00:00",
-    "category": 29
+    "category": 25
+  },
+  {
+    "id": 197564540,
+    "title": "New Year’s Eve 2026 at The Grey Lady & La Casa Vecchia",
+    "description": "<p></p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2025/11/11184809/1762886685742-9b3e0714-0f2e-4f28-b9af-2e5d1cd8d3f5_1.jpg",
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/new-years-eve-details-tbc/",
+    "url": "https://www.70-72thepantiles.co.uk/event/new-years-eve-details-tbc/",
+    "start_date": "2026-12-31 19:00:00",
+    "end_date": "2027-01-01 02:00:00",
+    "category": 25
+  },
+  {
+    "id": 3527860214,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-01-08/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-01-08/",
+    "start_date": "2027-01-08 19:00:00",
+    "end_date": "2027-01-08 23:30:00",
+    "category": 25
+  },
+  {
+    "id": 929205881,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-01-15/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-01-15/",
+    "start_date": "2027-01-15 19:00:00",
+    "end_date": "2027-01-15 23:30:00",
+    "category": 25
   },
   {
     "id": 22924229,
@@ -252,7 +252,37 @@
     "url": "https://www.70-72thepantiles.co.uk/event/psychic-mediumship-evening-with-andy-gemini-2/",
     "start_date": "2027-01-28 19:00:00",
     "end_date": "2027-01-28 22:30:00",
-    "category": 26
+    "category": 23
+  },
+  {
+    "id": 3438767715,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-10/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-10/",
+    "start_date": "2027-01-29 19:00:00",
+    "end_date": "2027-01-29 23:30:00",
+    "category": 25
+  },
+  {
+    "id": 1162828964,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-11/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-11/",
+    "start_date": "2027-01-30 19:00:00",
+    "end_date": "2027-01-30 23:30:00",
+    "category": 25
   },
   {
     "id": 2313137386,
@@ -283,6 +313,66 @@
     "start_date": "2027-03-02 19:00:00",
     "end_date": "2027-03-02 22:00:00",
     "category": 12
+  },
+  {
+    "id": 2737803464,
+    "title": "LOST in House Music",
+    "description": "<p class=\"wp-block-paragraph\">House | Funk | Disco</p><p class=\"wp-block-paragraph\">An evening of house, funk and disco at The Grey Lady Bar &amp; Lounge, The Pantiles, Tunbridge Wells.</p><p class=\"wp-block-paragraph\">Line-up:<br>\n• Luan Gjaci (hosting)<br>\n• Stevie A<br>\n• The Krays (duo DJ set)<br>\n• Chris Biscuit<br>\n• Luke Turner</p><p class=\"wp-block-paragraph\">Entry £12.99. 8pm – 1am.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": "https://media.70-72thepantiles.co.uk/wp-content/uploads/2026/11/11085646/lost-in-house-music-6-mar-2027-819x1024.jpg",
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/lost-in-house-music/",
+    "url": "https://www.70-72thepantiles.co.uk/event/lost-in-house-music/",
+    "start_date": "2027-03-06 20:00:00",
+    "end_date": "2027-03-07 01:00:00",
+    "category": 12
+  },
+  {
+    "id": 3160175633,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-12/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-12/",
+    "start_date": "2027-03-12 19:00:00",
+    "end_date": "2027-03-12 23:30:00",
+    "category": 25
+  },
+  {
+    "id": 2848295357,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-13/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-13/",
+    "start_date": "2027-03-19 19:00:00",
+    "end_date": "2027-03-19 23:30:00",
+    "category": 25
+  },
+  {
+    "id": 867442880,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-14/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-14/",
+    "start_date": "2027-04-04 19:00:00",
+    "end_date": "2027-04-04 23:30:00",
+    "category": 25
   },
   {
     "id": 1394742864,
@@ -330,6 +420,21 @@
     "category": 12
   },
   {
+    "id": 2342796729,
+    "title": "The Grey Lady Sessions: Lineup TBC",
+    "description": "<p class=\"wp-block-paragraph\">Line-up to be confirmed.</p>",
+    "address": "The Grey Lady, 70-72 The Pantiles, Royal Tunbridge Wells, TN2 5TW",
+    "longitude": 0.256977,
+    "latitude": 51.125551,
+    "venue_name": "The Grey Lady",
+    "image_url": null,
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-15/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-15/",
+    "start_date": "2027-08-22 19:00:00",
+    "end_date": "2027-08-22 23:30:00",
+    "category": 25
+  },
+  {
     "id": 526837501,
     "title": "The Grey Lady Sessions: Lineup TBC",
     "description": "<p></p>",
@@ -342,7 +447,7 @@
     "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-6/",
     "start_date": "2027-10-08 19:00:00",
     "end_date": "2027-10-08 23:30:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 4001437858,
@@ -353,10 +458,10 @@
     "latitude": 51.125551,
     "venue_name": "The Grey Lady",
     "image_url": null,
-    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-5/",
-    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-lineup-tbc-5/",
+    "tickets_url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-10-15/",
+    "url": "https://www.70-72thepantiles.co.uk/event/the-grey-lady-sessions-2027-10-15/",
     "start_date": "2027-10-15 19:00:00",
     "end_date": "2027-10-15 23:30:00",
-    "category": 29
+    "category": 25
   }
 ]
