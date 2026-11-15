@@ -1,5 +1,49 @@
 [
   {
+    "timestamp": "2026-11-15T23:21:37.168Z",
+    "hub": "Colmore",
+    "venues": [
+      {
+        "venue": "Hotel du Vin Birmingham",
+        "url": "https://fp.sevenrooms.com/events/birminghamhotelduvinbistro",
+        "filename": "colmore-hotel-du-vin-birmingham.json",
+        "events": 16,
+        "status": "healthy"
+      },
+      {
+        "venue": "St Philip's Cathedral",
+        "url": "https://birminghamcathedral.com/whats-on/",
+        "filename": "colmore-st-philip-s-cathedral.json",
+        "events": 93,
+        "status": "healthy"
+      },
+      {
+        "venue": "Loki Great Western Arcade",
+        "url": "https://www.lokiwine.co.uk/birmingham/",
+        "filename": "colmore-loki-great-western-arcade.json",
+        "events": 37,
+        "status": "healthy"
+      },
+      {
+        "venue": "F1 Arcade Birmingham",
+        "url": "https://birmingham.events.f1arcade.com/",
+        "filename": "colmore-f1-arcade-birmingham.json",
+        "events": 5,
+        "status": "healthy"
+      },
+      {
+        "venue": "Birmingham Town Hall",
+        "url": "https://bmusic.co.uk/whats-on",
+        "filename": "colmore-birmingham-town-hall.json",
+        "events": 106,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 257,
+    "errors": [],
+    "duration_seconds": 1294
+  },
+  {
     "timestamp": "2026-11-15T23:19:50.847Z",
     "hub": "Stirling",
     "venues": [
@@ -1364,21 +1408,5 @@
     "total_events": 1,
     "errors": [],
     "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-16T16:02:55.611Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "Upstairs",
-        "url": "https://www.upstairsinverness.com/upstairs-whats-on",
-        "filename": "inverness-upstairsinverness-com.json",
-        "events": 18,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 18,
-    "errors": [],
-    "duration_seconds": 3
   }
 ]
