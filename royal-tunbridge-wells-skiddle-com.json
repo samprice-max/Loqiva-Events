@@ -1,18 +1,18 @@
 [
   {
-    "id": 4257017203,
-    "title": "Aura Saturdays!",
-    "description": "<p>Saturdays at aura for everything clubland. Resident DJ's take you though the night with all things electronic and more...</p>",
+    "id": 665876384,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
     "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
     "longitude": 0.2616181,
     "latitude": 51.1283149,
     "venue_name": "Aura Night Club",
-    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/1/6/5/2303572_64756844_Aura-Saturdays-.jpg",
-    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588839/",
-    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588839/",
-    "start_date": "2026-11-14 23:00:00",
-    "end_date": "2026-11-15 04:00:00",
-    "category": 11
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/2/a/5/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588581/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588581/",
+    "start_date": "2026-11-20 23:00:00",
+    "end_date": "2026-11-21 04:00:00",
+    "category": 16
   },
   {
     "id": 2454071396,
@@ -27,7 +27,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588840/",
     "start_date": "2026-11-21 23:00:00",
     "end_date": "2026-11-22 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1259749429,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/a/4/7/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588582/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588582/",
+    "start_date": "2026-11-27 23:00:00",
+    "end_date": "2026-11-28 04:00:00",
+    "category": 16
   },
   {
     "id": 3315997619,
@@ -42,7 +57,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588841/",
     "start_date": "2026-11-28 23:00:00",
     "end_date": "2026-11-29 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 4090827288,
@@ -57,7 +72,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659477/",
     "start_date": "2026-12-04 20:00:00",
     "end_date": "2026-12-05 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 2381400441,
@@ -72,7 +87,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588842/",
     "start_date": "2026-12-05 23:00:00",
     "end_date": "2026-12-06 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 590101224,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/f/e/0/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588584/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588584/",
+    "start_date": "2026-12-11 23:00:00",
+    "end_date": "2026-12-12 04:00:00",
+    "category": 16
   },
   {
     "id": 296243012,
@@ -87,7 +117,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588843/",
     "start_date": "2026-12-12 23:00:00",
     "end_date": "2026-12-13 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1385686898,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/3/2/8/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588585/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588585/",
+    "start_date": "2026-12-18 23:00:00",
+    "end_date": "2026-12-19 04:00:00",
+    "category": 16
   },
   {
     "id": 3809508252,
@@ -102,7 +147,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588844/",
     "start_date": "2026-12-19 23:00:00",
     "end_date": "2026-12-20 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 322347349,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/4/3/1/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588586/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588586/",
+    "start_date": "2026-12-25 23:00:00",
+    "end_date": "2026-12-26 04:00:00",
+    "category": 16
   },
   {
     "id": 109182201,
@@ -117,7 +177,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588845/",
     "start_date": "2026-12-26 23:00:00",
     "end_date": "2026-12-27 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1053946085,
@@ -132,7 +192,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Aura-Nightclub-Tunbridge-Wells/NYE-2026-The-Black-Edition--Aura-Tunbridge-Wells/43164922/",
     "start_date": "2026-12-31 21:00:00",
     "end_date": "2027-01-01 06:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 3233072254,
@@ -147,7 +207,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659478/",
     "start_date": "2027-01-01 20:00:00",
     "end_date": "2027-01-02 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1855608773,
@@ -162,7 +222,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588846/",
     "start_date": "2027-01-02 23:00:00",
     "end_date": "2027-01-03 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 472981022,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/9/e/8/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588588/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588588/",
+    "start_date": "2027-01-08 23:00:00",
+    "end_date": "2027-01-09 04:00:00",
+    "category": 16
   },
   {
     "id": 2500034748,
@@ -177,7 +252,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588847/",
     "start_date": "2027-01-09 23:00:00",
     "end_date": "2027-01-10 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 693180881,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/3/9/e/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588589/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588589/",
+    "start_date": "2027-01-15 23:00:00",
+    "end_date": "2027-01-16 04:00:00",
+    "category": 16
   },
   {
     "id": 669235849,
@@ -192,7 +282,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588848/",
     "start_date": "2027-01-16 23:00:00",
     "end_date": "2027-01-17 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 2402644535,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/8/0/6/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588590/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588590/",
+    "start_date": "2027-01-22 23:00:00",
+    "end_date": "2027-01-23 04:00:00",
+    "category": 16
   },
   {
     "id": 681815586,
@@ -207,7 +312,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588849/",
     "start_date": "2027-01-23 23:00:00",
     "end_date": "2027-01-24 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 3907184308,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/6/e/d/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588591/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588591/",
+    "start_date": "2027-01-29 23:00:00",
+    "end_date": "2027-01-30 04:00:00",
+    "category": 16
   },
   {
     "id": 4062880093,
@@ -222,7 +342,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588850/",
     "start_date": "2027-01-30 23:00:00",
     "end_date": "2027-01-31 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1483558873,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/e/6/8/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588592/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588592/",
+    "start_date": "2027-02-05 23:00:00",
+    "end_date": "2027-02-06 04:00:00",
+    "category": 16
   },
   {
     "id": 2249596951,
@@ -237,7 +372,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659479/",
     "start_date": "2027-02-05 20:00:00",
     "end_date": "2027-02-06 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 2626617905,
@@ -252,7 +387,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588851/",
     "start_date": "2027-02-06 23:00:00",
     "end_date": "2027-02-07 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1563699657,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/0/7/4/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588593/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588593/",
+    "start_date": "2027-02-12 23:00:00",
+    "end_date": "2027-02-13 04:00:00",
+    "category": 16
   },
   {
     "id": 356673987,
@@ -267,7 +417,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588852/",
     "start_date": "2027-02-13 23:00:00",
     "end_date": "2027-02-14 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 4069578684,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/9/2/0/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588594/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588594/",
+    "start_date": "2027-02-19 23:00:00",
+    "end_date": "2027-02-20 04:00:00",
+    "category": 16
   },
   {
     "id": 3032481191,
@@ -282,7 +447,22 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588853/",
     "start_date": "2027-02-20 23:00:00",
     "end_date": "2027-02-21 04:00:00",
-    "category": 11
+    "category": 16
+  },
+  {
+    "id": 1526533579,
+    "title": "The Essence Friday's at Aura",
+    "description": "<p>All things Club classics, rnb & Hip hop , dancehall and chart toppers each and every friday. 241 Drinks before 11pm.</p>",
+    "address": "Aura Night Club, 46-50 High Street, Tunbridge Wells, TN1 1XF",
+    "longitude": 0.2616181,
+    "latitude": 51.1283149,
+    "venue_name": "Aura Night Club",
+    "image_url": "https://d31fr2pwly4c4s.cloudfront.net/b/a/7/2303537_8a2c1062_the-essence-friday-s-at-aura.jpg",
+    "tickets_url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588595/",
+    "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/The-Essence-Fridays-at-Aura/42588595/",
+    "start_date": "2027-02-26 23:00:00",
+    "end_date": "2027-02-27 04:00:00",
+    "category": 16
   },
   {
     "id": 324874803,
@@ -297,7 +477,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/Aura-Saturdays/42588854/",
     "start_date": "2027-02-27 23:00:00",
     "end_date": "2027-02-28 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 3067372033,
@@ -312,7 +492,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659480/",
     "start_date": "2027-03-05 20:00:00",
     "end_date": "2027-03-06 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 2021879924,
@@ -327,7 +507,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659481/",
     "start_date": "2027-04-02 20:00:00",
     "end_date": "2027-04-03 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1128177103,
@@ -342,7 +522,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659483/",
     "start_date": "2027-06-04 20:00:00",
     "end_date": "2027-06-05 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1253654684,
@@ -357,7 +537,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659484/",
     "start_date": "2027-07-02 20:00:00",
     "end_date": "2027-07-03 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 1212405338,
@@ -372,7 +552,7 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659485/",
     "start_date": "2027-08-06 20:00:00",
     "end_date": "2027-08-07 04:00:00",
-    "category": 11
+    "category": 16
   },
   {
     "id": 3773046116,
@@ -387,6 +567,6 @@
     "url": "https://www.skiddle.com/whats-on/Tunbridge-Wells/Club-Aura-Tunbridge-Wells/BAG---Black-and-Gold/42659486/",
     "start_date": "2027-09-03 20:00:00",
     "end_date": "2027-09-04 04:00:00",
-    "category": 11
+    "category": 16
   }
 ]
