@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-18T16:09:34.111Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "Union Theatre",
+        "url": "https://uniontheatre.biz/whats-on/",
+        "filename": "bankside-union-theatre.json",
+        "events": 39,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 39,
+    "errors": [],
+    "duration_seconds": 7
+  },
+  {
     "timestamp": "2026-11-15T23:21:37.168Z",
     "hub": "Colmore",
     "venues": [
@@ -1390,22 +1406,6 @@
       }
     ],
     "total_events": 20,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-16T16:14:49.442Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "The Tooth & Claw",
-        "url": "https://www.thetoothandclaw.co.uk/events-2",
-        "filename": "inverness-thetoothandclaw-co-uk.json",
-        "events": 1,
-        "status": "low"
-      }
-    ],
-    "total_events": 1,
     "errors": [],
     "duration_seconds": 2
   }
