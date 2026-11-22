@@ -1,20 +1,5 @@
 [
   {
-    "id": 2849330821,
-    "title": "Svavar Knutur & Maia Eden",
-    "description": "<p>A humorous storyteller and avid diver into the murky waters of the human condition, Svavar Knútur sows and reaps a unique mixture of art and entertainment.</p>",
-    "address": "Upstairs, 14 Bridge St, Inverness, IV1 1HD",
-    "longitude": -4.225830765816532,
-    "latitude": 57.47744216502537,
-    "venue_name": "Upstairs",
-    "image_url": "https://static.wixstatic.com/media/9c3627_29baa9e081ae49298569904702ca2641~mv2.png",
-    "tickets_url": "https://www.upstairsinverness.com/event-details-registration/svavar-knutur-maia-eden",
-    "url": "https://www.upstairsinverness.com/event-details-registration/svavar-knutur-maia-eden",
-    "start_date": "2026-11-21 19:00:00",
-    "end_date": "2026-11-21 22:00:00",
-    "category": 12
-  },
-  {
     "id": 1080171482,
     "title": "Haiver at Upstairs Inverness",
     "description": "<p>Glasgow indie band Haiver bring their debut album The Ghost Dance north for a night at Upstairs.</p>",
@@ -23,10 +8,25 @@
     "latitude": 57.47744216502537,
     "venue_name": "Upstairs",
     "image_url": "https://static.wixstatic.com/media/9c3627_390a3807e25d4729bc567eade75c45ba~mv2.png",
-    "tickets_url": "https://www.upstairsinverness.com/event-details-registration/haiver-at-upstairs-inverness",
-    "url": "https://www.upstairsinverness.com/event-details-registration/haiver-at-upstairs-inverness",
+    "tickets_url": "https://www.skiddle.com/whats-on/Inverness/Upstairs-Inverness/Haiver/42829148/",
+    "url": "https://www.skiddle.com/whats-on/Inverness/Upstairs-Inverness/Haiver/42829148/",
     "start_date": "2026-11-24 19:00:00",
     "end_date": "2026-11-24 22:00:00",
+    "category": 12
+  },
+  {
+    "id": 1384819998,
+    "title": "Partybox Presents: Afrobeats",
+    "description": "<p>Partybox Presents: Afrobeats at Upstairs.</p>",
+    "address": "Upstairs, 14 Bridge St, Inverness, IV1 1HD",
+    "longitude": -4.225830765816532,
+    "latitude": 57.47744216502537,
+    "venue_name": "Upstairs",
+    "image_url": "https://static.wixstatic.com/media/9c3627_5e74f4507c6e4ca89b65546fc2c2686f~mv2.webp",
+    "tickets_url": "https://www.instagram.com/p/DfsE3wZRFdE/",
+    "url": "https://www.instagram.com/p/DfsE3wZRFdE/",
+    "start_date": "2026-11-27 23:00:00",
+    "end_date": "2026-11-28 03:00:00",
     "category": 12
   },
   {
@@ -103,6 +103,21 @@
     "start_date": "2026-12-12 19:00:00",
     "end_date": "2026-12-12 22:00:00",
     "category": 12
+  },
+  {
+    "id": 3997746396,
+    "title": "Scott Fraser - Comedy Show",
+    "description": "<p>We are back on Sunday the 27th of December with our comedy night at Upstairs Inverness, with headliner Scott Fraser!<br>Scott Fraser has developed an incredible comedy set, which is versatile and dripping with cleverness. He has a truly unique way of building context and subverting expectations. A ter</p>",
+    "address": "Upstairs, 14 Bridge St, Inverness, IV1 1HD",
+    "longitude": -4.225830765816532,
+    "latitude": 57.47744216502537,
+    "venue_name": "Upstairs",
+    "image_url": "https://static.wixstatic.com/media/9c3627_7061be6ea1b94d21beb8aed99f21a2c2~mv2.png",
+    "tickets_url": "https://highlandcomedy.co.uk/product/scott-fraser-upstairs-inverness/",
+    "url": "https://highlandcomedy.co.uk/product/scott-fraser-upstairs-inverness/",
+    "start_date": "2026-12-27 19:00:00",
+    "end_date": "2026-12-27 22:00:00",
+    "category": 3
   },
   {
     "id": 60424387,
