@@ -1,20 +1,5 @@
 [
   {
-    "id": 1380413146,
-    "title": "ZZTOPPD 2026 Tour",
-    "description": "<p>October 28th 1985. ZZ TOP release their highly acclaimed album ‘Afterburner’. <br>The late, great Dusty Hill took the lead vocals on the track ‘Can’t Stop Rockin’.</p>",
-    "address": "An Seòmar, 11-19 Church St, Inverness, IV1 1DZ",
-    "longitude": -4.225917,
-    "latitude": 57.4777388,
-    "venue_name": "An Seòmar",
-    "image_url": "https://static.wixstatic.com/media/0c6865_1f7b62c5a25f4597a290297d111a9ded~mv2.png",
-    "tickets_url": "https://www.universe.com/events/zztoppd-2026-tour-tickets-3QSR5B",
-    "url": "https://www.universe.com/events/zztoppd-2026-tour-tickets-3QSR5B",
-    "start_date": "2026-11-17 19:00:00",
-    "end_date": "2026-11-17 22:00:00",
-    "category": 12
-  },
-  {
     "id": 887733743,
     "title": "The Complete Stone Roses",
     "description": "<p>Praised by Stone Roses bassist Mani himself for doing the songs \"real justice\", The Complete Stone Roses are the UK's top Stone Roses tribute act.</p>",
@@ -87,6 +72,21 @@
     "url": "https://www.universe.com/events/an-seomar-presents-valtos-sunday-tickets-TW7PY2",
     "start_date": "2026-12-20 18:00:00",
     "end_date": "2026-12-20 22:00:00",
+    "category": 12
+  },
+  {
+    "id": 1588821213,
+    "title": "OASNESS",
+    "description": "<p>OASNESS bring the sound and anthems of Oasis to life with a high-energy tribute to one of Britain's biggest bands.</p>",
+    "address": "An Seòmar, 11-19 Church St, Inverness, IV1 1DZ",
+    "longitude": -4.225917,
+    "latitude": 57.4777388,
+    "venue_name": "An Seòmar",
+    "image_url": "https://static.wixstatic.com/media/9c3627_2de9690784374ab8a6a872a7be0e95f9~mv2.png",
+    "tickets_url": "https://www.universe.com/events/oasness-tickets-T2BKFL",
+    "url": "https://www.universe.com/events/oasness-tickets-T2BKFL",
+    "start_date": "2026-12-27 19:00:00",
+    "end_date": "2026-12-27 22:00:00",
     "category": 12
   },
   {
