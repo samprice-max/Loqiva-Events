@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-11-22T23:00:26.847Z",
+    "hub": "Inverness",
+    "venues": [
+      {
+        "venue": "Johnny Foxes",
+        "url": "https://foxes.johnnyfoxes.co.uk/entertainment-at-foxes/",
+        "filename": "inverness-foxes-johnnyfoxes-co-uk.json",
+        "events": 9,
+        "status": "healthy"
+      },
+      {
+        "venue": "Upstairs",
+        "url": "https://www.upstairsinverness.com/upstairs-whats-on",
+        "filename": "inverness-upstairsinverness-com.json",
+        "events": 11,
+        "status": "healthy"
+      },
+      {
+        "venue": "An Seòmar",
+        "url": "https://www.anseomar.com/what-is-on",
+        "filename": "inverness-anseomar-com.json",
+        "events": 14,
+        "status": "healthy"
+      },
+      {
+        "venue": "Sarens PSG Stadium",
+        "url": "https://ictfc.com/calendar/fixtures/",
+        "filename": "inverness-ictfc-com.json",
+        "events": 10,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Malt Room",
+        "url": "https://www.themaltroom.co.uk/shop",
+        "filename": "inverness-themaltroom-co-uk.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "Hootananny",
+        "url": "https://hootanannyinverness.co.uk/live-music/",
+        "filename": "inverness-hootanannyinverness-co-uk.json",
+        "events": 9,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Imperial",
+        "url": "https://theimperialpub.com/football-2-2",
+        "filename": "inverness-theimperialpub-com.json",
+        "events": 31,
+        "status": "healthy"
+      },
+      {
+        "venue": "The Botanic House",
+        "url": "https://www.thebotanic.co.uk/events",
+        "filename": "inverness-thebotanic-co-uk.json",
+        "events": 1,
+        "status": "low"
+      },
+      {
+        "venue": "MacGregor's",
+        "url": "https://www.macgregorsbars.com/live-music",
+        "filename": "inverness-macgregorsbars-com.json",
+        "events": 146,
+        "status": "healthy"
+      },
+      {
+        "venue": "Cultarlann Inbhir Nis",
+        "url": "https://cultarlann.scot/whats-on/",
+        "filename": "inverness-cultarlann-scot.json",
+        "events": 11,
+        "status": "healthy"
+      },
+      {
+        "venue": "Inverness Castle",
+        "url": "https://invernesscastle.scot/whats-on",
+        "filename": "inverness-invernesscastle-scot.json",
+        "events": 41,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 284,
+    "errors": [],
+    "duration_seconds": 24
+  },
+  {
     "timestamp": "2026-11-18T16:09:34.111Z",
     "hub": "Bankside",
     "venues": [
@@ -1379,22 +1465,6 @@
   },
   {
     "timestamp": "2026-10-16T16:20:28.282Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "An Seòmar",
-        "url": "https://www.anseomar.com/what-is-on",
-        "filename": "inverness-anseomar-com.json",
-        "events": 20,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 20,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-16T16:17:58.792Z",
     "hub": "Inverness",
     "venues": [
       {
