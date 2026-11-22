@@ -2,7 +2,7 @@
   {
     "id": 2417702139,
     "title": "Alan Carr - Work In Progress",
-    "description": "<p>Alan Carr's Work in Progress event is now SOLD OUT.</p><p>If you would like to be added to a waiting list for returns please contact Box Office on 01786 274000 or email: tolbooth@stirling.gov.uk</p><p>Venue: Tolbooth - Seated</p><p>Date: Thursday 26th November 2026</p><p>Door Times: 7pm</p><p>Tickets: £22.00</p>",
+    "description": "<p>Alan Carr’s Work in Progress event is now SOLD OUT.</p><p>If you would like to be added to a waiting list for returns please contact Box Office on 01786 274000 or email: tolbooth@stirling.gov.uk</p>",
     "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
     "longitude": -3.9428,
     "latitude": 56.1207,
@@ -180,21 +180,6 @@
     "category": 12
   },
   {
-    "id": 950712009,
-    "title": "Helicon + special guests Sarah/Shaun",
-    "description": "<p></p>",
-    "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
-    "longitude": -3.9428,
-    "latitude": 56.1207,
-    "venue_name": "Tolbooth",
-    "image_url": null,
-    "tickets_url": "https://stirlingevents.org/event/helicon-special-guests-sarah-shaun-566410/",
-    "url": "https://stirlingevents.org/event/helicon-special-guests-sarah-shaun-566410/",
-    "start_date": "2026-11-21 19:00:00",
-    "end_date": "2026-11-21 21:00:00",
-    "category": 12
-  },
-  {
     "id": 1042965784,
     "title": "Horse ",
     "description": "<p>A very special wintry performance with a smattering of songs and tales from the legendary and iconic Scottish singer songwriter Horse. From many years of performing, touring and recording, this is an opportunity to hear stripped back versions from her vast back catalogue and rare b sides - songs that don’t always make the band shows. Also, as she is now writing towards her next album, ( her 13th ) there will also be an introduction to some of the new songs. “A natural wonder with a voice as big as an ocean” Attitude mag “Where McDonald really sets herself apart is her showmanship. She has a wonderful ability to engage her audience with a perfect mix of humour and emotive storytelling“ the wee review Tickets: Advance: £29 (incl. £2 BF) On the door: £31 (incl. £2 BF)</p>",
@@ -207,6 +192,21 @@
     "url": "https://stirlingevents.org/event/horse-546410/",
     "start_date": "2026-12-05 19:30:00",
     "end_date": "2026-12-05 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 1718595047,
+    "title": "Hot Club of Cowtown",
+    "description": "<p>America's Premiere Hot Jazz & Western Swing Trio Since its beginnings in the late 1990s, the Hot Club of Cowtown’s star has continued to rise as its reputation for jaw-dropping virtuosity and unforgettable live shows has become the band’s global brand. Lauded for its “down-home melodies and exuberant improvisation” (The Times, London), the Hot Club has always woven a combination of seemingly disparate styles together to its own magical effect, setting up camp “at that crossroads where country meets jazz and chases the blues away” (The Independent), remaining “conscious always that above all else, the music is for dancing and an old-fashioned good time” (New York Times). The band’s musical alchemy has been described as “another breathless journey in the Texas tardis” (The Times, London), while American Songwriter observed that “the excellent three players of this band could be doing anything but have chosen to honour the greats of jazz and swing with their sound.” The Belfast Telegraph calls the Hot Club of Cowtown “a pretty much perfect country trio at the very top of their game,” and the New York Times, in a live review the trio as armed with “an arsenal full of technique and joy.” The Hot Club of Cowtown has toured extensively worldwide for over twenty-five years, both on its own and with artists including Bob Dylan, Willie Nelson, Gatemouth Brown, the Avett Brothers, Dan Hicks, Bryan Ferry, Roxy Music, the Squirrell Nut Zippers, the Mavericks, Dustbowl Revival, Tyler Hilton. Festivals<span class=\"ItalicText\">career highlights include the Women in Jazz series (part of Jazz at Lincoln Centre), the Cambridge Folk Festival (UK), the Glastonbury Festival (UK), the Fuji Rock Festival (Japan), Byron Bay Blues & Roots Festival (AU), the National Folk Festival (US and AU), the Stagecoach Festival, the Winnipeg Folk Festival (CA), Waiting for Waits Festival (SP), the grand opening of the Country Music Hall of Fame and Museum in Nashville, Tennessee, The Barns at Wolf Trap, the Rochester Jazz Festival, the Strawberry Festival, the Hardly Strictly Bluegrass Festival, traveling as US State Department Musical Ambassadors to Azerbaijan, Armenia, Algeria, the Republic of Georgia, and the Sultanate of Oman, and being inducted into the Texas Western Swing Hall of Fame. Tickets £24 standard (incl bf)£23 concession (incl bf) On the door standard £25 (incl bf)<span class=\"ItalicText\">£23 concession (incl bf)</p>",
+    "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
+    "longitude": -3.9428,
+    "latitude": 56.1207,
+    "venue_name": "Tolbooth",
+    "image_url": null,
+    "tickets_url": "https://stirlingevents.org/shows/hot-club-of-cowtown/",
+    "url": "https://stirlingevents.org/shows/hot-club-of-cowtown/",
+    "start_date": "2027-05-14 19:30:00",
+    "end_date": "2027-05-14 21:30:00",
     "category": 12
   },
   {
@@ -252,6 +252,21 @@
     "url": "https://stirlingevents.org/event/rachel-sermanni-572010/",
     "start_date": "2027-01-28 19:30:00",
     "end_date": "2027-01-28 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 3924008328,
+    "title": "James Grant ",
+    "description": "<p>The LOVE & MONEY frontman has a new record, ‘On The Sea The Sailor Dreams Of The Land, On The Land He Dreams Of The Sea’. Shows on this tour will feature the new album in the first half and a selection of classics in the second. ‘A ballsier Gram Parsons but with whisky-tinged Scottish poetry for lyrics’ The Word ‘One of Scotland’s most gifted songwriters... and what a marvellous singer he is, too, spanning darkly burnished baritone depths and searing soulful intensity’ Scotsman “Music from another place.” MOJO “Panoramic.” THE SCOTSMAN “Lyrics good enough to be read as poetry.” UNCUT “Elegant and seductive.” Q MAGAZINE Tickets: Advance: £25 standard / £23 concession On the door £27 standard / £25 concession All ticket prices include a £2 booking fee</p>",
+    "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
+    "longitude": -3.9428,
+    "latitude": 56.1207,
+    "venue_name": "Tolbooth",
+    "image_url": "https://system.spektrix.com/tolbooth/files/08d0b39d-b24f-4f54-a27c-b643d7029685.jpg",
+    "tickets_url": "https://stirlingevents.org/shows/james-grant/",
+    "url": "https://stirlingevents.org/shows/james-grant/",
+    "start_date": "2027-05-20 19:30:00",
+    "end_date": "2027-05-20 21:30:00",
     "category": 12
   },
   {
@@ -398,8 +413,8 @@
     "latitude": 56.1207,
     "venue_name": "Tolbooth",
     "image_url": "https://system.spektrix.com/tolbooth/files/6f03cee0-d62b-4d59-9251-5b270300b80b.jpg",
-    "tickets_url": "https://stirlingevents.org/shows/raymond-mearns-up-close-and-personal/",
-    "url": "https://stirlingevents.org/shows/raymond-mearns-up-close-and-personal/",
+    "tickets_url": "https://stirlingevents.org/event/raymond-mearns-up-close-and-personal-576610/",
+    "url": "https://stirlingevents.org/event/raymond-mearns-up-close-and-personal-576610/",
     "start_date": "2027-02-19 19:00:00",
     "end_date": "2027-02-19 21:00:00",
     "category": 3
@@ -538,6 +553,36 @@
     "start_date": "2027-01-30 19:30:00",
     "end_date": "2027-01-30 21:30:00",
     "category": 12
+  },
+  {
+    "id": 2165946957,
+    "title": "Thomas Benjamin Wild Esq. & Claire Hastings",
+    "description": "<p>Join us for an evening of contrasting (yet surprisingly complementary) ukulele stylings, perfect for fans of irreverent humour, ethereal folk music, raucous singalongs and evocative ballads. Viral sensation Thomas Benjamin Wild Esq. has been delivering his own brand of singalong, musical humour since 2016. The video for his sweary anthem ‘I’ve No More F<span class=\"BoldText\"><span class=\"BoldText\">s To Give’ has been viewed over 22 million times on YouTube alone and sent his debut album ‘Awkward Encounters While Walking My Dog’ to number 3 in the Billboard Comedy Album Chart in 2019. Since then he has released 4 more albums including numerous other (often sweary) viral classics that have clocked up millions more views across social media, and has toured extensively across the UK. Thomas takes inspiration from the wit and wisdom of the songwriters of the early mid 20th century and combines them with punk rock sensibilities to create pithy songs full of catchy tunes and social and political commentary that speak volumes about the times we live in. \"My kinda guy...\" - Bruce Campbell \"Delightful…\" - The Nerdist \"Sharper than a cavalry saber slicing open a bottle of 2002 vintage bubbles.\" - Get Your Coats On Dumfries born folksinger, songwriter and ukulele player Claire Hastings has made a name for herself on the folk scene since winning BBC Young Traditional Musician of the Year in 2015. Since then she has toured extensively and released three critically acclaimed studio albums, each weaving a mix of traditional, contemporary and original material with compelling storytelling through song. Standout performances include BBC’s Friday Night is Music Night alongside Lulu and Jamie Cullum, singing ‘Auld Lang Syne’ on BBC’s famous Hogmanay show and numerous folk and ukulele festival appearances at home and abroad including Celtic Connections, Festival Interceltique Lorient, Belfast Ukulele Festival and Canterbury Folk Festival. “Claire does more than simply sing a song, she takes you to the story and sits you comfortably right beside the singer” – FOLK RADIO UK “A compelling storyteller” STIRRINGS “A unique and original talent” MAVERICK Tickets £15 (incl bf)/£14 concession (incl bf) On the door £16 (incl bf)/£15 concession (incl bf)</p>",
+    "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
+    "longitude": -3.9428,
+    "latitude": 56.1207,
+    "venue_name": "Tolbooth",
+    "image_url": null,
+    "tickets_url": "https://stirlingevents.org/shows/thomas-benjamin-wild-esq-claire-hastings/",
+    "url": "https://stirlingevents.org/shows/thomas-benjamin-wild-esq-claire-hastings/",
+    "start_date": "2027-03-13 19:30:00",
+    "end_date": "2027-03-13 21:30:00",
+    "category": 12
+  },
+  {
+    "id": 1876468435,
+    "title": "Tolbooth Drummers (16+)",
+    "description": "<p>Participants must be age 16 or over and book for the full term and must be available for the Culture Night performance as well as the majority of workshops. Tolbooth Drummers uses a ‘pay what you can’ system as we want our creative learning programme to be accessible to all no matter their financial situation.</p>",
+    "address": "Tolbooth, Jail Wynd, Stirling, FK8 1DE",
+    "longitude": -3.9428,
+    "latitude": 56.1207,
+    "venue_name": "Tolbooth",
+    "image_url": "https://system.spektrix.com/tolbooth/files/9932d3c2-8e1e-462f-8f67-4b21a983ff14.jpg",
+    "tickets_url": "https://stirlingevents.org/shows/tolbooth-drummers-16/",
+    "url": "https://stirlingevents.org/shows/tolbooth-drummers-16/",
+    "start_date": "2026-12-05 11:00:00",
+    "end_date": "2026-12-05 13:00:00",
+    "category": 4
   },
   {
     "id": 137031377,
