@@ -1,20 +1,5 @@
 [
   {
-    "id": 4019990138,
-    "title": "Official F1® Arcade Las Vegas Watch Party",
-    "description": "<p>Catch all the action live at F1® Arcade. Get the ultimate race day experience at our early morning Watch Parties. </p><p><strong>TIMINGS:</strong></p><ul><li>Watch Party starts: 3am </li><li>Race starts: 4am </li><li>Open sim racing: 3am-6am</li></ul><p><strong>GENERAL ADMISSION</strong></p><p>Ticket includes open sim racing plus unlimited tea and coffee before and throughout the race. Take the driver’s seat and put your skills to the test on the track, then dive into our complimentary mini-games, including React and Lights Out.</p><p>After each sim race, please be mindful of other guests to ensure everyone gets a chance to race.</p>",
-    "address": "F1 Arcade Birmingham, 2 Chamberlain Square, Birmingham, B3 3AX",
-    "longitude": -1.9052556581671303,
-    "latitude": 52.4800262603648,
-    "venue_name": "F1 Arcade Birmingham",
-    "image_url": "https://s3.eu-central-1.amazonaws.com/yt-s3/949606be-81cc-4317-b924-7149b3ccf1e8.jpg",
-    "tickets_url": "https://birmingham.events.f1arcade.com/event/official-f1-arcade-las-vegas-watch-party-jtk7nr",
-    "url": "https://birmingham.events.f1arcade.com/event/official-f1-arcade-las-vegas-watch-party-jtk7nr",
-    "start_date": "2026-11-22 03:00:00",
-    "end_date": "2026-11-22 06:00:00",
-    "category": 18
-  },
-  {
     "id": 2800080736,
     "title": "Official F1® Arcade Lusail Watch Party",
     "description": "<p>Experience all the race day energy at F1® Arcade. </p><p><strong>TIMINGS:  </strong></p><p>Venue opens: 10am (get in early to soak up the atmosphere) </p><ul><li>Watch Party starts: 3pm </li><li>Race starts: 4pm</li><li>Open sim racing: 3pm - 6pm </li></ul><p><strong>GENERAL ADMISSION </strong> </p><p>Your ticket includes open sim racing from one hour before lights out until the end of the Watch Party. Between the race action, jump into the driver’s seat for head-to-head battles on track, and take on our complimentary mini-games, including React and Lights Out.</p><p>Enjoy a DJ throughout the day and a live host during the Watch Party, plus quizzes and competitions, including our fastest-lap challenge to keep the energy high from start to finish.</p><p>After each sim race, please be considerate of other guests to ensure everyone gets a chance to race.</p><p><em>PLEASE NOTE SEATING IS </em><em><strong>NOT</strong></em><em> GUARANTEED AND IS ON A FIRST COME FIRST SERVED BASIS</em>.</p><p><strong>CLUB ENCLOSURE </strong></p><p>Upgrade your Watch Party experience with our Club Enclosure ticket, our exclusive, semi-private area where you’ll be the centre of the action in premium seats. </p><p>What’s included: </p><p>Allocated seat in our exclusive Club Enclosure area </p><p>Selection of sharers and a choice of main; Chicken, Beef or Plant Burger, or Caesar/Superbowl Salad 4 House Drinks (House Beer, Wine, Mocktails, Soft Drinks).</p>",
@@ -43,6 +28,21 @@
     "start_date": "2026-12-06 12:00:00",
     "end_date": "2026-12-06 15:00:00",
     "category": 18
+  },
+  {
+    "id": 1158686748,
+    "title": "New Year's Eve Party",
+    "description": "<p>Skip the usual countdown and celebrate New Year's Eve with an evening of racing, cocktails, great food and live entertainment.</p><p>Whether you're battling friends on the track, catching up over drinks or dancing your way into the New Year, we've got everything you need for an unforgettable night.</p><p>YOUR NEW YEAR'S EVE EXPERIENCE</p><p><strong>TABLE TICKET </strong></p><p>Includes:</p><p>RESERVED TABLE SEATING</p><p>If members of your group book separately, please let the venue know so we can seat you together. To make the most of the space available, smaller groups may share a table with another party.</p><p>SIM RACING</p><p>Take on friends and family in our full-motion racing simulators throughout the night.</p><p>FOOD &amp; DRINK CREDIT </p><p>Enjoy a welcome cocktail or alcohol-free alternative on arrival, plus £25 food and drink credit to spend throughout the evening. </p><p>MIDNIGHT TOAST</p><p>Raise a glass with a champagne toast at midnight.</p><p>LIVE ENTERTAINMENT</p><p>Enjoy live music, DJs and dancing through to the early hours.</p><p><strong>GENERAL ADMISSION</strong> </p><p>Includes:</p><p>OPEN SIM RACING</p><p>Take on friends and family in our full-motion racing simulators throughout the night.</p><p>MIDNIGHT TOAST</p><p>Celebrate the New Year with a glass of bubbles at midnight.</p><p>LIVE ENTERTAINMENT</p><p>Live music, DJs and dancing through to the early hours.</p><p>Please note: Reserved seating is not included with General Admission tickets.</p>",
+    "address": "F1 Arcade Birmingham, 2 Chamberlain Square, Birmingham, B3 3AX",
+    "longitude": -1.9052556581671303,
+    "latitude": 52.4800262603648,
+    "venue_name": "F1 Arcade Birmingham",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/yt-s3/8a63debc-8003-4562-a501-68e84fcea0f9.png",
+    "tickets_url": "https://birmingham.events.f1arcade.com/event/new-years-eve-party-wxnlqg",
+    "url": "https://birmingham.events.f1arcade.com/event/new-years-eve-party-wxnlqg",
+    "start_date": "2026-12-31 18:00:00",
+    "end_date": "2027-01-01 01:00:00",
+    "category": 16
   },
   {
     "id": 2912750433,
