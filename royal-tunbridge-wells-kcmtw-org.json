@@ -1,20 +1,5 @@
 [
   {
-    "id": 2568149488,
-    "title": "Concert: Wachet Auf!",
-    "description": "<p>Steven Devine conducts our annual festive Baroque concert.</p>",
-    "address": "King Charles the Martyr, 3 Warwick Park, Tunbridge Wells, TN2 5TA",
-    "longitude": 0.259272,
-    "latitude": 51.12677,
-    "venue_name": "King Charles the Martyr",
-    "image_url": "https://cdn.churchsuite.com/EKDeGmiS/calendar/events/138_z2OaCNJv_md.jpg",
-    "tickets_url": "https://kingcharleschurch.churchsuite.com/events/nfvcriv6",
-    "url": "https://kingcharleschurch.churchsuite.com/events/nfvcriv6",
-    "start_date": "2026-11-21 19:00:00",
-    "end_date": "2026-11-21 21:00:00",
-    "category": 12
-  },
-  {
     "id": 1583967370,
     "title": "Christmas wreath making workshop",
     "description": "<p>Luxury 12\" wreath with as much greenery and as many decorations as you like.<br />£60. All proceeds to the Hall4All campaign.<br />Contact Alexandra Douglas. Email flowers@kcmtw.org<br /><br /></p>",
@@ -27,7 +12,7 @@
     "url": "https://kingcharleschurch.churchsuite.com/events/u455egjr",
     "start_date": "2026-12-05 10:00:00",
     "end_date": "2026-12-05 13:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 3407050917,
@@ -42,7 +27,7 @@
     "url": "https://kingcharleschurch.churchsuite.com/events/ibpcvto1",
     "start_date": "2026-12-06 10:00:00",
     "end_date": "2026-12-06 13:00:00",
-    "category": 29
+    "category": 25
   },
   {
     "id": 2365751556,
