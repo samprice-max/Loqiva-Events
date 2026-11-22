@@ -1,20 +1,5 @@
 [
   {
-    "id": 3028479523,
-    "title": "Inverness CT v Ayr United",
-    "description": "<p>Inverness CT v Ayr United at the Sarens PSG Stadium. Kick-off 7:30pm.</p>",
-    "address": "Sarens PSG Stadium, Stadium Rd, Tulloch, Inverness, IV1 1FF",
-    "longitude": -4.216441257796445,
-    "latitude": 57.49546475350678,
-    "venue_name": "Sarens PSG Stadium",
-    "image_url": "https://ictfc.com/wp-content/uploads/2025/06/220px-Inverness_Caledonian_Thistle.svg.png",
-    "tickets_url": "https://ictfc.com/match-tickets/",
-    "url": "https://ictfc.com/event/21247/",
-    "start_date": "2026-11-20 19:30:00",
-    "end_date": "2026-11-20 21:30:00",
-    "category": 18
-  },
-  {
     "id": 2084766331,
     "title": "Inverness CT v Queen’s Park",
     "description": "<p>Inverness CT v Queen’s Park at the Sarens PSG Stadium. Kick-off 3pm.</p>",
