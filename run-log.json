@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-26T17:22:10.945Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "Kirkaldy's Testing Works",
+        "url": "https://www.eventbrite.co.uk/o/kirkaldys-testing-works-20141450080",
+        "filename": "bankside-kirkaldy-s-testing-works.json",
+        "events": 14,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 14,
+    "errors": [],
+    "duration_seconds": 4
+  },
+  {
     "timestamp": "2026-11-26T17:10:35.953Z",
     "hub": "Bankside",
     "venues": [
@@ -1470,22 +1486,6 @@
   },
   {
     "timestamp": "2026-10-23T10:19:47.802Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "The Imperial",
-        "url": "https://theimperialpub.com/football-2-2",
-        "filename": "inverness-theimperialpub-com.json",
-        "events": 59,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 59,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-23T10:17:31.229Z",
     "hub": "Inverness",
     "venues": [
       {
