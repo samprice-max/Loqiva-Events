@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-26T16:43:50.682Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "The Free Association",
+        "url": "https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on",
+        "filename": "bankside-the-free-association.json",
+        "events": 44,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 44,
+    "errors": [],
+    "duration_seconds": 31
+  },
+  {
     "timestamp": "2026-11-22T23:18:11.883Z",
     "hub": "Stirling",
     "venues": [
@@ -1483,42 +1499,5 @@
     "total_events": 2,
     "errors": [],
     "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-18T22:17:50.370Z",
-    "hub": "Stirling",
-    "venues": [
-      {
-        "venue": "The Albert Halls",
-        "url": "https://stirlingevents.org/whats-on/venue/albert-halls/",
-        "filename": "stirling-the-albert-halls.json",
-        "events": 32,
-        "status": "healthy"
-      },
-      {
-        "venue": "Tolbooth",
-        "url": "https://stirlingevents.org/whats-on/venue/tolbooth/",
-        "filename": "stirling-tolbooth.json",
-        "events": 47,
-        "status": "healthy"
-      },
-      {
-        "venue": "Macrobert Arts Centre",
-        "url": "https://www.macrobertartscentre.org/whats-on/",
-        "filename": "stirling-macrobert-arts-centre.json",
-        "events": 116,
-        "status": "healthy"
-      },
-      {
-        "venue": "Fubar",
-        "url": "https://www.skiddle.com/whats-on/Stirling/Fubar/",
-        "filename": "stirling-fubar.json",
-        "events": 13,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 208,
-    "errors": [],
-    "duration_seconds": 1068
   }
 ]
