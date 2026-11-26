@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-26T16:56:37.071Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "Southwark Cathedral",
+        "url": "https://cathedral.southwark.anglican.org/whats-on/",
+        "filename": "bankside-southwark-cathedral.json",
+        "events": 30,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 30,
+    "errors": [],
+    "duration_seconds": 3
+  },
+  {
     "timestamp": "2026-11-26T16:54:54.517Z",
     "hub": "Bankside",
     "venues": [
@@ -1470,22 +1486,6 @@
   },
   {
     "timestamp": "2026-10-23T10:07:16.810Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "Hootananny",
-        "url": "https://hootanannyinverness.co.uk/live-music/",
-        "filename": "inverness-hootanannyinverness-co-uk.json",
-        "events": 15,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 15,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-23T10:05:44.074Z",
     "hub": "Inverness",
     "venues": [
       {
