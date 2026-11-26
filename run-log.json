@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-26T17:22:16.573Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "LCCM",
+        "url": "https://www.eventbrite.co.uk/o/lccm-10749538705",
+        "filename": "bankside-lccm.json",
+        "events": 13,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 13,
+    "errors": [],
+    "duration_seconds": 4
+  },
+  {
     "timestamp": "2026-11-26T17:22:10.945Z",
     "hub": "Bankside",
     "venues": [
@@ -1483,21 +1499,5 @@
     "total_events": 3,
     "errors": [],
     "duration_seconds": 3
-  },
-  {
-    "timestamp": "2026-10-23T10:19:47.802Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "The Imperial",
-        "url": "https://theimperialpub.com/football-2-2",
-        "filename": "inverness-theimperialpub-com.json",
-        "events": 59,
-        "status": "healthy"
-      }
-    ],
-    "total_events": 59,
-    "errors": [],
-    "duration_seconds": 2
   }
 ]
