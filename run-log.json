@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-11-26T16:54:54.517Z",
+    "hub": "Bankside",
+    "venues": [
+      {
+        "venue": "Southwark Cathedral",
+        "url": "https://cathedral.southwark.anglican.org/whats-on/",
+        "filename": "bankside-southwark-cathedral.json",
+        "events": 30,
+        "status": "healthy"
+      }
+    ],
+    "total_events": 30,
+    "errors": [],
+    "duration_seconds": 4
+  },
+  {
     "timestamp": "2026-11-26T16:43:50.682Z",
     "hub": "Bankside",
     "venues": [
@@ -1481,22 +1497,6 @@
       }
     ],
     "total_events": 15,
-    "errors": [],
-    "duration_seconds": 2
-  },
-  {
-    "timestamp": "2026-10-23T09:56:47.642Z",
-    "hub": "Inverness",
-    "venues": [
-      {
-        "venue": "The Malt Room",
-        "url": "https://www.themaltroom.co.uk/shop",
-        "filename": "inverness-themaltroom-co-uk.json",
-        "events": 2,
-        "status": "low"
-      }
-    ],
-    "total_events": 2,
     "errors": [],
     "duration_seconds": 2
   }
